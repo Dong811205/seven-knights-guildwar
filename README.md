@@ -1,5 +1,19 @@
 # 七騎士 Re:BIRTH 角色與技能資料庫 v0.2
 
+## 手機直接查詢
+
+**[開啟七騎士公會戰出刀助手](https://seven-knights-guildwar-mobile.nurturingfly2.chatgpt.site)**
+
+手機與電腦皆可使用；目前為私人網站，使用擁有者的ChatGPT帳號開啟。
+
+- 選擇敵方三名角色，查詢來源有利作業。
+- 核對站位、覺醒狀態、寵物、技能預約與配裝。
+- 查角色技能，設定持有／本場已用角色並篩選。
+- 收藏與最近查詢儲存在目前裝置。
+
+[下載手機網站完整原始碼 v0.3](downloads/SevenKnights_Mobile_v0.3.zip)，包含125張角色縮圖、完整資料快照及靜態HTML/JS/CSS。解壓後使用靜態HTTP伺服器開啟；直接雙擊HTML可能因瀏覽器限制而無法讀取JSON。
+
+
 完整壓縮包：[下載 v0.2](downloads/SevenKnights_Database_v0.2.zip)。
 
 建立日期：2026/11/16。範圍：全球版公開角色資料，附繁中與英文對照。
