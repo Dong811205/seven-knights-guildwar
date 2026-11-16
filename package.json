@@ -1,6 +1,6 @@
 {
   "name": "seven-knights-guildwar",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "七騎士公會戰出刀助手與 Discord 公會內部攻略",
   "directories": {
     "test": "tests"
@@ -26,6 +26,7 @@
   "private": true,
   "devDependencies": {
     "@electric-sql/pglite": "0.5.16",
-    "esbuild": "0.28.2"
+    "esbuild": "0.28.2",
+    "jsdom": "31.0.1"
   }
 }

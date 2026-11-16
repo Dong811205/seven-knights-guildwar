@@ -1,0 +1,224 @@
+{
+  "updated_at": "2026-11-16",
+  "sources": {
+    "pets": "https://7katlas.com/pets.tw.html",
+    "sets": "https://7katlas.com/calculator.tw.html",
+    "background": "https://sena.netmarble.com/tc/"
+  },
+  "formations": [
+    {
+      "name": "基本陣型",
+      "front": 2,
+      "back": 3
+    },
+    {
+      "name": "平衡陣型",
+      "front": 3,
+      "back": 2
+    },
+    {
+      "name": "攻擊陣型",
+      "front": 1,
+      "back": 4
+    },
+    {
+      "name": "保護陣型",
+      "front": 4,
+      "back": 1
+    }
+  ],
+  "legendary_pets": [
+    {
+      "id": "nezuko-kamado",
+      "name_tw": "竈門禰豆子",
+      "name": "Nezuko Kamado",
+      "rarity": "L",
+      "release_date": "2026-10-01",
+      "icon": "assets/pets/nezuko-kamado.webp"
+    },
+    {
+      "id": "yorang",
+      "name_tw": "悠藍",
+      "name": "Yorang",
+      "rarity": "L",
+      "release_date": "2026-04-16",
+      "icon": "assets/pets/yorang.webp"
+    },
+    {
+      "id": "jeo",
+      "name_tw": "杰烏",
+      "name": "Jeo",
+      "rarity": "L",
+      "release_date": "2026-04-16",
+      "icon": "assets/pets/jeo.webp"
+    },
+    {
+      "id": "jeb",
+      "name_tw": "傑普",
+      "name": "Jeb",
+      "rarity": "L",
+      "release_date": "2026-04-16",
+      "icon": "assets/pets/jeb.webp"
+    },
+    {
+      "id": "yu",
+      "name_tw": "小艾",
+      "name": "Yu",
+      "rarity": "L",
+      "release_date": "2025-12-12",
+      "icon": "assets/pets/yu.webp"
+    },
+    {
+      "id": "windy",
+      "name_tw": "溫迪",
+      "name": "Windy",
+      "rarity": "L",
+      "release_date": "2025-12-12",
+      "icon": "assets/pets/windy.webp"
+    },
+    {
+      "id": "merparrow",
+      "name_tw": "梅佩洛",
+      "name": "Merparrow",
+      "rarity": "L",
+      "release_date": "2025-12-12",
+      "icon": "assets/pets/merparrow.webp"
+    },
+    {
+      "id": "karam",
+      "name_tw": "卡萊",
+      "name": "Karam",
+      "rarity": "L",
+      "release_date": "2025-12-12",
+      "icon": "assets/pets/karam.webp"
+    },
+    {
+      "id": "yeonji",
+      "name_tw": "妍芝",
+      "name": "Yeonji",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/yeonji.webp"
+    },
+    {
+      "id": "ruu",
+      "name_tw": "路路",
+      "name": "Ruu",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/ruu.webp"
+    },
+    {
+      "id": "richel",
+      "name_tw": "潔兒",
+      "name": "Richel",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/richel.webp"
+    },
+    {
+      "id": "pike",
+      "name_tw": "帕依克",
+      "name": "Pike",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/pike.webp"
+    },
+    {
+      "id": "mole",
+      "name_tw": "克奇",
+      "name": "Mole",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/mole.webp"
+    },
+    {
+      "id": "mick",
+      "name_tw": "秘客",
+      "name": "Mick",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/mick.webp"
+    },
+    {
+      "id": "kree",
+      "name_tw": "克里",
+      "name": "Kree",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/kree.webp"
+    },
+    {
+      "id": "eri",
+      "name_tw": "艾莉",
+      "name": "Eri",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/eri.webp"
+    },
+    {
+      "id": "eirin",
+      "name_tw": "依林",
+      "name": "Eirin",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/eirin.webp"
+    },
+    {
+      "id": "dello",
+      "name_tw": "戴倫",
+      "name": "Dello",
+      "rarity": "L",
+      "release_date": "2025-05-15",
+      "icon": "assets/pets/dello.webp"
+    }
+  ],
+  "unreleased_pet_count": 5,
+  "sets": [
+    {
+      "id": "bounty",
+      "name": "追蹤者",
+      "icon": "assets/sets/bounty.webp"
+    },
+    {
+      "id": "assassin",
+      "name": "刺客",
+      "icon": "assets/sets/assassin.webp"
+    },
+    {
+      "id": "spellweaver",
+      "name": "咒術師",
+      "icon": "assets/sets/spellweaver.webp"
+    },
+    {
+      "id": "vanguard",
+      "name": "先鋒",
+      "icon": "assets/sets/vanguard.webp"
+    },
+    {
+      "id": "orchestrator",
+      "name": "協調者",
+      "icon": "assets/sets/orchestrator.webp"
+    },
+    {
+      "id": "avenger",
+      "name": "復仇者",
+      "icon": "assets/sets/avenger.webp"
+    },
+    {
+      "id": "paladin",
+      "name": "聖騎士",
+      "icon": "assets/sets/paladin.webp"
+    },
+    {
+      "id": "gatekeeper",
+      "name": "守門將",
+      "icon": "assets/sets/gatekeeper.webp"
+    },
+    {
+      "id": "guardian",
+      "name": "守護者",
+      "icon": "assets/sets/guardian.webp"
+    }
+  ]
+}
