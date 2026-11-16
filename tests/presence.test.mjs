@@ -1,0 +1,32 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {PGlite} from '@electric-sql/pglite';
+import {readFile} from 'node:fs/promises';
+const pg=new PGlite();
+const guild='99999999-9999-4999-8999-999999999999',other='88888888-8888-4888-8888-888888888888';
+const user='11111111-1111-4111-8111-111111111111',peer='22222222-2222-4222-8222-222222222222',outsider='33333333-3333-4333-8333-333333333333';
+async function as(id,sql,args=[]){await pg.exec(`set role authenticated; select set_config('request.jwt.claim.sub','${id}',false)`);try{return await pg.query(sql,args)}finally{await pg.exec('reset role')}}
+test('presence authenticates caller, isolates guilds, expires without extending roles',async()=>{
+ await pg.exec(`create role anon;create role authenticated;create schema auth;create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema auth to authenticated;grant execute on function auth.uid() to authenticated;create schema gvg_private;create table public.gvg_members(guild_id uuid,user_id uuid,nickname text,status text default 'active',checked_until timestamptz,primary key(guild_id,user_id));create function gvg_private.is_member(g uuid) returns boolean language sql stable security definer set search_path='' as $$select exists(select 1 from public.gvg_members where guild_id=g and user_id=auth.uid() and checked_until>now() and status='active')$$;`);
+ await pg.exec(await readFile(new URL('../supabase/migrations/20261116153742_guild_online_presence.sql',import.meta.url),'utf8'));
+ await pg.exec('grant usage on schema gvg_private to authenticated');
+ await pg.exec(await readFile(new URL('../supabase/migrations/20261116153925_presence_rpc_boundaries.sql',import.meta.url),'utf8'));
+ for(const [g,u,n]of [[guild,user,'user'],[guild,peer,'peer'],[other,outsider,'outside']])await pg.query("insert into public.gvg_members values($1,$2,$3,'active',now()+interval '2 minutes')",[g,u,n]);
+ const expiry=(await pg.query('select checked_until from public.gvg_members where user_id=$1',[user])).rows[0].checked_until;
+ await as(user,'select public.gvg_presence_heartbeat($1)',[guild]);
+ let rows=(await as(user,'select * from public.gvg_online_members($1)',[guild])).rows;
+ assert.equal(rows.length,2);assert.equal(rows.find(x=>x.user_id===user).online,true);assert.equal(rows.find(x=>x.user_id===peer).online,false);
+ assert.equal(+(await pg.query('select checked_until from public.gvg_members where user_id=$1',[user])).rows[0].checked_until,+expiry);
+ for(const id of [user,outsider])await assert.rejects(as(id,'select public.gvg_online_members($1)',[id===user?other:guild]));
+ await assert.rejects(as(outsider,'select public.gvg_presence_heartbeat($1)',[guild]));
+ await assert.rejects(as(user,'select * from gvg_private.website_presence'));
+ await pg.exec('set role anon');await assert.rejects(pg.query('select public.gvg_online_members($1)',[guild]));await pg.exec('reset role');
+ await pg.query("update gvg_private.website_presence set last_seen=now()-interval '76 seconds'");
+ rows=(await as(user,'select * from public.gvg_online_members($1)',[guild])).rows;assert.equal(rows.every(x=>!x.online),true);
+ await as(peer,'select public.gvg_presence_heartbeat($1)',[guild]);
+ await pg.query("update public.gvg_members set checked_until=now()-interval '1 second' where user_id=$1",[peer]);
+ assert.equal((await as(user,'select * from public.gvg_online_members($1)',[guild])).rows.find(x=>x.user_id===peer).online,false);
+ await assert.rejects(as(peer,'select public.gvg_presence_heartbeat($1)',[guild]));await assert.rejects(as(peer,'select public.gvg_online_members($1)',[guild]));
+ await pg.query('delete from public.gvg_members where user_id=$1',[user]);assert.equal((await pg.query('select * from gvg_private.website_presence where user_id=$1',[user])).rows.length,0);
+ await pg.close();
+});

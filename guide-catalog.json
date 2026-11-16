@@ -3,7 +3,9 @@
   "sources": {
     "pets": "https://7katlas.com/pets.tw.html",
     "sets": "https://7katlas.com/calculator.tw.html",
-    "background": "https://sena.netmarble.com/tc/"
+    "background": "https://sena.netmarble.com/tc/",
+    "equipment": "https://7katlas.com/calculator.tw.html",
+    "role_icons": "https://7katlas.com/hero-panel.js"
   },
   "formations": [
     {
@@ -220,5 +222,378 @@
       "name": "守護者",
       "icon": "assets/sets/guardian.webp"
     }
-  ]
+  ],
+  "role_icons": {
+    "Attack": "assets/types/Attack.webp",
+    "Magic": "assets/types/Magic.webp",
+    "Defense": "assets/types/Defense.webp",
+    "Support": "assets/types/Support.webp",
+    "Universal": "assets/types/Universal.webp"
+  },
+  "equipment": {
+    "weapon_main": [
+      {
+        "key": "WeaknessHit",
+        "label": "弱點攻擊機率"
+      },
+      {
+        "key": "Crit",
+        "label": "暴擊機率"
+      },
+      {
+        "key": "CritDMG",
+        "label": "暴擊傷害"
+      },
+      {
+        "key": "AllATK%",
+        "label": "所有攻擊力%"
+      },
+      {
+        "key": "DEF%",
+        "label": "防禦力%"
+      },
+      {
+        "key": "HP%",
+        "label": "生命力%"
+      },
+      {
+        "key": "AllATK",
+        "label": "所有攻擊力"
+      },
+      {
+        "key": "DEF",
+        "label": "防禦力"
+      },
+      {
+        "key": "HP",
+        "label": "生命力"
+      },
+      {
+        "key": "EffectHit",
+        "label": "效果命中"
+      }
+    ],
+    "armor_main": [
+      {
+        "key": "Block",
+        "label": "格擋機率"
+      },
+      {
+        "key": "DmgTakenReduce",
+        "label": "受到的傷害減少"
+      },
+      {
+        "key": "AllATK%",
+        "label": "所有攻擊力%"
+      },
+      {
+        "key": "DEF%",
+        "label": "防禦力%"
+      },
+      {
+        "key": "HP%",
+        "label": "生命力%"
+      },
+      {
+        "key": "AllATK",
+        "label": "所有攻擊力"
+      },
+      {
+        "key": "DEF",
+        "label": "防禦力"
+      },
+      {
+        "key": "HP",
+        "label": "生命力"
+      },
+      {
+        "key": "EffectRes",
+        "label": "效果抵抗"
+      }
+    ],
+    "accessory_rarities": [
+      {
+        "key": "L",
+        "label": "傳說"
+      },
+      {
+        "key": "R",
+        "label": "稀有"
+      },
+      {
+        "key": "UC",
+        "label": "高級"
+      },
+      {
+        "key": "C",
+        "label": "一般"
+      }
+    ],
+    "accessory_effects": [
+      {
+        "key": "DMG",
+        "label": "所有傷害",
+        "rarity": "C"
+      },
+      {
+        "key": "DEF",
+        "label": "防禦力",
+        "rarity": "C"
+      },
+      {
+        "key": "CritRate",
+        "label": "暴擊機率",
+        "rarity": "C"
+      },
+      {
+        "key": "BlockRate",
+        "label": "格擋機率",
+        "rarity": "C"
+      },
+      {
+        "key": "WeaknessHit",
+        "label": "弱點攻擊",
+        "rarity": "C"
+      },
+      {
+        "key": "HP",
+        "label": "生命力",
+        "rarity": "C"
+      },
+      {
+        "key": "EffectHit",
+        "label": "效果命中",
+        "rarity": "C"
+      },
+      {
+        "key": "EffectRes",
+        "label": "效果抵抗",
+        "rarity": "C"
+      },
+      {
+        "key": "BuffRemove",
+        "label": "Buff解除",
+        "rarity": "UC"
+      },
+      {
+        "key": "ReduceBuffDuration",
+        "label": "回合制Buff減少",
+        "rarity": "UC"
+      },
+      {
+        "key": "Stun",
+        "label": "暈眩",
+        "rarity": "UC"
+      },
+      {
+        "key": "Silence",
+        "label": "沉默",
+        "rarity": "UC"
+      },
+      {
+        "key": "Death",
+        "label": "即死",
+        "rarity": "UC"
+      },
+      {
+        "key": "Paralysis",
+        "label": "麻痺",
+        "rarity": "UC"
+      },
+      {
+        "key": "Shock",
+        "label": "觸電",
+        "rarity": "UC"
+      },
+      {
+        "key": "Blind",
+        "label": "失明",
+        "rarity": "UC"
+      },
+      {
+        "key": "Freeze",
+        "label": "凍結",
+        "rarity": "UC"
+      },
+      {
+        "key": "Petrify",
+        "label": "石化",
+        "rarity": "UC"
+      },
+      {
+        "key": "Sleep",
+        "label": "睡眠",
+        "rarity": "UC"
+      },
+      {
+        "key": "Bleed",
+        "label": "出血",
+        "rarity": "UC"
+      },
+      {
+        "key": "Burn",
+        "label": "灼傷",
+        "rarity": "UC"
+      },
+      {
+        "key": "Poison",
+        "label": "中毒",
+        "rarity": "UC"
+      },
+      {
+        "key": "BarrierATK",
+        "label": "防護罩（攻擊力）",
+        "rarity": "R"
+      },
+      {
+        "key": "BarrierDEF",
+        "label": "防護罩（防禦力）",
+        "rarity": "R"
+      },
+      {
+        "key": "BarrierHP",
+        "label": "防護罩（生命力）",
+        "rarity": "R"
+      },
+      {
+        "key": "BossDMG",
+        "label": "Boss傷害",
+        "rarity": "R"
+      },
+      {
+        "key": "HealBack",
+        "label": "逆轉治療",
+        "rarity": "R"
+      },
+      {
+        "key": "13AOE",
+        "label": "1~3名對象傷害",
+        "rarity": "R"
+      },
+      {
+        "key": "45AOE",
+        "label": "4~5名對象傷害",
+        "rarity": "R"
+      },
+      {
+        "key": "100Day",
+        "label": "100日紀念戒指",
+        "rarity": "R"
+      },
+      {
+        "key": "200Day",
+        "label": "200日紀念戒指",
+        "rarity": "R"
+      },
+      {
+        "key": "400Day",
+        "label": "400日紀念戒指",
+        "rarity": "R"
+      },
+      {
+        "key": "1Anniv",
+        "label": "1週年紀念戒指",
+        "rarity": "R"
+      },
+      {
+        "key": "Guts",
+        "label": "權能",
+        "rarity": "L"
+      },
+      {
+        "key": "Immortal",
+        "label": "不死",
+        "rarity": "L"
+      },
+      {
+        "key": "Revive",
+        "label": "復活",
+        "rarity": "L"
+      }
+    ],
+    "exclusive_tuning": [
+      {
+        "key": "AllATK%",
+        "label": "所有攻擊力%",
+        "values": [
+          5,
+          7,
+          12
+        ]
+      },
+      {
+        "key": "DEF%",
+        "label": "防禦力%",
+        "values": [
+          5,
+          7,
+          12
+        ]
+      },
+      {
+        "key": "HP%",
+        "label": "生命力%",
+        "values": [
+          5,
+          7,
+          12
+        ]
+      },
+      {
+        "key": "EffectHit",
+        "label": "效果命中",
+        "values": [
+          4,
+          6,
+          10
+        ]
+      },
+      {
+        "key": "EffectRes",
+        "label": "效果抵抗",
+        "values": [
+          4,
+          6,
+          10
+        ]
+      },
+      {
+        "key": "DMGAmp",
+        "label": "傷害增幅",
+        "values": [
+          1.6,
+          2.4,
+          4
+        ]
+      },
+      {
+        "key": "Crush",
+        "label": "破碎",
+        "values": [
+          4.8,
+          7.2,
+          12
+        ]
+      },
+      {
+        "key": "Resilience",
+        "label": "誕生",
+        "values": [
+          6,
+          9,
+          15
+        ]
+      },
+      {
+        "key": "Rejuvenate",
+        "label": "再生",
+        "values": [
+          2.4,
+          3.6,
+          6
+        ]
+      }
+    ],
+    "exclusive_tuning_scope": "調律屬性為所有角色共用池；角色各自的專屬裝備技能不在此選單。"
+  }
 }
