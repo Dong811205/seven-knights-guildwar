@@ -31,3 +31,8 @@
 - Rebuild with `python tools/prepare_skill_catalog.py /absolute/source_cache`. The import aborts on missing source forms or invalid/non-WebP downloads. Copyrights remain with Netmarble and the respective rights holders.
 
 - 覺醒型態角色頭像使用來源 `portraits.awk` 對應原始縮圖，路徑依來源 `hero-panel.js` 的 `thumbOf`（`images/heroes/raw/` → `images/heroes/thumb/`）取得，與技能型態一致；不混用未覺醒頭像。
+
+## v0.9.0 查核
+
+陣型數量核對來源：https://gamewith.net/sevenknights-rebirth/70387 及 `https://7katlas.com/BUILD%20CALCULATOR/formation.js`，繁中名稱核對既有 `lang/tw/ui.js`。四種名稱與五人槽位不交換；網站另外標示攻略隊伍實際3人前後排。
+紀念戒指效果參考既有 `acc-icons.js` 的100Day/200Day/400Day/1Anniv數值，並以 https://gamewith.net/sevenknights-rebirth/71664 交叉核對觸發條件。

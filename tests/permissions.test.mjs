@@ -12,6 +12,7 @@ async function denied(user,sql,params=[]){await assert.rejects(as(user,()=>pg.qu
 test('setup migration and Discord-only membership',async()=>{
  await pg.exec(`create role anon;create role authenticated;create role service_role bypassrls;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema auth to authenticated,anon,service_role;grant execute on function auth.uid() to authenticated,anon,service_role;create schema storage;create table storage.buckets(id text primary key,name text,public boolean,file_size_limit bigint,allowed_mime_types text[]);create table storage.objects(id uuid default gen_random_uuid(),bucket_id text,name text);alter table storage.objects enable row level security;grant usage on schema storage to authenticated;grant select,insert,delete on storage.objects to authenticated;create function storage.foldername(name text) returns text[] language sql immutable as $$select (string_to_array(name,'/'))[1:array_length(string_to_array(name,'/'),1)-1]$$;`);
  await pg.exec(await readFile(new URL('../supabase/migrations/20261116130259_discord_guild_guides.sql',import.meta.url),'utf8'));
+ await pg.exec(await readFile(new URL('../supabase/migrations/20261116171142_screenshot_posts_enemy_queue.sql',import.meta.url),'utf8'));
  for(const id of Object.values(ids))await pg.query('insert into auth.users values ($1)',[id]);
  guild=(await pg.query('select id from public.gvg_guilds')).rows[0].id;
  await pg.query(`update gvg_private.discord_config set discord_guild_id='123456789012345678',viewer_role_ids=array['view'],editor_role_ids=array['edit'],admin_role_ids=array['admin']`);
@@ -72,5 +73,19 @@ test('expired, removed and downgraded roles lose data and editing access',async(
  assert.equal((await as(ids.editor,()=>pg.query("update public.gvg_guides set title='降權後修改' returning id"))).rows.length,0);
  const deniedResult=await pg.query('select public.gvg_sync_discord_member($1,$2,$3,$4)',[ids.editor,'123456789012345678','editor',[]]);assert.equal(deniedResult.rows[0].gvg_sync_discord_member.allowed,false);
  assert.equal((await as(ids.editor,()=>pg.query('select * from public.gvg_guides'))).rows.length,0);
+
+});
+
+test('screenshot posts remain guild private, require images before publishing, and enforce ten attachments',async()=>{
+ await pg.query('select public.gvg_sync_discord_member($1,$2,$3,$4)',[ids.editor,'123456789012345678','editor',['edit']]);
+ const build={kind:'screenshots',quick_count:0,heroes:[],matchups:[]};
+ const res=await as(ids.editor,()=>pg.query("insert into public.gvg_guides(guild_id,title,status,build) values($1,'截圖快報','draft',$2) returning id",[guild,build]));const id=res.rows[0].id;
+ await denied(ids.editor,"update public.gvg_guides set status='published' where id=$1",[id]);
+ for(let i=0;i<10;i++){const imageId=`aaaaaaaa-aaaa-4aaa-8aaa-${String(i).padStart(12,'0')}`;await as(ids.editor,()=>pg.query('insert into public.gvg_attachments(guide_id,path,filename) values($1,$2,$3)',[id,`${guild}/${id}/${imageId}.png`,'x.png']));}
+ await denied(ids.editor,'insert into public.gvg_attachments(guide_id,path,filename) values($1,$2,$3)',[id,`${guild}/${id}/bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb.png`,'11.png']);
+ await as(ids.editor,()=>pg.query("update public.gvg_guides set status='published',build=$1 where id=$2",[{...build,quick_count:10},id]));
+ assert.equal((await as(ids.outsider,()=>pg.query('select id from public.gvg_guides where id=$1',[id]))).rows.length,0);
+ const enemy={...fixture,matchups:[{...fixture.matchups[0],enemy_queue:[{hero_id:'d',skill:'s2'}]}]};await as(ids.editor,()=>pg.query("insert into public.gvg_guides(guild_id,title,build) values($1,'敵方預約',$2)",[guild,enemy]));
+ enemy.matchups[0].enemy_queue[0].hero_id='a';await denied(ids.editor,"insert into public.gvg_guides(guild_id,title,build) values($1,'錯誤敵方預約',$2)",[guild,enemy]);
  await pg.close();
 });

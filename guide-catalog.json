@@ -5,7 +5,9 @@
     "sets": "https://7katlas.com/calculator.tw.html",
     "background": "https://sena.netmarble.com/tc/",
     "equipment": "https://7katlas.com/calculator.tw.html",
-    "role_icons": "https://7katlas.com/hero-panel.js"
+    "role_icons": "https://7katlas.com/hero-panel.js",
+    "formation_verification": "https://gamewith.net/sevenknights-rebirth/70387",
+    "ring_effects": "https://7katlas.com/acc-icons.js"
   },
   "formations": [
     {
@@ -478,22 +480,26 @@
       {
         "key": "100Day",
         "label": "100日紀念戒指",
-        "rarity": "R"
+        "rarity": "R",
+        "effect": "生命力降至50%以下時，回復最大生命力18%（每場1次）"
       },
       {
         "key": "200Day",
         "label": "200日紀念戒指",
-        "rarity": "R"
+        "rarity": "R",
+        "effect": "戰鬥開始時獲得攻擊力90%的防護罩，持續2回合"
       },
       {
         "key": "400Day",
         "label": "400日紀念戒指",
-        "rarity": "R"
+        "rarity": "R",
+        "effect": "戰鬥開始時對Boss造成的傷害增加12%"
       },
       {
         "key": "1Anniv",
         "label": "1週年紀念戒指",
-        "rarity": "R"
+        "rarity": "R",
+        "effect": "無法戰鬥時以35%生命力復活1次"
       },
       {
         "key": "Guts",
