@@ -1,0 +1,4 @@
+﻿conflict_id,attacker_team_id,defender_team_id,conflict_kind,claim_ids_json,resolution,source_id
+1,death/1A,magic/2F,group_vs_specific_outcome_disagreement,"[155, 164]",unresolved_excluded_from_recommendation,atlas_guildwar_20261115
+2,death/1B,magic/2F,group_vs_specific_outcome_disagreement,"[174, 183]",unresolved_excluded_from_recommendation,atlas_guildwar_20261115
+3,death/1C,magic/2F,group_vs_specific_outcome_disagreement,"[193, 202]",unresolved_excluded_from_recommendation,atlas_guildwar_20261115

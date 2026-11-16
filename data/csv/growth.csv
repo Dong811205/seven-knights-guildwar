@@ -1,0 +1,1153 @@
+﻿growth_id,hero_id,category,tier_key,parameters_json,source_id
+1,ariel,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_ariel
+2,ariel,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_ariel
+3,ariel,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_ariel
+4,ariel,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_ariel
+5,ariel,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_ariel
+6,ariel,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_ariel
+7,ariel,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_ariel
+8,ariel,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_ariel
+9,ariel,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_ariel
+10,asura,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_asura
+11,asura,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_asura
+12,asura,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_asura
+13,asura,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_asura
+14,asura,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_asura
+15,asura,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_asura
+16,asura,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_asura
+17,asura,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_asura
+18,asura,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_asura
+19,bane,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_bane
+20,bane,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_bane
+21,bane,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_bane
+22,bane,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_bane
+23,bane,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_bane
+24,bane,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_bane
+25,bane,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_bane
+26,bane,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_bane
+27,bane,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_bane
+28,black-rose,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_black-rose
+29,black-rose,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_black-rose
+30,black-rose,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_black-rose
+31,black-rose,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_black-rose
+32,black-rose,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_black-rose
+33,black-rose,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_black-rose
+34,black-rose,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_black-rose
+35,black-rose,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_black-rose
+36,black-rose,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_black-rose
+37,catty,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_catty
+38,catty,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_catty
+39,catty,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_catty
+40,catty,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_catty
+41,catty,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_catty
+42,catty,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_catty
+43,catty,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_catty
+44,catty,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_catty
+45,catty,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_catty
+46,chloe,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_chloe
+47,chloe,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_chloe
+48,chloe,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_chloe
+49,chloe,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_chloe
+50,chloe,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_chloe
+51,chloe,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_chloe
+52,chloe,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_chloe
+53,chloe,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_chloe
+54,chloe,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_chloe
+55,cleo,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_cleo
+56,cleo,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_cleo
+57,cleo,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_cleo
+58,cleo,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_cleo
+59,cleo,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_cleo
+60,cleo,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_cleo
+61,cleo,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_cleo
+62,cleo,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_cleo
+63,cleo,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_cleo
+64,evan,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_evan
+65,evan,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_evan
+66,evan,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_evan
+67,evan,transcendence,t4,"{""effect"": ""Block Rate +14%"", ""skill_links"": []}",atlas_evan
+68,evan,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_evan
+69,evan,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_evan
+70,evan,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_evan
+71,evan,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_evan
+72,evan,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_evan
+73,feng-yan,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_feng-yan
+74,feng-yan,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_feng-yan
+75,feng-yan,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_feng-yan
+76,feng-yan,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_feng-yan
+77,feng-yan,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_feng-yan
+78,feng-yan,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_feng-yan
+79,feng-yan,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_feng-yan
+80,feng-yan,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_feng-yan
+81,feng-yan,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_feng-yan
+82,heavenia,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_heavenia
+83,heavenia,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_heavenia
+84,heavenia,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_heavenia
+85,heavenia,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_heavenia
+86,heavenia,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_heavenia
+87,heavenia,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_heavenia
+88,heavenia,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_heavenia
+89,heavenia,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_heavenia
+90,heavenia,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_heavenia
+91,hellenia,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_hellenia
+92,hellenia,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_hellenia
+93,hellenia,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_hellenia
+94,hellenia,transcendence,t4,"{""effect"": ""Block Rate +14%"", ""skill_links"": []}",atlas_hellenia
+95,hellenia,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_hellenia
+96,hellenia,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_hellenia
+97,hellenia,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_hellenia
+98,hellenia,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_hellenia
+99,hellenia,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_hellenia
+100,hokin,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_hokin
+101,hokin,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_hokin
+102,hokin,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_hokin
+103,hokin,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_hokin
+104,hokin,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_hokin
+105,hokin,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_hokin
+106,hokin,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_hokin
+107,hokin,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_hokin
+108,hokin,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_hokin
+109,jane,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jane
+110,jane,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}]}",atlas_jane
+111,jane,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_jane
+112,jane,transcendence,t4,"{""effect"": ""Effect Hit Rate +18%"", ""skill_links"": []}",atlas_jane
+113,jane,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jane
+114,jane,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_jane
+115,jane,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_jane
+116,jane,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_jane
+117,jane,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_jane
+118,jin,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jin
+119,jin,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_jin
+120,jin,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_jin
+121,jin,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_jin
+122,jin,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jin
+123,jin,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_jin
+124,jin,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_jin
+125,jin,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_jin
+126,jin,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_jin
+127,joker,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_joker
+128,joker,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_joker
+129,joker,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_joker
+130,joker,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_joker
+131,joker,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_joker
+132,joker,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_joker
+133,joker,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_joker
+134,joker,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_joker
+135,joker,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_joker
+136,jupy,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jupy
+137,jupy,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_jupy
+138,jupy,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_jupy
+139,jupy,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_jupy
+140,jupy,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_jupy
+141,jupy,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_jupy
+142,jupy,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_jupy
+143,jupy,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_jupy
+144,jupy,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_jupy
+145,karin,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_karin
+146,karin,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_karin
+147,karin,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_karin
+148,karin,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_karin
+149,karin,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_karin
+150,karin,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_karin
+151,karin,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_karin
+152,karin,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_karin
+153,karin,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_karin
+154,karon,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_karon
+155,karon,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_karon
+156,karon,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_karon
+157,karon,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_karon
+158,karon,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_karon
+159,karon,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_karon
+160,karon,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_karon
+161,karon,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_karon
+162,karon,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_karon
+163,lania,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_lania
+164,lania,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_lania
+165,lania,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_lania
+166,lania,transcendence,t4,"{""effect"": ""Weakness Hit Chance +16%"", ""skill_links"": []}",atlas_lania
+167,lania,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_lania
+168,lania,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_lania
+169,lania,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_lania
+170,lania,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_lania
+171,lania,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_lania
+172,lee-joohee,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_lee-joohee
+173,lee-joohee,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_lee-joohee
+174,lee-joohee,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_lee-joohee
+175,lee-joohee,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_lee-joohee
+176,lee-joohee,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_lee-joohee
+177,lee-joohee,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_lee-joohee
+178,lee-joohee,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_lee-joohee
+179,lee-joohee,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_lee-joohee
+180,lee-joohee,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_lee-joohee
+181,leo,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_leo
+182,leo,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_leo
+183,leo,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_leo
+184,leo,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_leo
+185,leo,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_leo
+186,leo,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_leo
+187,leo,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_leo
+188,leo,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_leo
+189,leo,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_leo
+190,li,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_li
+191,li,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_li
+192,li,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_li
+193,li,transcendence,t4,"{""effect"": ""Block Rate +14%"", ""skill_links"": []}",atlas_li
+194,li,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_li
+195,li,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_li
+196,li,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_li
+197,li,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_li
+198,li,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_li
+199,ling-ling,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_ling-ling
+200,ling-ling,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}]}",atlas_ling-ling
+201,ling-ling,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_ling-ling
+202,ling-ling,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_ling-ling
+203,ling-ling,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_ling-ling
+204,ling-ling,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_ling-ling
+205,ling-ling,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_ling-ling
+206,ling-ling,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_ling-ling
+207,ling-ling,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_ling-ling
+208,lucy,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_lucy
+209,lucy,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_lucy
+210,lucy,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_lucy
+211,lucy,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_lucy
+212,lucy,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_lucy
+213,lucy,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_lucy
+214,lucy,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_lucy
+215,lucy,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_lucy
+216,lucy,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_lucy
+217,may,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_may
+218,may,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_may
+219,may,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_may
+220,may,transcendence,t4,"{""effect"": ""Effect Hit Rate +18%"", ""skill_links"": []}",atlas_may
+221,may,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_may
+222,may,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_may
+223,may,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_may
+224,may,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_may
+225,may,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_may
+226,noho,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_noho
+227,noho,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_noho
+228,noho,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_noho
+229,noho,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_noho
+230,noho,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_noho
+231,noho,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_noho
+232,noho,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_noho
+233,noho,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_noho
+234,noho,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_noho
+235,rahkun,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_rahkun
+236,rahkun,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_rahkun
+237,rahkun,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_rahkun
+238,rahkun,transcendence,t4,"{""effect"": ""Block Rate +14%"", ""skill_links"": []}",atlas_rahkun
+239,rahkun,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_rahkun
+240,rahkun,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_rahkun
+241,rahkun,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_rahkun
+242,rahkun,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_rahkun
+243,rahkun,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_rahkun
+244,rei,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_rei
+245,rei,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_rei
+246,rei,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_rei
+247,rei,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_rei
+248,rei,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_rei
+249,rei,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_rei
+250,rei,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_rei
+251,rei,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_rei
+252,rei,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_rei
+253,sarah,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_sarah
+254,sarah,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_sarah
+255,sarah,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_sarah
+256,sarah,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_sarah
+257,sarah,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_sarah
+258,sarah,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_sarah
+259,sarah,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_sarah
+260,sarah,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_sarah
+261,sarah,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_sarah
+262,sera,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_sera
+263,sera,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_sera
+264,sera,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_sera
+265,sera,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_sera
+266,sera,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_sera
+267,sera,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_sera
+268,sera,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_sera
+269,sera,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_sera
+270,sera,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_sera
+271,snipper,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_snipper
+272,snipper,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_snipper
+273,snipper,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_snipper
+274,snipper,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_snipper
+275,snipper,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_snipper
+276,snipper,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_snipper
+277,snipper,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_snipper
+278,snipper,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_snipper
+279,snipper,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_snipper
+280,soi,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_soi
+281,soi,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_soi
+282,soi,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_soi
+283,soi,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_soi
+284,soi,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_soi
+285,soi,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_soi
+286,soi,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_soi
+287,soi,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_soi
+288,soi,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_soi
+289,sylvia,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_sylvia
+290,sylvia,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_sylvia
+291,sylvia,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_sylvia
+292,sylvia,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_sylvia
+293,sylvia,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_sylvia
+294,sylvia,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_sylvia
+295,sylvia,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_sylvia
+296,sylvia,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_sylvia
+297,sylvia,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_sylvia
+298,victoria,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_victoria
+299,victoria,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_victoria
+300,victoria,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_victoria
+301,victoria,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_victoria
+302,victoria,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_victoria
+303,victoria,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_victoria
+304,victoria,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_victoria
+305,victoria,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_victoria
+306,victoria,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_victoria
+307,xiao,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_xiao
+308,xiao,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_xiao
+309,xiao,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_xiao
+310,xiao,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_xiao
+311,xiao,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_xiao
+312,xiao,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_xiao
+313,xiao,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_xiao
+314,xiao,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_xiao
+315,xiao,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_xiao
+316,yoo-jinho,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_yoo-jinho
+317,yoo-jinho,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_yoo-jinho
+318,yoo-jinho,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_yoo-jinho
+319,yoo-jinho,transcendence,t4,"{""effect"": ""Block Rate +14%"", ""skill_links"": []}",atlas_yoo-jinho
+320,yoo-jinho,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_yoo-jinho
+321,yoo-jinho,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_yoo-jinho
+322,yoo-jinho,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_yoo-jinho
+323,yoo-jinho,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_yoo-jinho
+324,yoo-jinho,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_yoo-jinho
+325,yui,transcendence,t1,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_yui
+326,yui,transcendence,t2,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_yui
+327,yui,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_yui
+328,yui,transcendence,t4,"{""effect"": ""DMG Reduction +7%"", ""skill_links"": []}",atlas_yui
+329,yui,transcendence,t5,"{""effect"": ""DEF +9%"", ""skill_links"": []}",atlas_yui
+330,yui,transcendence,t6,"{""effect"": ""DEF +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_yui
+331,yui,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_yui
+332,yui,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_yui
+333,yui,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_yui
+334,yuri,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_yuri
+335,yuri,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_yuri
+336,yuri,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_yuri
+337,yuri,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_yuri
+338,yuri,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_yuri
+339,yuri,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_yuri
+340,yuri,potential,atk,"{""value"": ""ATK +310"", ""rec"": false}",atlas_yuri
+341,yuri,potential,def,"{""value"": ""DEF +220"", ""rec"": false}",atlas_yuri
+342,yuri,potential,hp,"{""value"": ""HP +940"", ""rec"": false}",atlas_yuri
+343,zhao-yun,transcendence,t1,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_zhao-yun
+344,zhao-yun,transcendence,t2,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_zhao-yun
+345,zhao-yun,transcendence,t3,"{""effect"": ""HP +14%"", ""skill_links"": []}",atlas_zhao-yun
+346,zhao-yun,transcendence,t4,"{""effect"": ""Crit Rate +14%"", ""skill_links"": []}",atlas_zhao-yun
+347,zhao-yun,transcendence,t5,"{""effect"": ""ATK +9%"", ""skill_links"": []}",atlas_zhao-yun
+348,zhao-yun,transcendence,t6,"{""effect"": ""ATK +4.5%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_zhao-yun
+349,zhao-yun,potential,atk,"{""value"": ""ATK +310"", ""rec"": true}",atlas_zhao-yun
+350,zhao-yun,potential,def,"{""value"": ""DEF +220"", ""rec"": true}",atlas_zhao-yun
+351,zhao-yun,potential,hp,"{""value"": ""HP +940"", ""rec"": true}",atlas_zhao-yun
+352,alice,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_alice
+353,alice,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}]}",atlas_alice
+354,alice,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_alice
+355,alice,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_alice
+356,alice,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_alice
+357,alice,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_alice
+358,alice,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_alice
+359,alice,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_alice
+360,alice,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_alice
+361,amelia,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_amelia
+362,amelia,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_amelia
+363,amelia,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_amelia
+364,amelia,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_amelia
+365,amelia,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_amelia
+366,amelia,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_amelia
+367,amelia,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_amelia
+368,amelia,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_amelia
+369,amelia,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_amelia
+370,aragon,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_aragon
+371,aragon,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_aragon
+372,aragon,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_aragon
+373,aragon,transcendence,t4,"{""effect"": ""Block Rate +18%"", ""skill_links"": []}",atlas_aragon
+374,aragon,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_aragon
+375,aragon,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Active Skill"", ""target_id"": ""ultimate-tx6""}]}",atlas_aragon
+376,aragon,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_aragon
+377,aragon,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_aragon
+378,aragon,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_aragon
+379,bai-jiao,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bai-jiao
+380,bai-jiao,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_bai-jiao
+381,bai-jiao,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_bai-jiao
+382,bai-jiao,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_bai-jiao
+383,bai-jiao,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bai-jiao
+384,bai-jiao,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_bai-jiao
+385,bai-jiao,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_bai-jiao
+386,bai-jiao,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_bai-jiao
+387,bai-jiao,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_bai-jiao
+388,bai-long,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bai-long
+389,bai-long,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_bai-long
+390,bai-long,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_bai-long
+391,bai-long,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_bai-long
+392,bai-long,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bai-long
+393,bai-long,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_bai-long
+394,bai-long,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_bai-long
+395,bai-long,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_bai-long
+396,bai-long,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_bai-long
+397,ballista,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ballista
+398,ballista,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_ballista
+399,ballista,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_ballista
+400,ballista,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_ballista
+401,ballista,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ballista
+402,ballista,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_ballista
+403,ballista,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_ballista
+404,ballista,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_ballista
+405,ballista,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_ballista
+406,bi-dam,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bi-dam
+407,bi-dam,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_bi-dam
+408,bi-dam,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_bi-dam
+409,bi-dam,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_bi-dam
+410,bi-dam,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_bi-dam
+411,bi-dam,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_bi-dam
+412,bi-dam,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_bi-dam
+413,bi-dam,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_bi-dam
+414,bi-dam,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_bi-dam
+415,cha-hae-in,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_cha-hae-in
+416,cha-hae-in,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_cha-hae-in
+417,cha-hae-in,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_cha-hae-in
+418,cha-hae-in,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_cha-hae-in
+419,cha-hae-in,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_cha-hae-in
+420,cha-hae-in,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_cha-hae-in
+421,cha-hae-in,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_cha-hae-in
+422,cha-hae-in,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_cha-hae-in
+423,cha-hae-in,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_cha-hae-in
+424,chancellor,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_chancellor
+425,chancellor,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_chancellor
+426,chancellor,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_chancellor
+427,chancellor,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_chancellor
+428,chancellor,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_chancellor
+429,chancellor,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_chancellor
+430,chancellor,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_chancellor
+431,chancellor,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_chancellor
+432,chancellor,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_chancellor
+433,daisy,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_daisy
+434,daisy,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_daisy
+435,daisy,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_daisy
+436,daisy,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_daisy
+437,daisy,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_daisy
+438,daisy,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_daisy
+439,daisy,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_daisy
+440,daisy,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_daisy
+441,daisy,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_daisy
+442,deo,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_deo
+443,deo,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_deo
+444,deo,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_deo
+445,deo,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_deo
+446,deo,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_deo
+447,deo,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_deo
+448,deo,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_deo
+449,deo,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_deo
+450,deo,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_deo
+451,diaochan,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_diaochan
+452,diaochan,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_diaochan
+453,diaochan,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_diaochan
+454,diaochan,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_diaochan
+455,diaochan,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_diaochan
+456,diaochan,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_diaochan
+457,diaochan,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_diaochan
+458,diaochan,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_diaochan
+459,diaochan,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_diaochan
+460,espada,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_espada
+461,espada,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_espada
+462,espada,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_espada
+463,espada,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_espada
+464,espada,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_espada
+465,espada,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_espada
+466,espada,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_espada
+467,espada,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_espada
+468,espada,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_espada
+469,guan-yu,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_guan-yu
+470,guan-yu,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_guan-yu
+471,guan-yu,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_guan-yu
+472,guan-yu,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_guan-yu
+473,guan-yu,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_guan-yu
+474,guan-yu,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_guan-yu
+475,guan-yu,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_guan-yu
+476,guan-yu,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_guan-yu
+477,guan-yu,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_guan-yu
+478,knox,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_knox
+479,knox,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_knox
+480,knox,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_knox
+481,knox,transcendence,t4,"{""effect"": ""Block Rate +18%"", ""skill_links"": []}",atlas_knox
+482,knox,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_knox
+483,knox,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_knox
+484,knox,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_knox
+485,knox,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_knox
+486,knox,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_knox
+487,lina,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_lina
+488,lina,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_lina
+489,lina,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_lina
+490,lina,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_lina
+491,lina,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_lina
+492,lina,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_lina
+493,lina,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_lina
+494,lina,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_lina
+495,lina,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_lina
+496,miho,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_miho
+497,miho,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_miho
+498,miho,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_miho
+499,miho,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_miho
+500,miho,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_miho
+501,miho,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_miho
+502,miho,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_miho
+503,miho,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_miho
+504,miho,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_miho
+505,nia,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_nia
+506,nia,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_nia
+507,nia,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_nia
+508,nia,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_nia
+509,nia,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_nia
+510,nia,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_nia
+511,nia,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_nia
+512,nia,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_nia
+513,nia,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_nia
+514,pascal,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_pascal
+515,pascal,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_pascal
+516,pascal,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_pascal
+517,pascal,transcendence,t4,"{""effect"": ""Crit DMG +24%"", ""skill_links"": []}",atlas_pascal
+518,pascal,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_pascal
+519,pascal,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_pascal
+520,pascal,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_pascal
+521,pascal,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_pascal
+522,pascal,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_pascal
+523,rook,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rook
+524,rook,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_rook
+525,rook,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_rook
+526,rook,transcendence,t4,"{""effect"": ""Block Rate +18%"", ""skill_links"": []}",atlas_rook
+527,rook,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rook
+528,rook,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_rook
+529,rook,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_rook
+530,rook,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_rook
+531,rook,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_rook
+532,ruri,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ruri
+533,ruri,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_ruri
+534,ruri,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_ruri
+535,ruri,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_ruri
+536,ruri,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ruri
+537,ruri,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_ruri
+538,ruri,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_ruri
+539,ruri,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_ruri
+540,ruri,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_ruri
+541,shane,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_shane
+542,shane,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_shane
+543,shane,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_shane
+544,shane,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_shane
+545,shane,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_shane
+546,shane,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Active Skill"", ""target_id"": ""ultimate-tx6""}]}",atlas_shane
+547,shane,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_shane
+548,shane,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_shane
+549,shane,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_shane
+550,sieg,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sieg
+551,sieg,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_sieg
+552,sieg,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_sieg
+553,sieg,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_sieg
+554,sieg,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sieg
+555,sieg,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_sieg
+556,sieg,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_sieg
+557,sieg,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_sieg
+558,sieg,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_sieg
+559,taka,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_taka
+560,taka,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_taka
+561,taka,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_taka
+562,taka,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_taka
+563,taka,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_taka
+564,taka,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_taka
+565,taka,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_taka
+566,taka,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_taka
+567,taka,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_taka
+568,velika,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_velika
+569,velika,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_velika
+570,velika,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_velika
+571,velika,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_velika
+572,velika,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_velika
+573,velika,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_velika
+574,velika,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_velika
+575,velika,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_velika
+576,velika,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_velika
+577,xiao-qiao,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_xiao-qiao
+578,xiao-qiao,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_xiao-qiao
+579,xiao-qiao,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_xiao-qiao
+580,xiao-qiao,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_xiao-qiao
+581,xiao-qiao,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_xiao-qiao
+582,xiao-qiao,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_xiao-qiao
+583,xiao-qiao,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_xiao-qiao
+584,xiao-qiao,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_xiao-qiao
+585,xiao-qiao,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_xiao-qiao
+586,yu-shin,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yu-shin
+587,yu-shin,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_yu-shin
+588,yu-shin,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_yu-shin
+589,yu-shin,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_yu-shin
+590,yu-shin,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yu-shin
+591,yu-shin,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_yu-shin
+592,yu-shin,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_yu-shin
+593,yu-shin,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_yu-shin
+594,yu-shin,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_yu-shin
+595,ace,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ace
+596,ace,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_ace
+597,ace,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_ace
+598,ace,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_ace
+599,ace,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ace
+600,ace,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_ace
+601,ace,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_ace
+602,ace,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_ace
+603,ace,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_ace
+604,aquila,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_aquila
+605,aquila,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_aquila
+606,aquila,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_aquila
+607,aquila,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_aquila
+608,aquila,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_aquila
+609,aquila,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_aquila
+610,aquila,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_aquila
+611,aquila,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_aquila
+612,aquila,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_aquila
+613,aris,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_aris
+614,aris,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_aris
+615,aris,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_aris
+616,aris,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_aris
+617,aris,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_aris
+618,aris,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_aris
+619,aris,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_aris
+620,aris,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_aris
+621,aris,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_aris
+622,biscuit,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_biscuit
+623,biscuit,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_biscuit
+624,biscuit,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_biscuit
+625,biscuit,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_biscuit
+626,biscuit,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_biscuit
+627,biscuit,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_biscuit
+628,biscuit,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_biscuit
+629,biscuit,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_biscuit
+630,biscuit,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_biscuit
+631,branze-bransel,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_branze-bransel
+632,branze-bransel,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_branze-bransel
+633,branze-bransel,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_branze-bransel
+634,branze-bransel,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_branze-bransel
+635,branze-bransel,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_branze-bransel
+636,branze-bransel,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_branze-bransel
+637,branze-bransel,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_branze-bransel
+638,branze-bransel,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_branze-bransel
+639,branze-bransel,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_branze-bransel
+640,clemyth,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_clemyth
+641,clemyth,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_clemyth
+642,clemyth,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_clemyth
+643,clemyth,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_clemyth
+644,clemyth,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_clemyth
+645,clemyth,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_clemyth
+646,clemyth,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_clemyth
+647,clemyth,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_clemyth
+648,clemyth,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_clemyth
+649,colt,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_colt
+650,colt,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_colt
+651,colt,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_colt
+652,colt,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_colt
+653,colt,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_colt
+654,colt,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_colt
+655,colt,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_colt
+656,colt,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_colt
+657,colt,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_colt
+658,dellons,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_dellons
+659,dellons,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_dellons
+660,dellons,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_dellons
+661,dellons,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_dellons
+662,dellons,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_dellons
+663,dellons,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_dellons
+664,dellons,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_dellons
+665,dellons,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_dellons
+666,dellons,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_dellons
+667,dongyoung,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_dongyoung
+668,dongyoung,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_dongyoung
+669,dongyoung,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_dongyoung
+670,dongyoung,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_dongyoung
+671,dongyoung,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_dongyoung
+672,dongyoung,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_dongyoung
+673,dongyoung,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_dongyoung
+674,dongyoung,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_dongyoung
+675,dongyoung,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_dongyoung
+676,eileene,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_eileene
+677,eileene,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_eileene
+678,eileene,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_eileene
+679,eileene,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_eileene
+680,eileene,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_eileene
+681,eileene,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_eileene
+682,eileene,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_eileene
+683,eileene,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_eileene
+684,eileene,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_eileene
+685,elysia,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_elysia
+686,elysia,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_elysia
+687,elysia,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_elysia
+688,elysia,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_elysia
+689,elysia,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_elysia
+690,elysia,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_elysia
+691,elysia,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_elysia
+692,elysia,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_elysia
+693,elysia,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_elysia
+694,freyja,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_freyja
+695,freyja,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_freyja
+696,freyja,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_freyja
+697,freyja,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_freyja
+698,freyja,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_freyja
+699,freyja,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_freyja
+700,freyja,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_freyja
+701,freyja,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_freyja
+702,freyja,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_freyja
+703,hayeon,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_hayeon
+704,hayeon,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_hayeon
+705,hayeon,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_hayeon
+706,hayeon,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_hayeon
+707,hayeon,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_hayeon
+708,hayeon,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_hayeon
+709,hayeon,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_hayeon
+710,hayeon,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_hayeon
+711,hayeon,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_hayeon
+712,jave,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_jave
+713,jave,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_jave
+714,jave,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_jave
+715,jave,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_jave
+716,jave,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_jave
+717,jave,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_jave
+718,jave,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_jave
+719,jave,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_jave
+720,jave,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_jave
+721,kagura,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kagura
+722,kagura,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_kagura
+723,kagura,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_kagura
+724,kagura,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_kagura
+725,kagura,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kagura
+726,kagura,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_kagura
+727,kagura,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_kagura
+728,kagura,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_kagura
+729,kagura,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_kagura
+730,karl-heron,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_karl-heron
+731,karl-heron,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}, {""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_karl-heron
+732,karl-heron,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_karl-heron
+733,karl-heron,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_karl-heron
+734,karl-heron,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_karl-heron
+735,karl-heron,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_karl-heron
+736,karl-heron,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_karl-heron
+737,karl-heron,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_karl-heron
+738,karl-heron,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_karl-heron
+739,karma,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_karma
+740,karma,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_karma
+741,karma,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_karma
+742,karma,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_karma
+743,karma,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_karma
+744,karma,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_karma
+745,karma,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_karma
+746,karma,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_karma
+747,karma,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_karma
+748,klahan,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_klahan
+749,klahan,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_klahan
+750,klahan,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_klahan
+751,klahan,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_klahan
+752,klahan,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_klahan
+753,klahan,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_klahan
+754,klahan,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_klahan
+755,klahan,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_klahan
+756,klahan,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_klahan
+757,kris,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kris
+758,kris,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_kris
+759,kris,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_kris
+760,kris,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_kris
+761,kris,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kris
+762,kris,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_kris
+763,kris,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_kris
+764,kris,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_kris
+765,kris,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_kris
+766,kyle,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kyle
+767,kyle,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_kyle
+768,kyle,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_kyle
+769,kyle,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_kyle
+770,kyle,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kyle
+771,kyle,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_kyle
+772,kyle,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_kyle
+773,kyle,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_kyle
+774,kyle,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_kyle
+775,kyrielle,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kyrielle
+776,kyrielle,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_kyrielle
+777,kyrielle,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_kyrielle
+778,kyrielle,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_kyrielle
+779,kyrielle,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_kyrielle
+780,kyrielle,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_kyrielle
+781,kyrielle,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_kyrielle
+782,kyrielle,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_kyrielle
+783,kyrielle,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_kyrielle
+784,lu-bu,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_lu-bu
+785,lu-bu,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_lu-bu
+786,lu-bu,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_lu-bu
+787,lu-bu,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_lu-bu
+788,lu-bu,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_lu-bu
+789,lu-bu,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_lu-bu
+790,lu-bu,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_lu-bu
+791,lu-bu,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_lu-bu
+792,lu-bu,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_lu-bu
+793,mercure,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_mercure
+794,mercure,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_mercure
+795,mercure,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_mercure
+796,mercure,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_mercure
+797,mercure,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_mercure
+798,mercure,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}, {""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_mercure
+799,mercure,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_mercure
+800,mercure,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_mercure
+801,mercure,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_mercure
+802,mist,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_mist
+803,mist,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_mist
+804,mist,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_mist
+805,mist,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_mist
+806,mist,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_mist
+807,mist,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_mist
+808,mist,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_mist
+809,mist,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_mist
+810,mist,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_mist
+811,nezha,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_nezha
+812,nezha,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_nezha
+813,nezha,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_nezha
+814,nezha,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_nezha
+815,nezha,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_nezha
+816,nezha,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_nezha
+817,nezha,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_nezha
+818,nezha,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_nezha
+819,nezha,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_nezha
+820,omok,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_omok
+821,omok,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_omok
+822,omok,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_omok
+823,omok,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_omok
+824,omok,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_omok
+825,omok,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_omok
+826,omok,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_omok
+827,omok,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_omok
+828,omok,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_omok
+829,orkah,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_orkah
+830,orkah,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_orkah
+831,orkah,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_orkah
+832,orkah,transcendence,t4,"{""effect"": ""Effect Resistance +24%"", ""skill_links"": []}",atlas_orkah
+833,orkah,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_orkah
+834,orkah,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}, {""label"": ""Awakened Skill"", ""target_id"": ""awakened-tx6""}]}",atlas_orkah
+835,orkah,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_orkah
+836,orkah,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_orkah
+837,orkah,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_orkah
+838,orly,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_orly
+839,orly,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_orly
+840,orly,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_orly
+841,orly,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_orly
+842,orly,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_orly
+843,orly,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_orly
+844,orly,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_orly
+845,orly,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_orly
+846,orly,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_orly
+847,pallanus,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_pallanus
+848,pallanus,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_pallanus
+849,pallanus,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_pallanus
+850,pallanus,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_pallanus
+851,pallanus,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_pallanus
+852,pallanus,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_pallanus
+853,pallanus,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_pallanus
+854,pallanus,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_pallanus
+855,pallanus,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_pallanus
+856,platin,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_platin
+857,platin,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_platin
+858,platin,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_platin
+859,platin,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_platin
+860,platin,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_platin
+861,platin,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_platin
+862,platin,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_platin
+863,platin,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_platin
+864,platin,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_platin
+865,rachel,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_rachel
+866,rachel,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_rachel
+867,rachel,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_rachel
+868,rachel,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_rachel
+869,rachel,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_rachel
+870,rachel,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_rachel
+871,rachel,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_rachel
+872,rachel,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_rachel
+873,rachel,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_rachel
+874,radgrid,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_radgrid
+875,radgrid,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_radgrid
+876,radgrid,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_radgrid
+877,radgrid,transcendence,t4,"{""effect"": ""Block Rate +18%"", ""skill_links"": []}",atlas_radgrid
+878,radgrid,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_radgrid
+879,radgrid,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_radgrid
+880,radgrid,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_radgrid
+881,radgrid,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_radgrid
+882,radgrid,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_radgrid
+883,randgrid,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_randgrid
+884,randgrid,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_randgrid
+885,randgrid,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_randgrid
+886,randgrid,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_randgrid
+887,randgrid,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_randgrid
+888,randgrid,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_randgrid
+889,randgrid,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_randgrid
+890,randgrid,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_randgrid
+891,randgrid,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_randgrid
+892,reginleif,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_reginleif
+893,reginleif,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}]}",atlas_reginleif
+894,reginleif,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_reginleif
+895,reginleif,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_reginleif
+896,reginleif,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_reginleif
+897,reginleif,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_reginleif
+898,reginleif,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_reginleif
+899,reginleif,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_reginleif
+900,reginleif,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_reginleif
+901,rin,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_rin
+902,rin,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_rin
+903,rin,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_rin
+904,rin,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_rin
+905,rin,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_rin
+906,rin,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_rin
+907,rin,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_rin
+908,rin,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_rin
+909,rin,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_rin
+910,rudy,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rudy
+911,rudy,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_rudy
+912,rudy,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_rudy
+913,rudy,transcendence,t4,"{""effect"": ""Block Rate +18%"", ""skill_links"": []}",atlas_rudy
+914,rudy,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rudy
+915,rudy,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_rudy
+916,rudy,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_rudy
+917,rudy,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_rudy
+918,rudy,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_rudy
+919,ryan,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ryan
+920,ryan,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_ryan
+921,ryan,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_ryan
+922,ryan,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_ryan
+923,ryan,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_ryan
+924,ryan,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_ryan
+925,ryan,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_ryan
+926,ryan,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_ryan
+927,ryan,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_ryan
+928,silvesta,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_silvesta
+929,silvesta,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_silvesta
+930,silvesta,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_silvesta
+931,silvesta,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_silvesta
+932,silvesta,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_silvesta
+933,silvesta,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_silvesta
+934,silvesta,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_silvesta
+935,silvesta,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_silvesta
+936,silvesta,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_silvesta
+937,skuld,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_skuld
+938,skuld,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_skuld
+939,skuld,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_skuld
+940,skuld,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_skuld
+941,skuld,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_skuld
+942,skuld,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_skuld
+943,skuld,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_skuld
+944,skuld,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_skuld
+945,skuld,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_skuld
+946,spike,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_spike
+947,spike,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_spike
+948,spike,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_spike
+949,spike,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_spike
+950,spike,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_spike
+951,spike,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_spike
+952,spike,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_spike
+953,spike,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_spike
+954,spike,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_spike
+955,sun-wukong,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sun-wukong
+956,sun-wukong,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_sun-wukong
+957,sun-wukong,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_sun-wukong
+958,sun-wukong,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_sun-wukong
+959,sun-wukong,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sun-wukong
+960,sun-wukong,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx6""}, {""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_sun-wukong
+961,sun-wukong,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_sun-wukong
+962,sun-wukong,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_sun-wukong
+963,sun-wukong,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_sun-wukong
+964,sung-jinwoo,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sung-jinwoo
+965,sung-jinwoo,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_sung-jinwoo
+966,sung-jinwoo,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_sung-jinwoo
+967,sung-jinwoo,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_sung-jinwoo
+968,sung-jinwoo,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sung-jinwoo
+969,sung-jinwoo,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_sung-jinwoo
+970,sung-jinwoo,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_sung-jinwoo
+971,sung-jinwoo,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_sung-jinwoo
+972,sung-jinwoo,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_sung-jinwoo
+973,sunran,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sunran
+974,sunran,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}, {""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_sunran
+975,sunran,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_sunran
+976,sunran,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_sunran
+977,sunran,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_sunran
+978,sunran,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_sunran
+979,sunran,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_sunran
+980,sunran,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_sunran
+981,sunran,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_sunran
+982,teo,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_teo
+983,teo,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_teo
+984,teo,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_teo
+985,teo,transcendence,t4,"{""effect"": ""Crit DMG +24%"", ""skill_links"": []}",atlas_teo
+986,teo,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_teo
+987,teo,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_teo
+988,teo,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_teo
+989,teo,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_teo
+990,teo,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_teo
+991,trude,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_trude
+992,trude,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_trude
+993,trude,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_trude
+994,trude,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_trude
+995,trude,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_trude
+996,trude,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_trude
+997,trude,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_trude
+998,trude,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_trude
+999,trude,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_trude
+1000,vanessa,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_vanessa
+1001,vanessa,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}]}",atlas_vanessa
+1002,vanessa,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_vanessa
+1003,vanessa,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_vanessa
+1004,vanessa,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_vanessa
+1005,vanessa,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_vanessa
+1006,vanessa,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_vanessa
+1007,vanessa,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_vanessa
+1008,vanessa,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_vanessa
+1009,yeonhee,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yeonhee
+1010,yeonhee,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}]}",atlas_yeonhee
+1011,yeonhee,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_yeonhee
+1012,yeonhee,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_yeonhee
+1013,yeonhee,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yeonhee
+1014,yeonhee,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx6""}, {""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_yeonhee
+1015,yeonhee,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_yeonhee
+1016,yeonhee,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_yeonhee
+1017,yeonhee,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_yeonhee
+1018,yoongun,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yoongun
+1019,yoongun,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_yoongun
+1020,yoongun,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_yoongun
+1021,yoongun,transcendence,t4,"{""effect"": ""Crit DMG +24%"", ""skill_links"": []}",atlas_yoongun
+1022,yoongun,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_yoongun
+1023,yoongun,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_yoongun
+1024,yoongun,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_yoongun
+1025,yoongun,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_yoongun
+1026,yoongun,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_yoongun
+1027,giyu-tomioka,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_giyu-tomioka
+1028,giyu-tomioka,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx2""}, {""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_giyu-tomioka
+1029,giyu-tomioka,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_giyu-tomioka
+1030,giyu-tomioka,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_giyu-tomioka
+1031,giyu-tomioka,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_giyu-tomioka
+1032,giyu-tomioka,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_giyu-tomioka
+1033,giyu-tomioka,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_giyu-tomioka
+1034,giyu-tomioka,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_giyu-tomioka
+1035,giyu-tomioka,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_giyu-tomioka
+1036,shinobu-kocho,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_shinobu-kocho
+1037,shinobu-kocho,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_shinobu-kocho
+1038,shinobu-kocho,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_shinobu-kocho
+1039,shinobu-kocho,transcendence,t4,"{""effect"": ""Weakness Hit Chance +20%"", ""skill_links"": []}",atlas_shinobu-kocho
+1040,shinobu-kocho,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_shinobu-kocho
+1041,shinobu-kocho,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_shinobu-kocho
+1042,shinobu-kocho,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_shinobu-kocho
+1043,shinobu-kocho,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_shinobu-kocho
+1044,shinobu-kocho,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_shinobu-kocho
+1045,tanjiro-kamado,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_tanjiro-kamado
+1046,tanjiro-kamado,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_tanjiro-kamado
+1047,tanjiro-kamado,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_tanjiro-kamado
+1048,tanjiro-kamado,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_tanjiro-kamado
+1049,tanjiro-kamado,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_tanjiro-kamado
+1050,tanjiro-kamado,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_tanjiro-kamado
+1051,tanjiro-kamado,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_tanjiro-kamado
+1052,tanjiro-kamado,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_tanjiro-kamado
+1053,tanjiro-kamado,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_tanjiro-kamado
+1054,zenitsu-agatsuma,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_zenitsu-agatsuma
+1055,zenitsu-agatsuma,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_zenitsu-agatsuma
+1056,zenitsu-agatsuma,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_zenitsu-agatsuma
+1057,zenitsu-agatsuma,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_zenitsu-agatsuma
+1058,zenitsu-agatsuma,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_zenitsu-agatsuma
+1059,zenitsu-agatsuma,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}, {""label"": ""Awakened Skill"", ""target_id"": ""awakened-tx6""}]}",atlas_zenitsu-agatsuma
+1060,zenitsu-agatsuma,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_zenitsu-agatsuma
+1061,zenitsu-agatsuma,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_zenitsu-agatsuma
+1062,zenitsu-agatsuma,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_zenitsu-agatsuma
+1063,judas,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_judas
+1064,judas,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_judas
+1065,judas,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_judas
+1066,judas,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_judas
+1067,judas,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_judas
+1068,judas,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}, {""label"": ""Awakened Skill"", ""target_id"": ""awakened-tx6""}]}",atlas_judas
+1069,judas,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_judas
+1070,judas,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_judas
+1071,judas,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_judas
+1072,eve,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_eve
+1073,eve,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 1"", ""target_id"": ""s1-tx2""}, {""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_eve
+1074,eve,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_eve
+1075,eve,transcendence,t4,"{""effect"": ""Crit DMG +24%"", ""skill_links"": []}",atlas_eve
+1076,eve,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_eve
+1077,eve,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_eve
+1078,eve,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_eve
+1079,eve,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_eve
+1080,eve,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_eve
+1081,sizar,transcendence,t1,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1082,sizar,transcendence,t2,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1083,sizar,transcendence,t3,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1084,sizar,transcendence,t4,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1085,sizar,transcendence,t5,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1086,sizar,transcendence,t6,"{""effect"": """", ""skill_links"": []}",atlas_sizar
+1087,sizar,potential,atk,"{""value"": """", ""rec"": false}",atlas_sizar
+1088,sizar,potential,def,"{""value"": """", ""rec"": false}",atlas_sizar
+1089,sizar,potential,hp,"{""value"": """", ""rec"": false}",atlas_sizar
+1090,bael,transcendence,t1,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1091,bael,transcendence,t2,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1092,bael,transcendence,t3,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1093,bael,transcendence,t4,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1094,bael,transcendence,t5,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1095,bael,transcendence,t6,"{""effect"": """", ""skill_links"": []}",atlas_bael
+1096,bael,potential,atk,"{""value"": """", ""rec"": false}",atlas_bael
+1097,bael,potential,def,"{""value"": """", ""rec"": false}",atlas_bael
+1098,bael,potential,hp,"{""value"": """", ""rec"": false}",atlas_bael
+1099,gideon,transcendence,t1,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1100,gideon,transcendence,t2,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1101,gideon,transcendence,t3,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1102,gideon,transcendence,t4,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1103,gideon,transcendence,t5,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1104,gideon,transcendence,t6,"{""effect"": """", ""skill_links"": []}",atlas_gideon
+1105,gideon,potential,atk,"{""value"": """", ""rec"": false}",atlas_gideon
+1106,gideon,potential,def,"{""value"": """", ""rec"": false}",atlas_gideon
+1107,gideon,potential,hp,"{""value"": """", ""rec"": false}",atlas_gideon
+1108,fai,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_fai
+1109,fai,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_fai
+1110,fai,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_fai
+1111,fai,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_fai
+1112,fai,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_fai
+1113,fai,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_fai
+1114,fai,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_fai
+1115,fai,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_fai
+1116,fai,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_fai
+1117,gelidus,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_gelidus
+1118,gelidus,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_gelidus
+1119,gelidus,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_gelidus
+1120,gelidus,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_gelidus
+1121,gelidus,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_gelidus
+1122,gelidus,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx6""}]}",atlas_gelidus
+1123,gelidus,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_gelidus
+1124,gelidus,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_gelidus
+1125,gelidus,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_gelidus
+1126,juri,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_juri
+1127,juri,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_juri
+1128,juri,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_juri
+1129,juri,transcendence,t4,"{""effect"": ""Crit Rate +18%"", ""skill_links"": []}",atlas_juri
+1130,juri,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_juri
+1131,juri,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx6""}]}",atlas_juri
+1132,juri,potential,atk,"{""value"": ""ATK +370"", ""rec"": true}",atlas_juri
+1133,juri,potential,def,"{""value"": ""DEF +250"", ""rec"": false}",atlas_juri
+1134,juri,potential,hp,"{""value"": ""HP +1130"", ""rec"": false}",atlas_juri
+1135,melia,transcendence,t1,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_melia
+1136,melia,transcendence,t2,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx2""}]}",atlas_melia
+1137,melia,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_melia
+1138,melia,transcendence,t4,"{""effect"": ""Effect Hit Rate +24%"", ""skill_links"": []}",atlas_melia
+1139,melia,transcendence,t5,"{""effect"": ""ATK +12%"", ""skill_links"": []}",atlas_melia
+1140,melia,transcendence,t6,"{""effect"": ""ATK +6%"", ""skill_links"": [{""label"": ""Basic Attack"", ""target_id"": ""basic-tx6""}, {""label"": ""Skill 1"", ""target_id"": ""s1-tx6""}]}",atlas_melia
+1141,melia,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_melia
+1142,melia,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_melia
+1143,melia,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_melia
+1144,rosie,transcendence,t1,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rosie
+1145,rosie,transcendence,t2,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Passive"", ""target_id"": ""passive-tx2""}]}",atlas_rosie
+1146,rosie,transcendence,t3,"{""effect"": ""HP +18%"", ""skill_links"": []}",atlas_rosie
+1147,rosie,transcendence,t4,"{""effect"": ""DMG Reduction +10%"", ""skill_links"": []}",atlas_rosie
+1148,rosie,transcendence,t5,"{""effect"": ""DEF +12%"", ""skill_links"": []}",atlas_rosie
+1149,rosie,transcendence,t6,"{""effect"": ""DEF +6%"", ""skill_links"": [{""label"": ""Skill 2"", ""target_id"": ""ultimate-tx6""}]}",atlas_rosie
+1150,rosie,potential,atk,"{""value"": ""ATK +370"", ""rec"": false}",atlas_rosie
+1151,rosie,potential,def,"{""value"": ""DEF +250"", ""rec"": true}",atlas_rosie
+1152,rosie,potential,hp,"{""value"": ""HP +1130"", ""rec"": true}",atlas_rosie

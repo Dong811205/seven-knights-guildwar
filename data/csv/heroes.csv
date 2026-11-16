@@ -1,0 +1,129 @@
+﻿hero_id,game_group_id,game_form_id,name_tw,name_en,name_kr,rarity,role_en,role_tw,faction_en,release_date_source,awakening_date_source,released_in_source,release_status_source,availability_in_user_server,has_full_source,has_tw_translation,source_id,verification_status,combat_ready
+ariel,10065,100656,艾黎爾,Ariel,아리엘,R,Magic,魔法型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_ariel,source_imported,0
+asura,10099,100996,阿修羅,Asura,아수라,R,Universal,萬能型,Sanctuary of Darkness,2025-05-15,,1,,unverified,1,1,atlas_asura,source_imported,0
+bane,10028,100286,培因,Bane,베인,R,Magic,魔法型,Dark Grave,2025-05-15,,1,,unverified,1,1,atlas_bane,source_imported,0
+black-rose,10111,101116,黑玫瑰,Black Rose,블랙로즈,R,Attack,攻擊型,Shadow Clan,2025-05-15,,1,,unverified,1,1,atlas_black-rose,source_imported,0
+catty,10115,101156,凱蒂,Catty,캐티,R,Attack,攻擊型,Moonlit Isle,2025-05-15,,1,,unverified,1,1,atlas_catty,source_imported,0
+chloe,10097,100976,克蘿伊,Chloe,클로에,R,Support,支援型,Terra,2025-05-15,,1,,unverified,1,1,atlas_chloe,source_imported,0
+cleo,10035,100356,克蕾毆,Cleo,클레오,R,Magic,魔法型,Dragon Ruins,2025-05-15,,1,,unverified,1,1,atlas_cleo,source_imported,0
+evan,10075,100756,伊凡,Evan,에반,R,Defense,防禦型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_evan,source_imported,0
+feng-yan,10068,100686,風顏,Feng Yan,풍연,R,Attack,攻擊型,Western Aisha,2025-05-15,,1,,unverified,1,1,atlas_feng-yan,source_imported,0
+heavenia,10067,400677,赫普尼亞,Heavenia,헤브니아,R,Attack,攻擊型,Evan Expedition,2025-05-15,2026-06-25,1,,unverified,1,1,atlas_heavenia,source_imported,0
+hellenia,10066,400667,赫雷倪亞,Hellenia,헬레니아,R,Defense,防禦型,Evan Expedition,2025-05-15,2026-06-25,1,,unverified,1,1,atlas_hellenia,source_imported,0
+hokin,10007,100076,霍金,Hokin,호킨,R,Attack,攻擊型,Mystic Woods,2025-05-15,,1,,unverified,1,1,atlas_hokin,source_imported,0
+jane,10092,100926,傑英,Jane,제인,R,Attack,攻擊型,Shadow Clan,2025-05-15,,1,,unverified,1,1,atlas_jane,source_imported,0
+jin,10116,101166,陣,Jin,진,R,Attack,攻擊型,Moonlit Isle,2025-05-15,,1,,unverified,1,1,atlas_jin,source_imported,0
+joker,10077,100776,喬克,Joker,조커,R,Magic,魔法型,Adventurers,2025-05-15,,1,,unverified,1,1,atlas_joker,source_imported,0
+jupy,10074,100746,丘比,Jupy,쥬피,R,Attack,攻擊型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_jupy,source_imported,0
+karin,10076,100766,卡琳,Karin,카린,R,Support,支援型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_karin,source_imported,0
+karon,10078,100786,卡倫,Karon,카론,R,Support,支援型,Adventurers,2025-05-15,,1,,unverified,1,1,atlas_karon,source_imported,0
+lania,10042,100426,拉妮雅,Lania,라니아,R,Universal,萬能型,Blizzard Plains,2025-05-15,,1,,unverified,1,1,atlas_lania,source_imported,0
+lee-joohee,10176,101766,李珠熙,Lee Joohee,이주희,R,Support,支援型,Solo Leveling,2026-03-19,,1,,unverified,1,1,atlas_lee-joohee,source_imported,0
+leo,10021,100216,雷歐,Leo,레오,R,Attack,攻擊型,Blazing Desert,2025-05-15,,1,,unverified,1,1,atlas_leo,source_imported,0
+li,10064,400647,李,Li,리,R,Defense,防禦型,Evan Expedition,2025-05-15,2026-10-29,1,,unverified,1,1,atlas_li,source_imported,0
+ling-ling,10149,101496,玲玲,Ling Ling,링링,R,Magic,魔法型,Western Aisha,2026-02-05,,1,,unverified,1,1,atlas_ling-ling,source_imported,0
+lucy,10080,100806,露西,Lucy,루시,R,Support,支援型,Adventurers,2025-05-15,,1,,unverified,1,1,atlas_lucy,source_imported,0
+may,10094,100946,梅伊,May,메이,R,Attack,攻擊型,Terra,2025-05-15,,1,,unverified,1,1,atlas_may,source_imported,0
+noho,10098,100986,諾荷,Noho,노호,R,Magic,魔法型,Terra,2025-05-15,,1,,unverified,1,1,atlas_noho,source_imported,0
+rahkun,10014,100146,拉坤,Rahkun,라쿤,R,Defense,防禦型,Silent Mine,2025-05-15,,1,,unverified,1,1,atlas_rahkun,source_imported,0
+rei,10118,101186,雷伊,Rei,레이,R,Attack,攻擊型,Moonlit Isle,2025-05-15,,1,,unverified,1,1,atlas_rei,source_imported,0
+sarah,10048,100486,莎拉,Sarah,사라,R,Support,支援型,Purgatory,2025-05-15,,1,,unverified,1,1,atlas_sarah,source_imported,0
+sera,10093,100936,賽拉,Sera,세라,R,Magic,魔法型,Shadow Clan,2025-05-15,,1,,unverified,1,1,atlas_sera,source_imported,0
+snipper,10073,100736,斯尼波,Snipper,스니퍼,R,Attack,攻擊型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_snipper,source_imported,0
+soi,10071,100716,索伊,Soi,소이,R,Attack,攻擊型,Western Aisha,2025-05-15,,1,,unverified,1,1,atlas_soi,source_imported,0
+sylvia,10082,100826,希皮亞,Sylvia,실비아,R,Magic,魔法型,Adventurers,2025-05-15,,1,,unverified,1,1,atlas_sylvia,source_imported,0
+victoria,10079,100796,維多利亞,Victoria,빅토리아,R,Universal,萬能型,Adventurers,2025-05-15,,1,,unverified,1,1,atlas_victoria,source_imported,0
+xiao,10185,101856,蕭歐,Xiao,샤오,R,Attack,攻擊型,Adventurers,2026-02-19,,1,,unverified,1,1,atlas_xiao,source_imported,0
+yoo-jinho,10175,101756,柳軫皓,Yoo Jinho,유진호,R,Defense,防禦型,Solo Leveling,2026-03-19,,1,,unverified,1,1,atlas_yoo-jinho,source_imported,0
+yui,10083,100836,尤伊,Yui,유이,R,Support,支援型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_yui,source_imported,0
+yuri,10018,100186,幼琍,Yuri,유리,R,Magic,魔法型,Evan Expedition,2025-05-15,,1,,unverified,1,1,atlas_yuri,source_imported,0
+zhao-yun,10159,101596,趙雲,Zhao Yun,조운,R,Attack,攻擊型,Heroes of the Three Kingdoms,2026-01-22,,1,,unverified,1,1,atlas_zhao-yun,source_imported,0
+alice,10095,100956,艾莉絲,Alice,엘리스,L,Support,支援型,Terra,2025-05-15,,1,,unverified,1,1,atlas_alice,source_imported,0
+amelia,10140,101406,阿梅莉亞,Amelia,아멜리아,L,Attack,攻擊型,Hidden Masters,2025-10-02,,1,,unverified,1,1,atlas_amelia,source_imported,0
+aragon,10096,100966,亞拉岡,Aragon,아라곤,L,Defense,防禦型,Terra,2025-05-15,,1,,unverified,1,1,atlas_aragon,source_imported,0
+bai-jiao,10155,101556,百閣,Bai Jiao,백각,L,Universal,萬能型,Eastern Aisha,2026-01-08,,1,,unverified,1,1,atlas_bai-jiao,source_imported,0
+bai-long,10154,101546,白龍,Bai Long,백룡,L,Attack,攻擊型,Western Aisha,2026-02-19,,1,,unverified,1,1,atlas_bai-long,source_imported,0
+ballista,10091,100916,芭莉絲塔,Ballista,발리스타,L,Attack,攻擊型,Shadow Clan,2025-05-15,,1,,unverified,1,1,atlas_ballista,source_imported,0
+bi-dam,10070,100706,毗曇,Bi Dam,비담,L,Attack,攻擊型,Eastern Aisha,2025-05-15,,1,,unverified,1,1,atlas_bi-dam,source_imported,0
+cha-hae-in,10174,101746,車海印,Cha Hae-in,차해인,L,Attack,攻擊型,Solo Leveling,2026-03-19,,1,,unverified,1,1,atlas_cha-hae-in,source_imported,0
+chancellor,10090,100906,伽施勒,Chancellor,챈슬러,L,Universal,萬能型,Terra,2025-05-15,,1,,unverified,1,1,atlas_chancellor,source_imported,0
+daisy,10117,101176,戴乙姬,Daisy,데이지,L,Magic,魔法型,Moonlit Isle,2025-09-04,,1,,unverified,1,1,atlas_daisy,source_imported,0
+deo,10186,101866,胖烏,Deo,돼오,L,Attack,攻擊型,Terra,2026-04-02,,1,,unverified,1,1,atlas_deo,source_imported,0
+diaochan,10160,101606,貂蟬,Diaochan,초선,L,Support,支援型,Heroes of the Three Kingdoms,2026-01-22,,1,,unverified,1,1,atlas_diaochan,source_imported,0
+espada,10086,100866,艾絲芭塔,Espada,에스파다,L,Magic,魔法型,Holy Cross Crusaders,2025-05-15,,1,,unverified,1,1,atlas_espada,source_imported,0
+guan-yu,10161,101616,關羽,Guan Yu,관우,L,Universal,萬能型,Heroes of the Three Kingdoms,2026-03-05,,1,,unverified,1,1,atlas_guan-yu,source_imported,0
+knox,10049,400497,諾克司,Knox,녹스,L,Defense,防禦型,Purgatory,2025-05-15,2026-08-06,1,,unverified,1,1,atlas_knox,source_imported,0
+lina,10072,100726,麗娜,Lina,리나,L,Support,支援型,Moonlit Isle,2025-05-15,,1,,unverified,1,1,atlas_lina,source_imported,0
+miho,10139,101396,碧,Miho,미호,L,Magic,魔法型,Hidden Masters,2025-09-18,,1,,unverified,1,1,atlas_miho,source_imported,0
+nia,10085,100856,尼亞,Nia,니아,L,Universal,萬能型,Holy Cross Crusaders,2025-05-15,,1,,unverified,1,1,atlas_nia,source_imported,0
+pascal,10100,101006,帕斯卡,Pascal,파스칼,L,Magic,魔法型,Sanctuary of Darkness,2025-05-15,,1,,unverified,1,1,atlas_pascal,source_imported,0
+rook,10089,100896,路克,Rook,룩,L,Defense,防禦型,Terra,2025-05-15,,1,,unverified,1,1,atlas_rook,source_imported,0
+ruri,10084,100846,露妮,Ruri,루리,L,Magic,魔法型,Holy Cross Crusaders,2025-05-15,,1,,unverified,1,1,atlas_ruri,source_imported,0
+shane,10087,100876,賽茵,Shane,세인,L,Attack,攻擊型,Holy Cross Crusaders,2025-05-15,,1,,unverified,1,1,atlas_shane,source_imported,0
+sieg,10088,100886,齊克,Sieg,지크,L,Universal,萬能型,Holy Cross Crusaders,2025-05-15,,1,,unverified,1,1,atlas_sieg,source_imported,0
+taka,10114,101146,塔卡,Taka,타카,L,Attack,攻擊型,Night Crows,2025-05-29,,1,,unverified,1,1,atlas_taka,source_imported,0
+velika,10081,400817,裴里卡,Velika,벨리카,L,Magic,魔法型,Adventurers,2025-05-15,2026-09-03,1,,unverified,1,1,atlas_velika,source_imported,0
+xiao-qiao,10152,101526,小喬,Xiao Qiao,소교,L,Magic,魔法型,Eastern Aisha,2026-02-05,,1,,unverified,1,1,atlas_xiao-qiao,source_imported,0
+yu-shin,10069,100696,尤神,Yu Shin,유신,L,Magic,魔法型,Eastern Aisha,2025-05-15,,1,,unverified,1,1,atlas_yu-shin,source_imported,0
+ace,10051,100516,艾斯,Ace,에이스,L+,Universal,萬能型,Four Lords,2025-05-15,,1,,unverified,1,1,atlas_ace,source_imported,0
+aquila,10144,101446,亞葵菈,Aquila,아킬라,L+,Defense,防禦型,Night Crows,2025-10-16,,1,,unverified,1,1,atlas_aquila,source_imported,0
+aris,10182,401827,艾瑞絲,Aris,아리스,L+,Universal,萬能型,Pentagon,2026-07-09,2026-07-09,1,,unverified,1,1,atlas_aris,source_imported,0
+biscuit,10110,101106,比司琪,Biscuit,비스킷,L+,Support,支援型,Terra,2025-08-21,,1,,unverified,1,1,atlas_biscuit,source_imported,0
+branze-bransel,10145,101456,布蘭茲＆布蘭雪,Branze & Bransel,브란즈&브란셀,L+,Attack,攻擊型,Dark Knights,2026-01-08,,1,,unverified,1,1,atlas_branze-bransel,source_imported,0
+clemyth,10179,401797,克萊密絲,Clemyth,클레미스,L+,Support,支援型,Pentagon,2026-06-11,2026-06-11,1,,unverified,1,1,atlas_clemyth,source_imported,0
+colt,10113,101136,蔻特,Colt,콜트,L+,Attack,攻擊型,Dark Knights,2025-07-24,,1,,unverified,1,1,atlas_colt,source_imported,0
+dellons,10058,400587,戴倫斯,Dellons,델론즈,L+,Attack,攻擊型,Dark Knights,2025-05-15,2026-06-11,1,,unverified,1,1,atlas_dellons,source_imported,0
+dongyoung,10189,401897,東永,Dongyoung,동영,L+,Magic,魔法型,Shinji,2026-08-06,2026-08-06,1,,unverified,1,1,atlas_dongyoung,source_imported,0
+eileene,10059,400597,亞依林,Eileene,아일린,L+,Universal,萬能型,Seven Knights,2025-05-15,2026-09-17,1,,unverified,1,1,atlas_eileene,source_imported,0
+elysia,10127,101276,艾莉希亞,Elysia,엘리시아,L+,Universal,萬能型,Luminous Revolutionaries,2025-11-13,,1,,unverified,1,1,atlas_elysia,source_imported,0
+freyja,10131,101316,芙蕾雅,Freyja,프레이야,L+,Magic,魔法型,Celestial Guardians,2025-12-11,,1,,unverified,1,1,atlas_freyja,source_imported,0
+hayeon,10188,401887,夏言,Hayeon,하연,L+,Support,支援型,Guardians of the Boundary,2026-09-03,2026-09-03,1,,unverified,1,1,atlas_hayeon,source_imported,0
+jave,10061,100616,傑伊普,Jave,제이브,L+,Universal,萬能型,Seven Knights,2025-05-15,,1,,unverified,1,1,atlas_jave,source_imported,0
+kagura,10138,101386,神樂,Kagura,카구라,L+,Attack,攻擊型,Hidden Masters,2025-10-02,,1,,unverified,1,1,atlas_kagura,source_imported,0
+karl-heron,10178,101786,卡爾赫倫,Karl Heron,칼 헤론,L+,Attack,攻擊型,Night Crows,2026-05-14,,1,,unverified,1,1,atlas_karl-heron,source_imported,0
+karma,10142,101426,卡爾瑪,Karma,카르마,L+,Universal,萬能型,Four Lords of Old,2025-07-10,,1,,unverified,1,1,atlas_karma,source_imported,0
+klahan,10137,101376,克拉汗,Klahan,클라한,L+,Attack,攻擊型,Hidden Masters,2025-09-18,,1,,unverified,1,1,atlas_klahan,source_imported,0
+kris,10057,100576,克里斯,Kris,크리스,L+,Universal,萬能型,Seven Knights,2025-05-15,,1,,unverified,1,1,atlas_kris,source_imported,0
+kyle,10143,101436,凱爾,Kyle,카일,L+,Attack,攻擊型,Four Lords of Old,2025-10-16,,1,,unverified,1,1,atlas_kyle,source_imported,0
+kyrielle,10128,101286,琦莉愛,Kyrielle,키리엘,L+,Magic,魔法型,Luminous Revolutionaries,2025-10-30,,1,,unverified,1,1,atlas_kyrielle,source_imported,0
+lu-bu,10148,101486,呂布,Lu Bu,여포,L+,Attack,攻擊型,Four Lords,2026-02-05,,1,,unverified,1,1,atlas_lu-bu,source_imported,0
+mercure,10112,101126,梅爾契,Mercure,멜키르,L+,Magic,魔法型,Dark Knights,2025-06-26,,1,,unverified,1,1,atlas_mercure,source_imported,0
+mist,10172,101726,蜜絲特,Mist,미스트,L+,Universal,萬能型,Celestial Guardians,2026-04-16,,1,,unverified,1,1,atlas_mist,source_imported,0
+nezha,10156,101566,哪吒,Nezha,나타,L+,Magic,魔法型,Eastern Aisha,2026-04-16,,1,,unverified,1,1,atlas_nezha,source_imported,0
+omok,10177,101776,烏目,O'Mok,오목,L+,Magic,魔法型,Night Crows,2026-04-30,,1,,unverified,1,1,atlas_omok,source_imported,0
+orkah,10180,401807,奧勒卡,Orkah,오르카,L+,Attack,攻擊型,Pentagon,2026-06-25,2026-06-25,1,,unverified,1,1,atlas_orkah,source_imported,0
+orly,10126,101266,奧莉,Orly,오를리,L+,Support,支援型,Night Crows,2025-09-04,,1,,unverified,1,1,atlas_orly,source_imported,0
+pallanus,10146,101466,帕菈露絲,Pallanus,팔라누스,L+,Universal,萬能型,Dark Knights,2026-01-22,,1,,unverified,1,1,atlas_pallanus,source_imported,0
+platin,10054,100546,伯萊登,Platin,플라튼,L+,Support,支援型,Dark Knights,2025-08-07,,1,,unverified,1,1,atlas_platin,source_imported,0
+rachel,10060,100606,雷伊潔兒,Rachel,레이첼,L+,Universal,萬能型,Seven Knights,2025-05-15,,1,,unverified,1,1,atlas_rachel,source_imported,0
+radgrid,10169,101696,拉德格里德,Radgrid,라드그리드,L+,Defense,防禦型,Celestial Guardians,2026-02-19,,1,,unverified,1,1,atlas_radgrid,source_imported,0
+randgrid,10171,101716,蘭德格里德,Randgrid,란드그리드,L+,Attack,攻擊型,Celestial Guardians,2026-04-02,,1,,unverified,1,1,atlas_randgrid,source_imported,0
+reginleif,10170,101706,瑞金蕾依芙,Reginleif,레긴레이프,L+,Magic,魔法型,Celestial Guardians,2026-03-05,,1,,unverified,1,1,atlas_reginleif,source_imported,0
+rin,10141,101416,琳,Rin,린,L+,Magic,魔法型,Four Lords,2025-07-10,,1,,unverified,1,1,atlas_rin,source_imported,0
+rudy,10056,400567,路迪,Rudy,루디,L+,Defense,防禦型,Seven Knights,2025-05-15,2026-07-09,1,,unverified,1,1,atlas_rudy,source_imported,0
+ryan,10129,101296,萊恩,Ryan,라이언,L+,Attack,攻擊型,Luminous Revolutionaries,2025-11-27,,1,,unverified,1,1,atlas_ryan,source_imported,0
+silvesta,10055,400557,斯貝思塔,Silvesta,실베스타,L+,Magic,魔法型,????,2025-05-15,2026-05-28,1,,unverified,1,1,atlas_silvesta,source_imported,0
+skuld,10168,401687,詩寇蒂,Skuld,스쿨드,L+,Magic,魔法型,Celestial Guardians,2026-05-28,2026-05-28,1,,unverified,1,1,atlas_skuld,source_imported,0
+spike,10062,100626,斯帕依克,Spike,스파이크,L+,Universal,萬能型,Seven Knights,2025-05-15,,1,,unverified,1,1,atlas_spike,source_imported,0
+sun-wukong,10147,101476,孫悟空,Sun Wukong,손오공,L+,Universal,萬能型,Four Lords,2025-12-23,,1,,unverified,1,1,atlas_sun-wukong,source_imported,0
+sung-jinwoo,10173,101736,成振宇,Sung Jinwoo,성진우,L+,Magic,魔法型,Solo Leveling,2026-03-19,,1,,unverified,1,1,atlas_sung-jinwoo,source_imported,0
+sunran,10187,401877,宣嵐,Sunran,선란,L+,Attack,攻擊型,Guardians of the Boundary,2026-07-23,2026-07-23,1,,unverified,1,1,atlas_sunran,source_imported,0
+teo,10052,100526,太烏,Teo,태오,L+,Attack,攻擊型,Four Lords of Old,2025-05-29,,1,,unverified,1,1,atlas_teo,source_imported,0
+trude,10130,101306,特路朵,Trude,트루드,L+,Universal,萬能型,Celestial Guardians,2025-11-27,,1,,unverified,1,1,atlas_trude,source_imported,0
+vanessa,10063,100636,凡妮莎,Vanessa,바네사,L+,Magic,魔法型,Seven Knights,2025-05-15,,1,,unverified,1,1,atlas_vanessa,source_imported,0
+yeonhee,10053,100536,妍熙,Yeonhee,연희,L+,Magic,魔法型,Four Lords of Old,2025-06-12,,1,,unverified,1,1,atlas_yeonhee,source_imported,0
+yoongun,10190,401907,尹建,Yoongun,윤건,L+,Magic,魔法型,Hidden Masters,2026-08-20,2026-08-20,1,,unverified,1,1,atlas_yoongun,source_imported,0
+giyu-tomioka,10201,402017,富岡義勇,Giyu Tomioka,토미오카 기유,L+,Universal,萬能型,Demon Slayer: Kimetsu no Yaiba,2026-10-15,2026-10-15,1,,unverified,1,1,atlas_giyu-tomioka,source_imported,0
+shinobu-kocho,10200,402007,胡蝶忍,Shinobu Kocho,코쵸우 시노부,L+,Magic,魔法型,Demon Slayer: Kimetsu no Yaiba,2026-10-15,2026-10-15,1,,unverified,1,1,atlas_shinobu-kocho,source_imported,0
+tanjiro-kamado,10198,401987,竈門炭治郎,Tanjiro Kamado,카마도 탄지로,L+,Attack,攻擊型,Demon Slayer: Kimetsu no Yaiba,2026-10-01,2026-10-01,1,,unverified,1,1,atlas_tanjiro-kamado,source_imported,0
+zenitsu-agatsuma,10199,401997,我妻善逸,Zenitsu Agatsuma,아가츠마 젠이츠,L+,Attack,攻擊型,Demon Slayer: Kimetsu no Yaiba,2026-10-01,2026-10-01,1,,unverified,1,1,atlas_zenitsu-agatsuma,source_imported,0
+judas,10204,402047,猶大,Judas,쥬다스,L+,Universal,萬能型,Apostles of the Abyss,2026-10-29,2026-10-29,1,,unverified,1,1,atlas_judas,source_imported,0
+eve,10206,402067,夏娃,Eve,이브,L+,Attack,攻擊型,Apostles of the Abyss,2026-11-12,2026-11-12,1,new,unverified,1,1,atlas_eve,source_imported,0
+sizar,,401817,賽薩爾,Sizar,,L+,,,Pentagon,,,0,unreleased,unverified,1,1,atlas_sizar,source_imported,0
+bael,,402057,芭艾兒,Bael,바엘,L+,,,Apostles of the Abyss,2026-11-26,2026-11-26,0,unreleased,unverified,1,1,atlas_bael,source_imported,0
+gideon,,402077,吉德溫,Gideon,기드온,L+,,,Apostles of the Abyss,2026-12-10,2026-12-10,0,unreleased,unverified,1,1,atlas_gideon,source_imported,0
+fai,10121,101216,菲依,Fai,파이,L++,Attack,攻擊型,Seven Knights of Old,2025-05-15,2026-11-26,1,,unverified,1,1,atlas_fai,source_imported,0
+gelidus,10119,101196,蓋利達斯,Gelidus,겔리두스,L++,Universal,萬能型,Seven Knights of Old,2025-12-23,,1,,unverified,1,1,atlas_gelidus,source_imported,0
+juri,10125,101256,朱里,Juri,쥬리,L++,Magic,魔法型,Seven Knights of Old,2025-05-15,,1,,unverified,1,1,atlas_juri,source_imported,0
+melia,10120,101206,米莉亞,Melia,밀리아,L++,Magic,魔法型,Seven Knights of Old,2025-12-23,,1,,unverified,1,1,atlas_melia,source_imported,0
+rosie,10122,101226,蘿希,Rosie,로지,L++,Support,支援型,Seven Knights of Old,2025-05-15,,1,,unverified,1,1,atlas_rosie,source_imported,0

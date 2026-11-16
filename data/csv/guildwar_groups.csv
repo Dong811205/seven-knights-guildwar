@@ -1,0 +1,32 @@
+﻿group_id,category,category_tw,source_label,member_team_ids_json,source_id
+physical/1,physical,物理隊,Sunran-Lu Bu Main,"[""physical/1A"", ""physical/1B"", ""physical/1C"", ""physical/1D""]",atlas_guildwar_20261115
+physical/2,physical,物理隊,Sunran-Dellons Main,"[""physical/2A"", ""physical/2B"", ""physical/2C"", ""physical/2D""]",atlas_guildwar_20261115
+physical/3,physical,物理隊,Lu Bu Main without Sunran,"[""physical/3A"", ""physical/3B"", ""physical/3C"", ""physical/3D"", ""physical/3E"", ""physical/3F"", ""physical/3G"", ""physical/3H""]",atlas_guildwar_20261115
+physical/4,physical,物理隊,Dellons Main without Sunran,"[""physical/4A"", ""physical/4B"", ""physical/4C"", ""physical/4D""]",atlas_guildwar_20261115
+physical/5,physical,物理隊,Sunran-Ballista Miss Main,"[""physical/5A"", ""physical/5B""]",atlas_guildwar_20261115
+physical/6,physical,物理隊,Sunran Main,"[""physical/6A"", ""physical/6B"", ""physical/6C"", ""physical/6D""]",atlas_guildwar_20261115
+physical/7,physical,物理隊,Fai-Ryan Main,"[""physical/7A""]",atlas_guildwar_20261115
+physical/8,physical,物理隊,Demon Slayer (Tanjiro/Zenitsu),"[""physical/8A"", ""physical/8B"", ""physical/8C"", ""physical/8D"", ""physical/8E"", ""physical/8F""]",atlas_guildwar_20261115
+physical/9,physical,物理隊,Sunran-Hayeon Main,"[""physical/9A"", ""physical/9B"", ""physical/9C"", ""physical/9D"", ""physical/9E"", ""physical/9F""]",atlas_guildwar_20261115
+magic/1,magic,魔法隊,Yoongun-Dongyoung Main,"[""magic/1A"", ""magic/1B"", ""magic/1C"", ""magic/1D""]",atlas_guildwar_20261115
+magic/2,magic,魔法隊,Skuld-Melia Main,"[""magic/2A"", ""magic/2B"", ""magic/2C"", ""magic/2D"", ""magic/2E"", ""magic/2F""]",atlas_guildwar_20261115
+magic/3,magic,魔法隊,Silvesta Main,"[""magic/3A"", ""magic/3B"", ""magic/3C"", ""magic/3D"", ""magic/3E""]",atlas_guildwar_20261115
+magic/4,magic,魔法隊,Yoongun-O'Mok Main,"[""magic/4A"", ""magic/4B""]",atlas_guildwar_20261115
+magic/5,magic,魔法隊,Mercure Main,"[""magic/5A""]",atlas_guildwar_20261115
+magic/6,magic,魔法隊,Freyja-Reginleif Main,"[""magic/6A""]",atlas_guildwar_20261115
+magic/7,magic,魔法隊,Yoongun-Yeonhee Main,"[""magic/7A"", ""magic/7B"", ""magic/7C""]",atlas_guildwar_20261115
+magic/8,magic,魔法隊,Demon Slayer (Shinobu Kocho),"[""magic/8A"", ""magic/8B""]",atlas_guildwar_20261115
+tank/1,tank,坦克隊,Rudy-Clemyth Main,"[""tank/1A"", ""tank/1B"", ""tank/1C"", ""tank/1D""]",atlas_guildwar_20261115
+tank/2,tank,坦克隊,Rudy-Aris Main,"[""tank/2A"", ""tank/2B""]",atlas_guildwar_20261115
+tank/3,tank,坦克隊,Aris-Trude Main,"[""tank/3A"", ""tank/3B"", ""tank/3C""]",atlas_guildwar_20261115
+tank/4,tank,坦克隊,Sun Wukong-Radgrid Main,"[""tank/4A"", ""tank/4B"", ""tank/4C"", ""tank/4D"", ""tank/4E""]",atlas_guildwar_20261115
+tank/5,tank,坦克隊,Trude Main,"[""tank/5A"", ""tank/5B"", ""tank/5C""]",atlas_guildwar_20261115
+tank/6,tank,坦克隊,Pallanus Main,"[""tank/6A"", ""tank/6B"", ""tank/6C"", ""tank/6D"", ""tank/6E""]",atlas_guildwar_20261115
+tank/7,tank,坦克隊,Eileene Main,"[""tank/7A"", ""tank/7B"", ""tank/7C""]",atlas_guildwar_20261115
+tank/8,tank,坦克隊,Demon Slayer (Giyu Tomioka),"[""tank/8A"", ""tank/8B"", ""tank/8C"", ""tank/8D""]",atlas_guildwar_20261115
+cc/1,cc,控制隊,Gelidus Main,"[""cc/1A"", ""cc/1B"", ""cc/1C"", ""cc/1D"", ""cc/1E"", ""cc/1F""]",atlas_guildwar_20261115
+cc/2,cc,控制隊,Gelidus-Mist Main,"[""cc/2A"", ""cc/2B""]",atlas_guildwar_20261115
+death/1,death,即死隊,"Death Main (Mist, Rosie)","[""death/1A"", ""death/1B"", ""death/1C""]",atlas_guildwar_20261115
+others/1,others,其他隊,HP Alteration Main 1 (Platin),"[""others/1A"", ""others/1B""]",atlas_guildwar_20261115
+others/2,others,其他隊,HP Alteration Main 2 (Amelia),"[""others/2A"", ""others/2B""]",atlas_guildwar_20261115
+others/3,others,其他隊,HP Alteration Main 3 (Rook),"[""others/3A""]",atlas_guildwar_20261115

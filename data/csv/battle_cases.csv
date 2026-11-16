@@ -1,0 +1,2 @@
+﻿case_id,battle_date,attack_hero_ids_json,defense_alias,defense_hero_ids_json,defense_stats_json,pet_id,formation,skill_queue_json,result,reported_wins,reported_losses,evidence,source_id,recipe_source_id,notes
+user_win_20261116_01,2026-11-16,"[""li"", ""clemyth"", ""aris""]",炭夏宣,,,,,,win,1,,使用者表示今天出這刀且獲勝；未提供重播。,user_win_20261116,user_recipe,敵方正式角色ID、寵物、站位及本場技能順序待確認；不從原作業自動繼承。非穩拆認證，非最低面板。

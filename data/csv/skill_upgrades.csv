@@ -1,0 +1,1122 @@
+﻿upgrade_id,skill_id,category,required_tier,target_en,target_tw,description_en,description_tw,source_id
+1,ariel:source_default:basic:10065601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_ariel
+2,ariel:source_default:s1:10065602,enhancement,,,,Increases Damage: To 145% of Magic Attack.,傷害量上升：魔法攻擊力的145%,atlas_ariel
+3,ariel:source_default:s1:10065602,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Increased Miss Chance. [Duration: 3 Turn(s)],添加效果：偏離機率增加［100%機率］［持續3回合］,atlas_ariel
+4,ariel:source_default:ultimate:10065603,enhancement,,,,Increases Damage: To 145% of Magic Attack.,傷害量上升：魔法攻擊力的145%,atlas_ariel
+5,ariel:source_default:ultimate:10065603,tx_bonuses,T2,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_ariel
+6,ariel:source_default:passive:10065604,enhancement,,,,Increases Effect: Magic Damage Boost to 15%.,效果上升：魔法傷害量增加15%,atlas_ariel
+7,asura:source_default:basic:10099601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_asura
+8,asura:source_default:s1:10099602,enhancement,,,,Increases Effect: Defense Reduction to 36%.,效果上升：防禦力減少36%,atlas_asura
+9,asura:source_default:s1:10099602,tx_bonuses,T2,,,Increases Turns: Focus Target duration becomes 5 turn(s).,回合上升：集中攻擊［持續5回合］,atlas_asura
+10,asura:source_default:s1:10099602,tx_bonuses,T6,,,Increases Turns: Defense Reduction duration becomes 5 turn(s).,回合上升：防禦力減少［持續5回合］,atlas_asura
+11,asura:source_default:ultimate:10099603,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 100% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的100%,atlas_asura
+12,asura:source_default:passive:10099604,enhancement,,,,Increases Effect: Weakness Hit Chance Boost to 80%.,效果上升：弱點攻擊機率增加80%,atlas_asura
+13,asura:source_default:passive:10099604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 135% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的135%,atlas_asura
+14,bane:source_default:basic:10028601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_bane
+15,bane:source_default:s1:10028602,enhancement,,,,Increases Damage: To 340% of Magic Attack.,傷害量上升：魔法攻擊力的340%,atlas_bane
+16,bane:source_default:s1:10028602,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Physical Attack Reduction. [Duration: 5 Turn(s)],添加效果：物理攻擊力減少［100%機率］［持續5回合］,atlas_bane
+17,bane:source_default:ultimate:10028603,enhancement,,,,Increases Damage: To 145% of Magic Attack.,傷害量上升：魔法攻擊力的145%,atlas_bane
+18,bane:source_default:passive:10028604,enhancement,,,,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_bane
+19,bane:source_default:passive:10028604,tx_bonuses,T2,,,Adds Effect: Grants Effect Hit Rate Boost.,添加效果：效果命中增加,atlas_bane
+20,black-rose:source_default:basic:10111601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_black-rose
+21,black-rose:source_default:s1:10111602,enhancement,,,,Increases Damage: To 410% of Physical Attack.,傷害量上升：物理攻擊力的410%,atlas_black-rose
+22,black-rose:source_default:ultimate:10111603,enhancement,,,,Increases Damage: To 150% of Physical Attack.,傷害量上升：物理攻擊力的150%,atlas_black-rose
+23,black-rose:source_default:ultimate:10111603,tx_bonuses,T6,All Allies,所有我軍,Adds Effect: Grants All Attack Boost. [Duration: 2 Turn(s)],添加效果：所有攻擊力增加［持續2回合］,atlas_black-rose
+24,black-rose:source_default:passive:10111604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 90% of Physical Attack upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於物理攻擊力90%的生命力,atlas_black-rose
+25,black-rose:source_default:passive:10111604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Physical Attack Boost. [Always Active],添加效果：物理攻擊力增加 ［常態］,atlas_black-rose
+26,catty:source_default:basic:10115601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_catty
+27,catty:source_default:s1:10115602,enhancement,,,,Increases Damage: To 270% of Physical Attack.,傷害量上升：物理攻擊力的270%,atlas_catty
+28,catty:source_default:s1:10115602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Block Rate Reduction. [Duration: 5 Turn(s)],添加效果：格擋機率減少［100%機率］［持續5回合］,atlas_catty
+29,catty:source_default:ultimate:10115603,enhancement,,,,Increases Effect: Crit Rate Boost to 27%.,效果上升：暴擊機率增加27%,atlas_catty
+30,catty:source_default:ultimate:10115603,tx_bonuses,T6,All Allies,所有我軍,Adds Effect: 32% Weakness Hit Chance Boost. [Duration: 3 Turn(s)],添加效果：弱點攻擊機率增加32%［持續3回合］,atlas_catty
+31,catty:source_default:passive:10115604,enhancement,,,,Increases Effect: Physical Attack Boost to 31%.,效果上升：物理攻擊力增加31%,atlas_catty
+32,chloe:source_default:basic:10097601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_chloe
+33,chloe:source_default:s1:10097602,enhancement,,,,Increases Damage: To 108% of Magic Attack.,傷害量上升：魔法攻擊力的108%,atlas_chloe
+34,chloe:source_default:s1:10097602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict 2 Buff Removal(s).,添加效果：Buff解除2個［100%機率］,atlas_chloe
+35,chloe:source_default:ultimate:10097603,enhancement,,,,Increases Effect: All Attack Boost to 20%.,效果上升：所有攻擊力增加20%,atlas_chloe
+36,chloe:source_default:ultimate:10097603,tx_bonuses,T6,,,Adds Effect: Grants Crit Rate Boost. [Duration: 3 Turn(s)],添加效果：暴擊機率增加［持續3回合］,atlas_chloe
+37,chloe:source_default:passive:10097604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 22% of Max HP upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於最大生命力22%的生命力,atlas_chloe
+38,cleo:source_default:basic:10035601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_cleo
+39,cleo:source_default:s1:10035602,enhancement,,,,Increases Damage: To 145% of Magic Attack.,傷害量上升：魔法攻擊力的145%,atlas_cleo
+40,cleo:source_default:s1:10035602,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Physical Attack Reduction. [Duration: 3 Turn(s)],添加效果：物理攻擊力減少［100%機率］［持續3回合］,atlas_cleo
+41,cleo:source_default:ultimate:10035603,enhancement,,,,Increases Damage: To 145% of Magic Attack.,傷害量上升：魔法攻擊力的145%,atlas_cleo
+42,cleo:source_default:ultimate:10035603,enhancement,,,,Increases Chance: Petrify chance becomes 60%.,機率上升：石化機率60%,atlas_cleo
+43,cleo:source_default:ultimate:10035603,tx_bonuses,T2,,,Adds Effect: 85% chance to inflict Poison. [Duration: 2 Turn(s)],添加效果：中毒［85%機率］［持續2回合］,atlas_cleo
+44,cleo:source_default:passive:10035604,enhancement,,Self,自身,Adds Effect: Grants Magic Attack Boost. [Duration: 3 Turn(s)],添加效果：魔法攻擊力增加［持續3回合］,atlas_cleo
+45,evan:source_default:basic:10075601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_evan
+46,evan:source_default:s1:10075602,enhancement,,,,Increases Turns: Stun duration becomes 4 turn(s).,回合上升：暈眩［持續4回合］,atlas_evan
+47,evan:source_default:s1:10075602,tx_bonuses,T2,,,Increases Damage: To 170% of Physical Attack plus 200% of Defense.,傷害量上升：物理攻擊力的170%、防禦力的200%,atlas_evan
+48,evan:source_default:s1:10075602,tx_bonuses,T2,,,Increases Chance: Stun chance becomes 100%.,機率上升：暈眩機率100%,atlas_evan
+49,evan:source_default:ultimate:10075603,enhancement,,,,Increases Effect: Barrier absorption becomes 130% of Defense.,效果上升：防護罩吸收量為防禦力的130%,atlas_evan
+50,evan:source_default:ultimate:10075603,tx_bonuses,T6,,,Adds Effect: Grants Block Rate Boost. [Duration: 3 Turn(s)],添加效果：格擋機率增加［持續3回合］,atlas_evan
+51,evan:source_default:passive:10075604,enhancement,,,,Increases Effect: Defense Boost to 18%.,效果上升：防禦力增加18%,atlas_evan
+52,feng-yan:source_default:basic:10068601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_feng-yan
+53,feng-yan:source_default:s1:10068602,enhancement,,,,Increases Damage: To 190% of Physical Attack.,傷害量上升：物理攻擊力的190%,atlas_feng-yan
+54,feng-yan:source_default:s1:10068602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 3 Turn(s)],添加效果：防禦力減少［100%機率］［持續3回合］,atlas_feng-yan
+55,feng-yan:source_default:ultimate:10068603,enhancement,,,,Increases Damage: To 210% of Physical Attack.,傷害量上升：物理攻擊力的210%,atlas_feng-yan
+56,feng-yan:source_default:ultimate:10068603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_feng-yan
+57,feng-yan:source_default:passive:10068604,enhancement,,Self,自身,Adds Effect: Grants Crit Damage Boost. [Always Active],添加效果：暴擊傷害增加 ［常態］,atlas_feng-yan
+58,heavenia:awakened:s1:40067702,tx_bonuses,T2,,,Increases Chance: Freeze chance becomes 85%.,機率上升：凍結機率85%,atlas_heavenia
+59,heavenia:awakened:passive:40067704,tx_bonuses,T6,Self,自身,Adds Effect: All Damage Immunity. [Duration: 2 Turn(s)],添加效果：所有傷害免疫［持續2回合］,atlas_heavenia
+60,heavenia:awakened:awakened:40067707,enhancement,,,,Increases Effect: Physical Attack Boost to 23%.,效果上升：物理攻擊力增加23%,atlas_heavenia
+61,heavenia:awakened:awakened:40067707,enhancement,,"Self, 2 Allies with the Highest Attack (Excluding Self)",自身、攻擊力最高的我軍2名（不包含自身）,Adds Effect: Grants Crit Damage Boost. [Duration: 5 Turn(s)],添加效果：暴擊傷害增加［持續5回合］,atlas_heavenia
+62,heavenia:s6:basic:10067601,enhancement,,,,Increases Chance: Freeze chance becomes 50%.,機率上升：凍結機率50%,atlas_heavenia
+63,heavenia:s6:s1:10067602,enhancement,,,,Increases Damage: To 145% of Physical Attack.,傷害量上升：物理攻擊力的145%,atlas_heavenia
+64,heavenia:s6:s1:10067602,tx_bonuses,T2,,,Increases Chance: Freeze chance becomes 85%.,機率上升：凍結機率85%,atlas_heavenia
+65,heavenia:s6:ultimate:10067603,enhancement,,,,Increases Damage: To 340% of Physical Attack.,傷害量上升：物理攻擊力的340%,atlas_heavenia
+66,heavenia:s6:ultimate:10067603,enhancement,,,,Increases Effect: Buff Duration Reduction becomes 3 turns.,效果上升：回合制Buff減少3回合,atlas_heavenia
+67,heavenia:s6:passive:10067604,enhancement,,"Self, 2 Allies with the Highest Attack (Excluding Self)",自身、攻擊力最高的我軍2名（不包含自身）,Increases Effect: Physical Attack Boost becomes 25%.,效果上升：物理攻擊力增加25%,atlas_heavenia
+68,heavenia:s6:passive:10067604,tx_bonuses,T6,Self,自身,Adds Effect: All Damage Immunity. [Duration: 2 Turn(s)],添加效果：所有傷害免疫［持續2回合］,atlas_heavenia
+69,hellenia:awakened:s1:40066702,tx_bonuses,T2,3 Enemies,敵軍3名,Adds Effect: 100% chance to inflict Increased Miss Chance. [Duration: 3 Turn(s)],添加效果：偏離機率增加［100%機率］［持續3回合］,atlas_hellenia
+70,hellenia:awakened:passive:40066704,tx_bonuses,T6,,,Changes Number of Targets: To 3 Allies with the lowest current HP.,變更對象數量：目前生命力最低的我軍3名,atlas_hellenia
+71,hellenia:awakened:awakened:40066707,enhancement,,,,Increases Effect: Barrier absorption becomes 135% of Defense.,效果上升：防護罩吸收量為防禦力的135%,atlas_hellenia
+72,hellenia:s6:basic:10066601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_hellenia
+73,hellenia:s6:s1:10066602,enhancement,,3 Allies,我軍3名,Increases Effect: Debuff Removal count becomes 2.,效果上升：DeBuff解除2個,atlas_hellenia
+74,hellenia:s6:s1:10066602,tx_bonuses,T2,3 Enemies,敵軍3名,Adds Effect: 100% chance to inflict 44% Increased Miss Chance. [Duration: 3 Turn(s)],添加效果：偏離機率增加44%［100%機率］［持續3回合］,atlas_hellenia
+75,hellenia:s6:ultimate:10066603,enhancement,,Self,自身,Increases Turns: Magic Damage Immunity duration becomes 3 turn(s).,回合上升：魔法傷害免疫［持續3回合］,atlas_hellenia
+76,hellenia:s6:passive:10066604,enhancement,,,,Increases Healing: HP Recovery amount becomes 40% of Defense.,恢復量上升：生命力恢復量為防禦力的40%,atlas_hellenia
+77,hellenia:s6:passive:10066604,tx_bonuses,T6,,,Changes Number of Targets: To 3 Allies with the lowest current HP.,變更對象數量：目前生命力最低的我軍3名,atlas_hellenia
+78,hokin:source_default:basic:10007601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_hokin
+79,hokin:source_default:s1:10007602,enhancement,,,,Increases Damage: To 340% of Physical Attack.,傷害量上升：物理攻擊力的340%,atlas_hokin
+80,hokin:source_default:s1:10007602,tx_bonuses,T2,Self,自身,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 5 Turn(s)],添加效果：防禦力減少［100%機率］［持續5回合］,atlas_hokin
+81,hokin:source_default:ultimate:10007603,enhancement,,,,Increases Turns: Grants Physical Damage Immunity. [Duration: 3 Turn(s)],回合上升：物理傷害免疫［持續3回合］,atlas_hokin
+82,hokin:source_default:ultimate:10007603,tx_bonuses,T6,,,Adds Effect: Grants Physical Damage Boost. [Duration: 5 Turn(s)],添加效果：物理傷害量增加［持續5回合］,atlas_hokin
+83,hokin:source_default:passive:10007604,enhancement,,,,Increases Effect: Physical Attack Boost to 31%.,效果上升：物理攻擊力增加31%,atlas_hokin
+84,jane:source_default:basic:10092601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_jane
+85,jane:source_default:basic:10092601,tx_bonuses,T2,,,Increases Chance: Poison chance becomes 50%.,機率上升：中毒機率50%,atlas_jane
+86,jane:source_default:s1:10092602,enhancement,,,,Increases Damage: To 162% of Physical Attack.,傷害量上升：物理攻擊力的162%,atlas_jane
+87,jane:source_default:s1:10092602,enhancement,,,,Increases Chance: Poison chance becomes 85%.,機率上升：中毒機率85%,atlas_jane
+88,jane:source_default:ultimate:10092603,enhancement,,,,Increases Damage: To 340% of Physical Attack.,傷害量上升：物理攻擊力的340%,atlas_jane
+89,jane:source_default:ultimate:10092603,tx_bonuses,T6,,,Increases Damage: To 230% of Physical Attack against targets inflicted with [Poison].,傷害量上升：對象為［中毒］狀態時，物理攻擊力的230%,atlas_jane
+90,jane:source_default:passive:10092604,enhancement,,,,Increases Turns: Camouflage duration becomes 3 turn(s).,回合上升：偽裝［持續3回合］,atlas_jane
+91,jin:source_default:basic:10116601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_jin
+92,jin:source_default:s1:10116602,enhancement,,,,Increases Damage: To 145% of Physical Attack.,傷害量上升：物理攻擊力的145%,atlas_jin
+93,jin:source_default:s1:10116602,enhancement,,,,"Increases Damage: To 1,100 Fixed Damage.","傷害量上升：固定傷害1,100",atlas_jin
+94,jin:source_default:ultimate:10116603,enhancement,,,,Increases Damage: To 175% of Physical Attack.,傷害量上升：物理攻擊力的175%,atlas_jin
+95,jin:source_default:ultimate:10116603,enhancement,,,,Increases Chance: Stun chance becomes 65%.,機率上升：暈眩機率65%,atlas_jin
+96,jin:source_default:passive:10116604,enhancement,,Self,自身,Adds Effect: Grants Crit Rate Boost. [Always Active],添加效果：暴擊機率增加 ［常態］,atlas_jin
+97,jin:source_default:passive:10116604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 160% of the caster's Physical Attack when HP falls to 50% or lower. [Duration: 3 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者物理攻擊力160%的防護罩［持續3回合］（每戰鬥發動1次）,atlas_jin
+98,jin:source_default:passive:10116604,tx_bonuses,T6,Self,自身,Adds Effect: Grants Physical Attack Boost. [Duration: 3 Turn(s)],添加效果：物理攻擊力增加［持續3回合］,atlas_jin
+99,joker:source_default:basic:10077601,enhancement,,,,Increases Damage: To 60% of Magic Attack.,傷害量上升：魔法攻擊力的60%,atlas_joker
+100,joker:source_default:s1:10077602,enhancement,,,,Increases Damage: To 34% of Magic Attack.,傷害量上升：魔法攻擊力的34%,atlas_joker
+101,joker:source_default:s1:10077602,enhancement,,,,Increases Chance: Stun chance becomes 100%.,機率上升：暈眩機率100%,atlas_joker
+102,joker:source_default:s1:10077602,tx_bonuses,T2,,,Increases Turns: Stun duration becomes 4 turn(s).,回合上升：暈眩［持續4回合］,atlas_joker
+103,joker:source_default:ultimate:10077603,enhancement,,,,Increases Damage: To 48% of Magic Attack.,傷害量上升：魔法攻擊力的48%,atlas_joker
+104,joker:source_default:ultimate:10077603,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Crit Rate Reduction. [Duration: 3 Turn(s)],添加效果：暴擊機率減少［100%機率］［持續3回合］,atlas_joker
+105,joker:source_default:passive:10077604,enhancement,,,,Increases Effect: Crit Damage Boost to 25%.,效果上升：暴擊傷害增加25%,atlas_joker
+106,jupy:source_default:basic:10074601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_jupy
+107,jupy:source_default:basic:10074601,enhancement,,,,Increases Chance: Poison chance becomes 50%.,機率上升：中毒機率50%,atlas_jupy
+108,jupy:source_default:s1:10074602,enhancement,,,,Increases Effect: Crit Rate Boost to 45%.,效果上升：暴擊機率增加45%,atlas_jupy
+109,jupy:source_default:s1:10074602,enhancement,,,,Increases Damage: To 440% of Physical Attack.,傷害量上升：物理攻擊力的440%,atlas_jupy
+110,jupy:source_default:s1:10074602,tx_bonuses,T6,,,Increases Turns: Sniper Stance duration becomes 12 turn(s).,回合上升：狙擊姿勢［持續12回合］,atlas_jupy
+111,jupy:source_default:s1:10074602,tx_bonuses,T6,,,Increases Turns: Crit Rate Boost duration becomes 12 turn(s).,回合上升：暴擊機率增加［持續12回合］,atlas_jupy
+112,jupy:source_default:ultimate:10074603,enhancement,,,,Increases Damage: To 375% of Physical Attack.,傷害量上升：物理攻擊力的375%,atlas_jupy
+113,jupy:source_default:ultimate:10074603,tx_bonuses,T2,,,Increases Damage: To 185% of Physical Attack while in [Sniper Stance].,傷害量上升：自身為［狙擊姿勢］狀態時，物理攻擊力的185%,atlas_jupy
+114,jupy:source_default:passive:10074604,enhancement,,,,Increases Effect: Crit Damage Boost to 40%.,效果上升：暴擊傷害增加40%,atlas_jupy
+115,karin:source_default:basic:10076601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_karin
+116,karin:source_default:s1:10076602,enhancement,,,,Increases Healing: HP Recovery amount becomes 230% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的230%,atlas_karin
+117,karin:source_default:s1:10076602,enhancement,,,,Increases Effect: Debuff Removal count becomes 3.,效果上升：DeBuff解除3個,atlas_karin
+118,karin:source_default:s1:10076602,tx_bonuses,T2,,,Reduces Cooldown: To 61s.,冷卻時間減少：技能冷卻時間61秒,atlas_karin
+119,karin:source_default:ultimate:10076603,enhancement,,,,Increases Effect: HP gained upon revival becomes 70%.,效果上升：復活時，生命力70%,atlas_karin
+120,karin:source_default:ultimate:10076603,tx_bonuses,T6,,,Changes Number of Targets: To 2 Allies.,變更對象數量：我軍2名,atlas_karin
+121,karin:source_default:passive:10076604,enhancement,,,,Increases Effect: HP gained upon revival becomes 80%.,效果上升：復活時，生命力80%,atlas_karin
+122,karon:source_default:basic:10078601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_karon
+123,karon:source_default:s1:10078602,enhancement,,,,Increases Healing: HP Recovery amount becomes 230% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的230%,atlas_karon
+124,karon:source_default:s1:10078602,tx_bonuses,T6,,,Changes Number of Targets: To 3 Allies.,變更對象數量：我軍3名,atlas_karon
+125,karon:source_default:ultimate:10078603,enhancement,,,,Increases Healing: HP Recovery amount becomes 125% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的125%,atlas_karon
+126,karon:source_default:ultimate:10078603,tx_bonuses,T2,,,Reduces Cooldown: To 91s.,冷卻時間減少：技能冷卻時間91秒,atlas_karon
+127,karon:source_default:passive:10078604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 135% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的135%,atlas_karon
+128,lania:source_default:basic:10042601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_lania
+129,lania:source_default:s1:10042602,enhancement,,,,Increases Damage: To 340% of Magic Attack.,傷害量上升：魔法攻擊力的340%,atlas_lania
+130,lania:source_default:s1:10042602,tx_bonuses,T6,Self,自身,Adds Effect: Grants Magic Attack Boost. [Duration: 5 Turn(s)],添加效果：魔法攻擊力增加［持續5回合］,atlas_lania
+131,lania:source_default:ultimate:10042603,enhancement,,,,Increases Damage: To 115% of Magic Attack.,傷害量上升：魔法攻擊力的115%,atlas_lania
+132,lania:source_default:ultimate:10042603,tx_bonuses,T2,,,Increases Chance: Freeze chance becomes 70%.,機率上升：凍結機率70%,atlas_lania
+133,lania:source_default:passive:10042604,enhancement,,Self,自身,Adds Effect: Grants Effect Hit Rate Boost. [Duration: 3 Turn(s)],添加效果：效果命中增加［持續3回合］,atlas_lania
+134,lee-joohee:source_default:basic:10176601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_lee-joohee
+135,lee-joohee:source_default:s1:10176602,enhancement,,,,Increases Healing: HP Recovery amount becomes 100% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的100%,atlas_lee-joohee
+136,lee-joohee:source_default:s1:10176602,tx_bonuses,T2,Back Row Allies,我軍後排,Increases Effect: Debuff Removal count becomes 2.,效果上升：DeBuff解除2個,atlas_lee-joohee
+137,lee-joohee:source_default:ultimate:10176603,enhancement,,,,Increases Healing: HP Recovery amount becomes 100% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的100%,atlas_lee-joohee
+138,lee-joohee:source_default:ultimate:10176603,tx_bonuses,T6,,,Reduces Cooldown: To 75s.,冷卻時間減少：技能冷卻時間75秒,atlas_lee-joohee
+139,lee-joohee:source_default:passive:10176604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 135% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的135%,atlas_lee-joohee
+140,leo:source_default:basic:10021601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_leo
+141,leo:source_default:s1:10021602,enhancement,,,,Increases Damage: To 270% of Physical Attack.,傷害量上升：物理攻擊力的270%,atlas_leo
+142,leo:source_default:s1:10021602,enhancement,,,,Increases Effect: Defense Reduction to 39%.,效果上升：防禦力減少39%,atlas_leo
+143,leo:source_default:ultimate:10021603,enhancement,,,,Increases Damage: To 145% of Physical Attack.,傷害量上升：物理攻擊力的145%,atlas_leo
+144,leo:source_default:ultimate:10021603,enhancement,,,,Increases Effect: Damage Reduction to 13%.,效果上升：傷害量減少13%,atlas_leo
+145,leo:source_default:ultimate:10021603,tx_bonuses,T2,Self,自身,Adds Effect: Life Drain. [Duration: 3 Turn(s)],添加效果：吸血［持續3回合］,atlas_leo
+146,leo:source_default:passive:10021604,enhancement,,Self,自身,Adds Effect: Grants All Attack Boost. [Duration: 3 Turn(s)],添加效果：所有攻擊力增加［持續3回合］,atlas_leo
+147,leo:source_default:passive:10021604,tx_bonuses,T6,Self,自身,Adds Effect: Revives with 80% HP upon falling in battle. [1 Time(s) per Battle],添加效果：死亡時，以生命力80%復活（每戰鬥發動1次）,atlas_leo
+148,li:awakened:passive:40064704,tx_bonuses,T2,Single Enemy When Counterattacking,發動反擊時，單一敵軍,Adds Effect: 100% chance to inflict 35% Physical Attack Reduction. [Duration: 1 Turn(s)],添加效果：物理攻擊力減少35%［100%機率］［持續1回合］,atlas_li
+149,li:awakened:passive:40064704,tx_bonuses,T2,Single Enemy When Counterattacking,發動反擊時，單一敵軍,Adds Effect: 100% chance to inflict Confusion. [Lasts for: 1 Hit(s)],添加效果：混亂［100%機率］［打擊1次］,atlas_li
+150,li:awakened:passive:40064704,tx_bonuses,T6,3 Allies with the Lowest Current HP,目前生命力最低的我軍3名,Adds Healing: Heals HP equal to 15% of the caster's Max HP upon being hit by an enemy's attack 3 time(s).,添加恢復：自身被敵人的攻擊命中3次時，恢復相當於施展者最大生命力15%的生命力,atlas_li
+151,li:awakened:awakened:40064707,enhancement,,,,Increases Effect: Buff Duration Reduction becomes 3 turn(s).,效果上升：回合制Buff減少3回合,atlas_li
+152,li:awakened:awakened:40064707,enhancement,,,,Increases Effect: Confusion Hit Count Boost to 4 time(s).,效果上升：混亂打擊次數增加4次,atlas_li
+153,li:s6:basic:10064601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 14% of the caster's Max HP.,傷害量上升：物理攻擊力的60%、施展者最大生命力的14%,atlas_li
+154,li:s6:s1:10064602,enhancement,,,,Increases Turns: Grants Physical Damage Immunity. [Duration: 3 Turn(s)],回合上升：物理傷害免疫［持續3回合］,atlas_li
+155,li:s6:ultimate:10064603,enhancement,,,,Increases Effect: HP Alteration becomes 11%.,效果上升：生命力轉換11%,atlas_li
+156,li:s6:passive:10064604,enhancement,,,,Increases Chance: Counterattack chance becomes 38%.,機率上升：反擊機率38%,atlas_li
+157,li:s6:passive:10064604,tx_bonuses,T2,Single Enemy When Counterattacking,發動反擊時，單一敵軍,Adds Effect: 100% chance to inflict 35% Physical Attack Reduction. [Duration: 1 Turn(s)],添加效果：物理攻擊力減少35%［100%機率］［持續1回合］,atlas_li
+158,li:s6:passive:10064604,tx_bonuses,T2,Single Enemy When Counterattacking,發動反擊時，單一敵軍,Adds Effect: 100% chance to inflict Confusion. [Lasts for: 1 Hit(s)],添加效果：混亂［100%機率］［打擊1次］,atlas_li
+159,li:s6:passive:10064604,tx_bonuses,T6,3 Allies with the Lowest Current HP,目前生命力最低的我軍3名,Adds Healing: Heals HP equal to 15% of the caster's Max HP upon being hit by an enemy's attack 3 time(s).,添加恢復：自身被敵人的攻擊命中3次時，恢復相當於施展者最大生命力15%的生命力,atlas_li
+160,ling-ling:source_default:basic:10149601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_ling-ling
+161,ling-ling:source_default:basic:10149601,tx_bonuses,T2,Self,自身,Adds Healing: Heals HP equal to 45% of Magic Attack.,添加恢復：恢復相當於魔法攻擊力45%的生命力,atlas_ling-ling
+162,ling-ling:source_default:s1:10149602,enhancement,,,,Increases Effect: Damage Reduction to 20%.,效果上升：傷害量減少20%,atlas_ling-ling
+163,ling-ling:source_default:ultimate:10149603,enhancement,,,,Increases Damage: To 25% of Magic Attack.,傷害量上升：魔法攻擊力的25%,atlas_ling-ling
+164,ling-ling:source_default:passive:10149604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 25%.,效果上升：效果命中增加25%,atlas_ling-ling
+165,ling-ling:source_default:passive:10149604,tx_bonuses,T6,,,Adds Effect: Grants a Barrier equal to 45% of the caster's Magic Attack upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，產生相當於施展者魔法攻擊力45%的防護罩［持續2回合］,atlas_ling-ling
+166,lucy:source_default:basic:10080601,enhancement,,,,Increases Effect: Physical Attack Reduction to 11%.,效果上升：物理攻擊力減少11%,atlas_lucy
+167,lucy:source_default:s1:10080602,enhancement,,,,Increases Healing: HP Recovery amount becomes 120% of Defense.,恢復量上升：生命力恢復量為防禦力的120%,atlas_lucy
+168,lucy:source_default:s1:10080602,tx_bonuses,T6,Back Row Allies (Magic),我軍後排（魔法型）,Adds Effect: Skill Cooldown Reduction of 15s.,添加效果：技能冷卻時間減少效果15秒,atlas_lucy
+169,lucy:source_default:ultimate:10080603,enhancement,,,,Increases Effect: Defense Boost to 22%.,效果上升：防禦力增加22%,atlas_lucy
+170,lucy:source_default:ultimate:10080603,tx_bonuses,T2,,,Increases Effect: Debuff Removal count becomes 3.,效果上升：DeBuff解除3個,atlas_lucy
+171,lucy:source_default:passive:10080604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 92% of Defense upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於防禦力92%的生命力,atlas_lucy
+172,may:source_default:basic:10094601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_may
+173,may:source_default:s1:10094602,enhancement,,,,Increases Turns: Blind duration becomes 4 turn(s).,回合上升：失明［持續4回合］,atlas_may
+174,may:source_default:s1:10094602,enhancement,,,,Adds Effect: 100% chance to inflict Physical Vulnerability. [Duration: 5 Turn(s)],添加效果：物理脆弱［100%機率］［持續5回合］,atlas_may
+175,may:source_default:ultimate:10094603,enhancement,,,,Increases Chance: Burn chance becomes 40%.,機率上升：灼傷機率40%,atlas_may
+176,may:source_default:ultimate:10094603,enhancement,,,,Increases Chance: Poison chance becomes 40%.,機率上升：中毒機率40%,atlas_may
+177,may:source_default:ultimate:10094603,enhancement,,,,Increases Chance: Bleed chance becomes 40%.,機率上升：出血機率40%,atlas_may
+178,may:source_default:ultimate:10094603,tx_bonuses,T6,,,Adds Effect: 35% chance to inflict Bleed. [Duration: 2 Turn(s)],添加效果：出血［35%機率］［持續2回合］,atlas_may
+179,may:source_default:ultimate:10094603,tx_bonuses,T6,,,Adds Effect: 35% chance to inflict Burn. [Duration: 2 Turn(s)],添加效果：灼傷［35%機率］［持續2回合］,atlas_may
+180,may:source_default:ultimate:10094603,tx_bonuses,T6,,,Adds Effect: 35% chance to inflict Poison. [Duration: 2 Turn(s)],添加效果：中毒［35%機率］［持續2回合］,atlas_may
+181,may:source_default:passive:10094604,enhancement,,,,Increases Effect: Physical Damage Boost to 15%.,效果上升：物理傷害量增加15%,atlas_may
+182,may:source_default:passive:10094604,tx_bonuses,T2,Self,自身,Adds Effect: Barrier equal to 160% of the caster's Physical Attack. [Duration: 3 Turn(s)] [Once per Round],添加效果：產生相當於施展者物理攻擊力160%的防護罩［持續3回合］（每回合發動1次）,atlas_may
+183,noho:source_default:basic:10098601,enhancement,,,,Increases Damage: To 60% of Magic Attack plus 14% of the caster's Max HP.,傷害量上升：魔法攻擊力的60%、施展者最大生命力的14%,atlas_noho
+184,noho:source_default:s1:10098602,enhancement,,,,Increases Effect: HP Alteration becomes 25%.,效果上升：生命力轉換25%,atlas_noho
+185,noho:source_default:ultimate:10098603,enhancement,,,,Increases Damage: To 95% of Magic Attack plus 22% of the caster's Max HP.,傷害量上升：魔法攻擊力的95%、施展者最大生命力的22%,atlas_noho
+186,noho:source_default:ultimate:10098603,tx_bonuses,T2,Self,自身,Adds Effect: 100% chance to inflict All Attack Reduction. [Duration: 3 Turn(s)],添加效果：所有攻擊力減少［100%機率］［持續3回合］,atlas_noho
+187,noho:source_default:passive:10098604,enhancement,,,,Increases Effect: Magic Attack Boost to 23%.,效果上升：魔法攻擊力增加23%,atlas_noho
+188,noho:source_default:passive:10098604,tx_bonuses,T6,Self,自身,Adds Effect: Grants a Barrier equal to 32% of the caster's Max HP upon using a skill 1 time(s). [Duration: 3 Turn(s)],添加效果：發動自身的技能1次時，產生相當於施展者最大生命力32%的防護罩［持續3回合］,atlas_noho
+189,rahkun:source_default:basic:10014601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_rahkun
+190,rahkun:source_default:s1:10014602,enhancement,,,,Increases Effect: Defense Boost to 44%.,效果上升：防禦力增加44%,atlas_rahkun
+191,rahkun:source_default:s1:10014602,tx_bonuses,T2,,,Adds Effect: Grants Effect Resist Boost. [Duration: 5 Turn(s)],添加效果：效果抵抗增加［持續5回合］,atlas_rahkun
+192,rahkun:source_default:ultimate:10014603,enhancement,,,,Increases Effect: Block Rate Boost to 45%.,效果上升：格擋機率增加45%,atlas_rahkun
+193,rahkun:source_default:ultimate:10014603,tx_bonuses,T6,,,Adds Effect: Grants a Barrier equal to 310% of Defense. [Duration: 3 Turn(s)],添加效果：相當於防禦力310%的防護罩［持續3回合］,atlas_rahkun
+194,rahkun:source_default:passive:10014604,enhancement,,,,Increases Effect: Physical Resistance to 24%.,效果上升：物理削減24%,atlas_rahkun
+195,rei:source_default:basic:10118601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_rei
+196,rei:source_default:s1:10118602,enhancement,,,,Adds Effect: Pierce,添加效果：穿透,atlas_rei
+197,rei:source_default:ultimate:10118603,enhancement,,,,Increases Damage: To 57% of Physical Attack.,傷害量上升：物理攻擊力的57%,atlas_rei
+198,rei:source_default:ultimate:10118603,tx_bonuses,T2,,,Adds Effect: Each attack has a 55% chance to inflict Poison. [Duration: 2 Turn(s)],添加效果：每次攻擊中毒［55%機率］［持續2回合］,atlas_rei
+199,rei:source_default:passive:10118604,enhancement,,,,Increases Turns: Camouflage duration becomes 3 turn(s).,回合上升：偽裝［持續3回合］,atlas_rei
+200,rei:source_default:passive:10118604,tx_bonuses,T6,,,Increases Effect: Physical Attack Boost to 31%.,效果上升：物理攻擊力增加31%,atlas_rei
+201,sarah:source_default:basic:10048601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_sarah
+202,sarah:source_default:s1:10048602,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_sarah
+203,sarah:source_default:s1:10048602,tx_bonuses,T2,Self,自身,Adds Effect: 100% chance to inflict Damage Reduction. [Duration: 3 Turn(s)],添加效果：傷害量減少［100%機率］［持續3回合］,atlas_sarah
+204,sarah:source_default:ultimate:10048603,enhancement,,,,Adds Effect: Grants Defense Boost. [Duration: 3 Turn(s)],添加效果：防禦力增加［持續3回合］,atlas_sarah
+205,sarah:source_default:ultimate:10048603,tx_bonuses,T6,,,Changes Number of Targets: To All Allies.,變更對象數量：我軍全體,atlas_sarah
+206,sarah:source_default:passive:10048604,enhancement,,,,Increases Effect: Damage Resistance to 16%.,效果上升：削減效果16%,atlas_sarah
+207,sera:source_default:basic:10093601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_sera
+208,sera:source_default:s1:10093602,enhancement,,,,Increases Damage: To 72% of Magic Attack.,傷害量上升：魔法攻擊力的72%,atlas_sera
+209,sera:source_default:s1:10093602,tx_bonuses,T2,,,Adds Damage: Each attack deals additional damage equal to 32% of Magic Attack upon landing a Critical Hit.,傷害量上升：發生暴擊時，每次攻擊造成相當於魔法攻擊力32%的追加傷害,atlas_sera
+210,sera:source_default:ultimate:10093603,enhancement,,,,Increases Damage: To 175% of Magic Attack.,傷害量上升：魔法攻擊力的175%,atlas_sera
+211,sera:source_default:ultimate:10093603,tx_bonuses,T6,,,Adds Damage: Deals additional damage equal to 80% of Magic Attack upon landing a Critical Hit.,傷害量上升：發生暴擊時，造成相當於魔法攻擊力80%的追加傷害,atlas_sera
+212,sera:source_default:passive:10093604,enhancement,,,,Increases Effect: Crit Rate Boost to 27%.,效果上升：暴擊機率增加27%,atlas_sera
+213,snipper:source_default:basic:10073601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_snipper
+214,snipper:source_default:s1:10073602,enhancement,,,,Increases Damage: To 290% of Physical Attack.,傷害量上升：物理攻擊力的290%,atlas_snipper
+215,snipper:source_default:s1:10073602,tx_bonuses,T2,,,Reduces Cooldown: To 45s.,冷卻時間減少：技能冷卻時間45秒,atlas_snipper
+216,snipper:source_default:ultimate:10073603,enhancement,,,,Increases Damage: To 410% of Physical Attack.,傷害量上升：物理攻擊力的410%,atlas_snipper
+217,snipper:source_default:ultimate:10073603,tx_bonuses,T6,,,Increases Damage: To 26% of the target's Max HP. (HP-based damage limited to 1300% of caster's Attack),傷害量上升：相當於對象最大生命力的26%（生命力比例傷害限制為施展者攻擊力的1300%）,atlas_snipper
+218,snipper:source_default:passive:10073604,enhancement,,,,Increases Effect: Physical Damage Boost to 13%.,效果上升：物理傷害量增加13%,atlas_snipper
+219,soi:source_default:basic:10071601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_soi
+220,soi:source_default:s1:10071602,enhancement,,,,Increases Damage: To 375% of Physical Attack.,傷害量上升：物理攻擊力的375%,atlas_soi
+221,soi:source_default:s1:10071602,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 3 Turn(s)],添加效果：回合制Buff減少3回合［100%機率］,atlas_soi
+222,soi:source_default:ultimate:10071603,enhancement,,,,Increases Damage: To 145% of Physical Attack.,傷害量上升：物理攻擊力的145%,atlas_soi
+223,soi:source_default:ultimate:10071603,tx_bonuses,T2,,,Adds Damage: Increases damage dealt by 15% each time the number of targets is reduced by 1.,傷害量上升：傷害對象每減少1名時，對剩餘的對象造成的傷害量增加15%,atlas_soi
+224,soi:source_default:passive:10071604,enhancement,,,,Increases Effect: Quintuple-Target Attack Resistance to 15%.,效果上升：5人攻擊技削減15%,atlas_soi
+225,soi:source_default:passive:10071604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 40%.,效果上升：效果命中增加40%,atlas_soi
+226,sylvia:source_default:basic:10082601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_sylvia
+227,sylvia:source_default:s1:10082602,enhancement,,,,Increases Damage: To 180% of Magic Attack.,傷害量上升：魔法攻擊力的180%,atlas_sylvia
+228,sylvia:source_default:s1:10082602,tx_bonuses,T2,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_sylvia
+229,sylvia:source_default:ultimate:10082603,enhancement,,,,Increases Damage: To 115% of Magic Attack.,傷害量上升：魔法攻擊力的115%,atlas_sylvia
+230,sylvia:source_default:passive:10082604,enhancement,,,,Increases Effect: Magic Attack Boost to 31%.,效果上升：魔法攻擊力增加31%,atlas_sylvia
+231,sylvia:source_default:passive:10082604,tx_bonuses,T6,,,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_sylvia
+232,victoria:source_default:basic:10079601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_victoria
+233,victoria:source_default:s1:10079602,enhancement,,,,Increases Damage: To 340% of Magic Attack.,傷害量上升：魔法攻擊力的340%,atlas_victoria
+234,victoria:source_default:ultimate:10079603,enhancement,,,,Increases Effect: Magic Attack Boost to 35%.,效果上升：魔法攻擊力增加35%,atlas_victoria
+235,victoria:source_default:ultimate:10079603,tx_bonuses,T6,,,Increases Turns: Magic Attack Boost duration becomes 4 turn(s).,回合上升：魔法攻擊力增加［持續4回合］,atlas_victoria
+236,victoria:source_default:passive:10079604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 90% of Magic Attack upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於魔法攻擊力90%的生命力,atlas_victoria
+237,victoria:source_default:passive:10079604,tx_bonuses,T2,Back Row Allies,我軍後排,Adds Effect: Grants Physical Resistance. [Always Active],添加效果：物理削減［常態］,atlas_victoria
+238,xiao:source_default:basic:10185601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_xiao
+239,xiao:source_default:s1:10185602,enhancement,,,,Increases Damage: To 270% of Physical Attack.,傷害量上升：物理攻擊力的270%,atlas_xiao
+240,xiao:source_default:s1:10185602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 5 Turn(s)],添加效果：防禦力減少［100%機率］［持續5回合］,atlas_xiao
+241,xiao:source_default:ultimate:10185603,enhancement,,,,Increases Damage: To 205% of Physical Attack.,傷害量上升：物理攻擊力的205%,atlas_xiao
+242,xiao:source_default:passive:10185604,enhancement,,,,Increases Healing: HP Recovery amount becomes 45% of Physical Attack.,恢復量上升：生命力恢復量為物理攻擊力的45%,atlas_xiao
+243,xiao:source_default:passive:10185604,tx_bonuses,T6,All Allies,所有我軍,Adds Effect: Grants Single-Target Attack Damage Boost. [Always Active],添加效果：1人攻擊技傷害量增加 ［常態］,atlas_xiao
+244,yoo-jinho:source_default:basic:10175601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_yoo-jinho
+245,yoo-jinho:source_default:s1:10175602,enhancement,,,,Increases Turns: Stun duration becomes 4 turn(s).,回合上升：暈眩［持續4回合］,atlas_yoo-jinho
+246,yoo-jinho:source_default:s1:10175602,tx_bonuses,T2,,,Increases Damage: To 170% of Physical Attack plus 200% of Defense.,傷害量上升：物理攻擊力的170%、防禦力的200%,atlas_yoo-jinho
+247,yoo-jinho:source_default:s1:10175602,tx_bonuses,T2,,,Increases Chance: Stun chance becomes 100%.,機率上升：暈眩機率100%,atlas_yoo-jinho
+248,yoo-jinho:source_default:ultimate:10175603,enhancement,,,,Increases Effect: Barrier absorption becomes 130% of Defense.,效果上升：防護罩吸收量為防禦力的130%,atlas_yoo-jinho
+249,yoo-jinho:source_default:ultimate:10175603,tx_bonuses,T6,,,Adds Effect: Grants Damage Resistance. [Duration: 3 Turn(s)],添加效果：削減［持續3回合］,atlas_yoo-jinho
+250,yoo-jinho:source_default:passive:10175604,enhancement,,,,Increases Effect: Defense Boost to 18%.,效果上升：防禦力增加18%,atlas_yoo-jinho
+251,yui:source_default:basic:10083601,enhancement,,,,Increases Effect: Magic Attack Reduction to 11%.,效果上升：魔法攻擊力減少11%,atlas_yui
+252,yui:source_default:s1:10083602,enhancement,,,,Increases Turns: Continuous Healing duration becomes 3 turn(s).,回合上升：持續恢復［持續3回合］,atlas_yui
+253,yui:source_default:s1:10083602,tx_bonuses,T2,,,Adds Effect: Grants Physical Damage Boost. [Duration: 3 Turn(s)],添加效果：物理傷害量增加［持續3回合］,atlas_yui
+254,yui:source_default:s1:10083602,tx_bonuses,T6,,,Increases Effect: Physical Damage Boost to 24%.,效果上升：物理傷害量增加24%,atlas_yui
+255,yui:source_default:ultimate:10083603,enhancement,,,,Increases Effect: HP gained upon revival becomes 45%.,效果上升：復活時，生命力45%,atlas_yui
+256,yui:source_default:passive:10083604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 22% of Max HP upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於最大生命力22%的生命力,atlas_yui
+257,yuri:source_default:basic:10018601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_yuri
+258,yuri:source_default:s1:10018602,enhancement,,,,Increases Damage: To 340% of Magic Attack.,傷害量上升：魔法攻擊力的340%,atlas_yuri
+259,yuri:source_default:s1:10018602,tx_bonuses,T2,Self,自身,Adds Effect: Grants Magic Damage Boost. [Duration: 5 Turn(s)],添加效果：魔法傷害量增加［持續5回合］,atlas_yuri
+260,yuri:source_default:ultimate:10018603,enhancement,,,,Increases Damage: To 340% of Magic Attack.,傷害量上升：魔法攻擊力的340%,atlas_yuri
+261,yuri:source_default:passive:10018604,enhancement,,,,Increases Effect: Crit Rate Boost to 27%.,效果上升：暴擊機率增加27%,atlas_yuri
+262,yuri:source_default:passive:10018604,tx_bonuses,T6,Self,自身,Adds Effect: Revives with 80% HP upon falling in battle. [Once per Battle],添加效果：死亡時，以生命力80%復活（每戰鬥發動1次）,atlas_yuri
+263,zhao-yun:source_default:basic:10159601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_zhao-yun
+264,zhao-yun:source_default:s1:10159602,enhancement,,,,Increases Damage: To 340% of Physical Attack.,傷害量上升：物理攻擊力的340%,atlas_zhao-yun
+265,zhao-yun:source_default:ultimate:10159603,enhancement,,,,Increases Chance: Bleed chance becomes 85%.,機率上升：出血機率85%,atlas_zhao-yun
+266,zhao-yun:source_default:passive:10159604,enhancement,,,,Increases Effect: Effect Resist Boost to 40%.,效果上升：效果抵抗增加40%,atlas_zhao-yun
+267,zhao-yun:source_default:passive:10159604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 100% of the caster's Physical Attack upon using a skill 1 time(s). [Duration: 3 Turn(s)],添加效果：發動自身的技能1次時，產生相當於施展者物理攻擊力100%的防護罩［持續3回合］,atlas_zhao-yun
+268,zhao-yun:source_default:passive:10159604,tx_bonuses,T6,Self,自身,Adds Effect: Reduces skill cooldowns by 8s upon being hit by an enemy's attack.,添加效果：自身被敵人的攻擊命中時，技能冷卻時間減少8秒,atlas_zhao-yun
+269,alice:source_default:basic:10095601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_alice
+270,alice:source_default:basic:10095601,tx_bonuses,T2,Ally with Lowest Current HP (Excluding Self),目前生命力最低的我軍（不包含自身）］,Adds Effect: Grants Continuous Healing. [Duration: 1 Turn(s)],添加效果：持續恢復［持續1回合］,atlas_alice
+271,alice:source_default:s1:10095602,enhancement,,,,Increases Effect: Defense Boost to 39%.,效果上升：防禦力增加39%,atlas_alice
+272,alice:source_default:s1:10095602,tx_bonuses,T6,,,Adds Effect: Grants Incoming Healing Boost. [Duration: 3 Turn(s)],添加效果：受到的恢復量增加［持續3回合］,atlas_alice
+273,alice:source_default:ultimate:10095603,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 33% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的33%,atlas_alice
+274,alice:source_default:passive:10095604,enhancement,,,,Increases Turns: Defense Boost duration becomes 2 turn(s).,回合上升：防禦力增加［持續2回合］,atlas_alice
+275,alice:source_default:passive:10095604,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 10% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的10%,atlas_alice
+276,amelia:source_default:basic:10140601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_amelia
+277,amelia:source_default:s1:10140602,enhancement,,,,Increases Damage: To 70% of Physical Attack.,傷害量上升：物理攻擊力的70%,atlas_amelia
+278,amelia:source_default:ultimate:10140603,enhancement,,,,Increases Damage: To 165% of Physical Attack.,傷害量上升：物理攻擊力的165%,atlas_amelia
+279,amelia:source_default:ultimate:10140603,tx_bonuses,T2,,,Changes Number of Targets: To 2 Enemies with the Highest Defense.,變更對象數量：防禦力最高的敵軍2名,atlas_amelia
+280,amelia:source_default:ultimate:10140603,tx_bonuses,T6,,,Adds Effect: 55% HP Alteration.,添加效果：生命力轉換55%,atlas_amelia
+281,amelia:source_default:passive:10140604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 49%.,效果上升：效果命中增加49%,atlas_amelia
+282,aragon:source_default:basic:10096601,enhancement,,Self,自身,Adds Effect: Reduces skill cooldowns by 9s upon using a basic attack.,添加效果：自身的基本攻擊時，技能冷卻時間減少9秒,atlas_aragon
+283,aragon:source_default:ultimate:10096603,enhancement,,,,Increases Damage: To 130% of Physical Attack plus 150% of Defense.,傷害量上升：物理攻擊力的130%、防禦力的150%,atlas_aragon
+284,aragon:source_default:ultimate:10096603,enhancement,,,,Increases Chance: Stun chance becomes 70%.,機率上升：暈眩機率70%,atlas_aragon
+285,aragon:source_default:ultimate:10096603,tx_bonuses,T6,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 2 Turn(s)],添加效果：回合制Buff減少2回合［100%機率］,atlas_aragon
+286,aragon:source_default:passive:10096604,enhancement,,,,Increases Healing: HP Recovery amount becomes 45% of Defense.,恢復量上升：生命力恢復量為防禦力的45%,atlas_aragon
+287,aragon:source_default:passive:10096604,tx_bonuses,T2,All Enemies,所有敵軍,Adds Effect: 100% chance to inflict Crit Rate Reduction upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，暴擊機率減少［100%機率］［持續2回合］,atlas_aragon
+288,bai-jiao:source_default:basic:10155601,enhancement,,,,Adds Effect: 40% chance to inflict Bleed. [Duration: 2 Turn(s)],添加效果：出血［40%機率］［持續2回合］,atlas_bai-jiao
+289,bai-jiao:source_default:s1:10155602,enhancement,,,,Increases Damage: To 110% of Magic Attack.,傷害量上升：魔法攻擊力的110%,atlas_bai-jiao
+290,bai-jiao:source_default:s1:10155602,enhancement,,,,Adds Effect: 100% chance to inflict Unable to Recover. [Duration: 4 Turn(s)],添加效果：無法恢復［100%機率］［持續4回合］,atlas_bai-jiao
+291,bai-jiao:source_default:s1:10155602,tx_bonuses,T6,,,Increases Chance: Poison chance becomes 70%.,機率上升：中毒機率70%,atlas_bai-jiao
+292,bai-jiao:source_default:ultimate:10155603,enhancement,,,,Increases Damage: To 110% of Magic Attack.,傷害量上升：魔法攻擊力的110%,atlas_bai-jiao
+293,bai-jiao:source_default:ultimate:10155603,tx_bonuses,T6,,,Increases Chance: Bleed chance becomes 70%.,機率上升：出血機率70%,atlas_bai-jiao
+294,bai-jiao:source_default:passive:10155604,enhancement,,,,Increases Turns: All Damage Immunity duration becomes 3 turn(s).,回合上升：所有傷害免疫［持續3回合］,atlas_bai-jiao
+295,bai-jiao:source_default:passive:10155604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Effect Probability Boost.,添加效果：效果套用機率增加,atlas_bai-jiao
+296,bai-long:source_default:basic:10154601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_bai-long
+297,bai-long:source_default:s1:10154602,enhancement,,,,Increases Damage: To 410% of Physical Attack.,傷害量上升：物理攻擊力的410%,atlas_bai-long
+298,bai-long:source_default:s1:10154602,tx_bonuses,T2,All Allies,所有我軍,Adds Healing: Heals HP equal to 30% of Physical Attack.,添加恢復：恢復相當於物理攻擊力30%的生命力,atlas_bai-long
+299,bai-long:source_default:s1:10154602,tx_bonuses,T6,Self,自身,Increases Effect: Defense Ignore Efficiency Boost by 65%.,效果上升：無視防禦效率增加65%,atlas_bai-long
+300,bai-long:source_default:ultimate:10154603,enhancement,,,,Increases Damage: To 575% of Physical Attack.,傷害量上升：物理攻擊力的575%,atlas_bai-long
+301,bai-long:source_default:ultimate:10154603,tx_bonuses,T6,Self,自身,Increases Effect: Defense Ignore Efficiency Boost by 65%.,效果上升：無視防禦效率增加65%,atlas_bai-long
+302,bai-long:source_default:passive:10154604,enhancement,,,,Increases Effect: Crit Rate Boost to 33%.,效果上升：暴擊機率增加33%,atlas_bai-long
+303,bai-long:source_default:passive:10154604,enhancement,,,,Increases Effect: Defense Ignore Efficiency Boost by 10%.,效果上升：無視防禦效率增加10%,atlas_bai-long
+304,ballista:source_default:basic:10091601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_ballista
+305,ballista:source_default:ultimate:10091603,enhancement,,,,Increases Damage: To 110% of Physical Attack.,傷害量上升：物理攻擊力的110%,atlas_ballista
+306,ballista:source_default:ultimate:10091603,enhancement,,Self,自身,Adds Effect: Grants Follow-Up Chance Boost. [Duration: 3 Turn(s)],添加效果：夾攻機率增加［持續3回合］,atlas_ballista
+307,ballista:source_default:passive:10091604,enhancement,,,,Increases Chance: Follow-Up Attack chance becomes 30%.,機率上升：夾攻機率30%,atlas_ballista
+308,ballista:source_default:passive:10091604,tx_bonuses,T2,,,"Increases Damage: To 1,485 Fixed damage.","傷害量上升：固定傷害1,485",atlas_ballista
+309,ballista:source_default:passive:10091604,tx_bonuses,T6,Self,自身,Adds Effect: Grants All Damage Nullification 1 time(s) upon using any attack 2 time(s).,添加效果：發動自身的所有攻擊2次時，所有傷害無效化［被擊中1次］,atlas_ballista
+310,bi-dam:source_default:basic:10070601,enhancement,,,,Increases Damage: To 65% of Physical Attack.,傷害量上升：物理攻擊力的65%,atlas_bi-dam
+311,bi-dam:source_default:basic:10070601,enhancement,,,,Increases Chance: Bleed chance becomes 40%.,機率上升：出血機率40%,atlas_bi-dam
+312,bi-dam:source_default:s1:10070602,enhancement,,,,Increases Damage: To 85% of Physical Attack.,傷害量上升：物理攻擊力的85%,atlas_bi-dam
+313,bi-dam:source_default:s1:10070602,enhancement,,,,Increases Chance: Bleed chance becomes 60%.,機率上升：出血機率60%,atlas_bi-dam
+314,bi-dam:source_default:s1:10070602,tx_bonuses,T2,,,Reduces Cooldown: To 55s.,冷卻時間減少：技能冷卻時間55秒,atlas_bi-dam
+315,bi-dam:source_default:s1:10070602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Bleed on a target inflicted with Bleed. [Duration: 3 Turn(s)],添加效果：對象為［出血］狀態時，出血［100%機率］［持續3回合］,atlas_bi-dam
+316,bi-dam:source_default:ultimate:10070603,enhancement,,,,Increases Damage: To 205% of Physical Attack.,傷害量上升：物理攻擊力的205%,atlas_bi-dam
+317,bi-dam:source_default:ultimate:10070603,tx_bonuses,T6,,,Increases Damage: Bleed Explosion power becomes 150%.,傷害量上升：出血爆發威力150%,atlas_bi-dam
+318,bi-dam:source_default:passive:10070604,enhancement,,,,Increases Effect: Physical Damage Boost to 35%.,效果上升：物理傷害量增加35%,atlas_bi-dam
+319,bi-dam:source_default:passive:10070604,enhancement,,,,Increases Healing: HP Recovery amount becomes 55% of caster's Physical Attack.,恢復量上升：生命力恢復量為施展者物理攻擊力的55%,atlas_bi-dam
+320,cha-hae-in:source_default:basic:10174601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_cha-hae-in
+321,cha-hae-in:source_default:s1:10174602,enhancement,,,,Increases Damage: To 72% of Physical Attack.,傷害量上升：物理攻擊力的72%,atlas_cha-hae-in
+322,cha-hae-in:source_default:ultimate:10174603,enhancement,,,,Increases Damage: To 75% of Physical Attack.,傷害量上升：物理攻擊力的75%,atlas_cha-hae-in
+323,cha-hae-in:source_default:ultimate:10174603,tx_bonuses,T6,Self,自身,Increases Effect: Resets the cooldown of [Sword Dance] upon defeating an enemy with damage from this skill.,效果上升：使用該技能的直接傷害消滅敵軍時，［劍舞］冷卻時間重置,atlas_cha-hae-in
+324,cha-hae-in:source_default:passive:10174604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_cha-hae-in
+325,cha-hae-in:source_default:passive:10174604,enhancement,,,,Increases Effect: Effect Probability Boost to 32%.,效果上升：效果套用機率增加32%,atlas_cha-hae-in
+326,cha-hae-in:source_default:passive:10174604,tx_bonuses,T2,All Allies,所有我軍,Adds Healing: Heals HP equal to 40% of the caster's Physical Attack upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於施展者物理攻擊力40%的生命力,atlas_cha-hae-in
+327,chancellor:source_default:basic:10090601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_chancellor
+328,chancellor:source_default:s1:10090602,enhancement,,,,Increases Effect: Defense Reduction to 44%.,效果上升：防禦力減少44%,atlas_chancellor
+329,chancellor:source_default:s1:10090602,enhancement,,,,Increases Damage: To 145% of Physical Attack plus 165% of Defense.,傷害量上升：物理攻擊力的145%、防禦力的165%,atlas_chancellor
+330,chancellor:source_default:ultimate:10090603,enhancement,,,,Increases Damage: To 85% of Physical Attack plus 100% of Defense.,傷害量上升：物理攻擊力的85%、防禦力的100%,atlas_chancellor
+331,chancellor:source_default:ultimate:10090603,enhancement,,,,Increases Effect: Increased Miss Chance to 60%.,效果上升：偏離機率增加60%,atlas_chancellor
+332,chancellor:source_default:ultimate:10090603,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict All Attack Reduction. [Duration: 3 Turn(s)],添加效果：所有攻擊力減少［100%機率］［持續3回合］,atlas_chancellor
+333,chancellor:source_default:passive:10090604,enhancement,,,,Increases Effect: Damage Reduction to 13%.,效果上升：傷害量減少13%,atlas_chancellor
+334,chancellor:source_default:passive:10090604,enhancement,,,,"Increases Damage: To 1,930 Fixed damage.","傷害量上升：固定傷害1,930",atlas_chancellor
+335,chancellor:source_default:passive:10090604,tx_bonuses,T6,Self,自身,Adds Effect: Grants All Damage Immunity when HP falls to 50% or lower. [Duration: 2 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，所有傷害免疫［持續2回合］（每戰鬥發動1次）,atlas_chancellor
+336,daisy:source_default:basic:10117601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_daisy
+337,daisy:source_default:s1:10117602,enhancement,,,,Increases Damage: To 330% of Magic Attack.,傷害量上升：魔法攻擊力的330%,atlas_daisy
+338,daisy:source_default:s1:10117602,tx_bonuses,T6,,,Increases Damage: To 26% of the target's Max HP. (HP-based damage limited to 700% of caster's Attack),傷害量上升：相當於對象最大生命力的26%（生命力比例傷害限制為施展者攻擊力的700%）,atlas_daisy
+339,daisy:source_default:ultimate:10117603,enhancement,,,,Increases Effect: Magic Attack Boost to 33%.,效果上升：魔法攻擊力增加33%,atlas_daisy
+340,daisy:source_default:ultimate:10117603,enhancement,,,,Increases Damage: To 155% of Magic Attack.,傷害量上升：魔法攻擊力的155%,atlas_daisy
+341,daisy:source_default:passive:10117604,enhancement,,,,Increases Effect: Magic Attack Boost to 27%.,效果上升：魔法攻擊力增加27%,atlas_daisy
+342,daisy:source_default:passive:10117604,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Grants a Barrier equal to 55% of the caster's Magic Attack upon using a skill 2 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能2次時，產生相當於施展者魔法攻擊力55%的防護罩［持續2回合］,atlas_daisy
+343,deo:source_default:basic:10186601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_deo
+344,deo:source_default:basic:10186601,enhancement,,,,Increases Chance: Bleed chance becomes 50%.,機率上升：出血機率50%,atlas_deo
+345,deo:source_default:s1:10186602,enhancement,,,,Increases Effect: Crit Damage Boost to 49%.,效果上升：暴擊傷害增加49%,atlas_deo
+346,deo:source_default:s1:10186602,tx_bonuses,T2,3 Enemies,敵軍3名,Adds Effect: 100% chance to inflict All Attack Reduction. [Duration: 3 Turn(s)],添加效果：所有攻擊力減少［100%機率］［持續3回合］,atlas_deo
+347,deo:source_default:ultimate:10186603,enhancement,,,,Increases Damage: To 170% of Physical Attack.,傷害量上升：物理攻擊力的170%,atlas_deo
+348,deo:source_default:ultimate:10186603,enhancement,,,,Increases Healing: HP Recovery amount becomes 65% of Physical Attack.,恢復量上升：生命力恢復量為物理攻擊力的65%,atlas_deo
+349,deo:source_default:passive:10186604,enhancement,,,,Increases Effect: [7-Dish Meal Set] reduces Physical damage taken by 5%.,效果上升：［滿漢全席］受到的物理傷害量減少5%,atlas_deo
+350,deo:source_default:passive:10186604,tx_bonuses,T6,All Allies,所有我軍,Adds Effect: Grants a Barrier equal to 55% of the caster's Physical Attack upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，產生相當於施展者物理攻擊力55%的防護罩［持續2回合］,atlas_deo
+351,diaochan:source_default:basic:10160601,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 7% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的7%,atlas_diaochan
+352,diaochan:source_default:s1:10160602,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 29% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的29%,atlas_diaochan
+353,diaochan:source_default:s1:10160602,tx_bonuses,T2,2 Allies (Excluding Self),我軍2名（不包含自身）,Adds Effect: Cooldown Reset if target type is Attack or Magic.,添加效果：對象為攻擊型、魔法型時，冷卻時間重置,atlas_diaochan
+354,diaochan:source_default:ultimate:10160603,enhancement,,,,Increases Chance: Sleep chance becomes 100%.,機率上升：睡眠機率100%,atlas_diaochan
+355,diaochan:source_default:ultimate:10160603,enhancement,,2 Allies (Excluding Self),我軍2名（不包含自身）,Adds Effect: Grants All Attack Boost. [Duration: 4 Turn(s)],添加效果：所有攻擊力增加［持續4回合］,atlas_diaochan
+356,diaochan:source_default:ultimate:10160603,tx_bonuses,T6,3 Enemies,敵軍3名,Adds Effect: 100% chance to inflict Incoming Healing Reduction. [Duration: 3 Turn(s)],添加效果：受到的恢復量減少［100%機率］［持續3回合］,atlas_diaochan
+357,diaochan:source_default:passive:10160604,enhancement,,Self,自身,Increases Effect: Barrier absorption becomes 45% of Max HP.,效果上升：防護罩吸收量為最大生命力的45%,atlas_diaochan
+358,diaochan:source_default:passive:10160604,enhancement,,2 Allies (Excluding Self),我軍2名（不包含自身）,Increases Effect: Barrier absorption becomes 22% of Max HP.,效果上升：防護罩吸收量為最大生命力的22%,atlas_diaochan
+359,espada:source_default:basic:10086601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_espada
+360,espada:source_default:s1:10086602,enhancement,,,,Increases Effect: Magic Vulnerability to 33%.,效果上升：魔法脆弱33%,atlas_espada
+361,espada:source_default:ultimate:10086603,enhancement,,,,Increases Damage: To 515% of Magic Attack.,傷害量上升：魔法攻擊力的515%,atlas_espada
+362,espada:source_default:ultimate:10086603,tx_bonuses,T6,,,"Increases Damage: To 32% of the target's Max HP. (HP-based damage limited to 1,600% of caster's Attack)","傷害量上升：對象最大生命力的32%（生命力比例傷害限制為施展者攻擊力的1,600%）",atlas_espada
+363,espada:source_default:passive:10086604,enhancement,,,,Increases Effect: Magic Damage Boost to 10%.,效果上升：魔法傷害量增加10%,atlas_espada
+364,espada:source_default:passive:10086604,tx_bonuses,T2,,,Adds Effect: Grants Magic Resistance. [Always Active],添加效果：魔法削減 ［常態］,atlas_espada
+365,guan-yu:source_default:basic:10161601,enhancement,,,,Adds Effect: 30% chance to inflict Unable to Recover. [Duration: 2 Turn(s)],添加效果：無法恢復［30%機率］［持續2回合］,atlas_guan-yu
+366,guan-yu:source_default:s1:10161602,enhancement,,,,Increases Damage: To 470% of Physical Attack.,傷害量上升：物理攻擊力的470%,atlas_guan-yu
+367,guan-yu:source_default:s1:10161602,tx_bonuses,T6,,,Adds Effect: Additional 100% Crit Rate Boost.,添加效果：暴擊機率增加100%,atlas_guan-yu
+368,guan-yu:source_default:ultimate:10161603,enhancement,,,,Adds Effect: Grants All Damage Immunity. [Duration: 1 Turn(s)],添加效果：所有傷害免疫［持續1回合］,atlas_guan-yu
+369,guan-yu:source_default:passive:10161604,enhancement,,,,Increases Turns: Physical Damage Boost duration becomes 3 turn(s).,回合上升：物理傷害量增加［持續3回合］,atlas_guan-yu
+370,guan-yu:source_default:passive:10161604,tx_bonuses,T2,Back Row Allies,我軍後排,Adds Effect: Grants Crit Damage Boost. [Duration: 3 Turn(s)],添加效果：暴擊傷害增加［持續3回合］,atlas_guan-yu
+371,guan-yu:source_default:passive:10161604,tx_bonuses,T2,Back Row Allies,我軍後排,Adds Effect: Grants Crit Damage Boost upon using any attack 2 time(s). [Duration: 3 Turn(s)],添加效果：發動自身的所有攻擊2次時，暴擊傷害增加［持續3回合］,atlas_guan-yu
+372,knox:awakened:passive:40049704,tx_bonuses,T2,All Enemies,所有敵軍,Adds Effect: Inflicts Effect Resist Reduction. [Always Active],添加效果：效果抵抗減少［常態］,atlas_knox
+373,knox:awakened:passive:40049704,tx_bonuses,T6,Self,自身,Adds Effect: Grants a Barrier equal to 39% of the caster's Max HP when HP falls to 50% or lower. [Duration: 3 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者最大生命力39%的防護罩［持續3回合］（每戰鬥發動1次）,atlas_knox
+374,knox:awakened:awakened:40049707,enhancement,,All Allies,所有我軍,Adds Effect: Reduces skill cooldowns by 16s.,添加效果：技能冷卻時間減少效果16秒,atlas_knox
+375,knox:s6:basic:10049601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 14% of the caster's Max HP.,傷害量上升：物理攻擊力的60%、施展者最大生命力的14%,atlas_knox
+376,knox:s6:s1:10049602,enhancement,,,,Increases Healing: Continuous Healing amount becomes 20% of the caster's HP.,恢復量上升：持續恢復量為施展者生命力的20%,atlas_knox
+377,knox:s6:ultimate:10049603,enhancement,,,,Increases Chance: Death chance becomes 40%.,機率上升：即死機率40%,atlas_knox
+378,knox:s6:passive:10049604,enhancement,,Self,自身,Increases Effect: Barrier absorption becomes 45% of Max HP.,效果上升：防護罩吸收量為最大生命力的45%,atlas_knox
+379,knox:s6:passive:10049604,tx_bonuses,T2,All Enemies,所有敵軍,Adds Effect: Inflicts Effect Resist Reduction. [Always Active],添加效果：效果抵抗減少［常態］,atlas_knox
+380,knox:s6:passive:10049604,tx_bonuses,T6,Self,自身,Adds Effect: Grants a Barrier equal to 39% of the caster's Max HP when HP falls to 50% or lower. [Duration: 3 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者最大生命力39%的防護罩［持續3回合］（每戰鬥發動1次）,atlas_knox
+381,lina:source_default:basic:10072601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_lina
+382,lina:source_default:basic:10072601,enhancement,,Ally with Lowest Current HP (Excluding Self),目前生命力最低的我軍（不包含自身）］,Adds Healing: Heals HP equal to 7% of the caster's Max HP.,添加恢復：恢復相當於施展者最大生命力7%的生命力,atlas_lina
+383,lina:source_default:s1:10072602,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 24% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的24%,atlas_lina
+384,lina:source_default:ultimate:10072603,enhancement,,,,Increases Effect: Damage Boost to 28%.,效果上升：傷害量增加28%,atlas_lina
+385,lina:source_default:ultimate:10072603,tx_bonuses,T6,,,Changes Number of Targets: To All Enemies.,變更對象數量：敵軍全體,atlas_lina
+386,lina:source_default:ultimate:10072603,tx_bonuses,T6,,,Increases Effect: Defense Reduction to 41%.,效果上升：防禦力減少41%,atlas_lina
+387,lina:source_default:passive:10072604,enhancement,,,,Increases Effect: Effect Resist Boost to 34%.,效果上升：效果抵抗增加34%,atlas_lina
+388,lina:source_default:passive:10072604,enhancement,,,,Increases Effect: Barrier absorption becomes 45% of Max HP.,效果上升：防護罩吸收量為最大生命力的45%,atlas_lina
+389,lina:source_default:passive:10072604,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Grants Crit Damage Boost. [Always Active],添加效果：暴擊傷害增加 ［常態］,atlas_lina
+390,miho:source_default:basic:10139601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_miho
+391,miho:source_default:s1:10139602,enhancement,,,,Increases Damage: To 170% of Magic Attack.,傷害量上升：魔法攻擊力的170%,atlas_miho
+392,miho:source_default:s1:10139602,tx_bonuses,T6,,,Adds Damage: Deals additional damage equal to 75% of Magic Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，造成相當於魔法攻擊力75%的追加傷害,atlas_miho
+393,miho:source_default:s1:10139602,tx_bonuses,T2,Back Row Allies,我軍後排,Adds Effect: 2 Debuff Removal(s).,添加效果：DeBuff解除2個,atlas_miho
+394,miho:source_default:ultimate:10139603,enhancement,,,,Increases Damage: To 185% of Magic Attack.,傷害量上升：魔法攻擊力的185%,atlas_miho
+395,miho:source_default:ultimate:10139603,tx_bonuses,T6,,,Adds Damage: Deals additional damage equal to 85% of Magic Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，造成相當於魔法攻擊力85%的追加傷害,atlas_miho
+396,miho:source_default:passive:10139604,enhancement,,,,Adds Effect: Guts. [Once per Battle],添加效果：權能（每戰鬥發動1次）,atlas_miho
+397,miho:source_default:passive:10139604,enhancement,,Self,自身,Adds Healing: Heals HP equal to 30% of Max HP upon triggering Guts.,添加恢復：發動權能時，恢復相當於最大生命力30%的生命力,atlas_miho
+398,nia:source_default:basic:10085601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_nia
+399,nia:source_default:basic:10085601,enhancement,,,,Increases Chance: Shock chance becomes 35%.,機率上升：觸電機率35%,atlas_nia
+400,nia:source_default:s1:10085602,enhancement,,,,Increases Damage: To 110% of Magic Attack.,傷害量上升：魔法攻擊力的110%,atlas_nia
+401,nia:source_default:s1:10085602,tx_bonuses,T2,,,Increases Chance: Shock chance becomes 50%.,機率上升：觸電機率50%,atlas_nia
+402,nia:source_default:ultimate:10085603,enhancement,,,,Increases Damage: To 135% of Magic Attack.,傷害量上升：魔法攻擊力的135%,atlas_nia
+403,nia:source_default:ultimate:10085603,enhancement,,,,Increases Effect: Skill Cooldown Increase becomes 19s.,效果上升：技能冷卻時間增加19秒,atlas_nia
+404,nia:source_default:ultimate:10085603,tx_bonuses,T6,,,Increases Chance: Skill Cooldown Increase chance becomes 70%.,機率上升：技能冷卻時間增加機率70%,atlas_nia
+405,nia:source_default:passive:10085604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 49%.,效果上升：效果命中增加49%,atlas_nia
+406,nia:source_default:passive:10085604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 185% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的185%,atlas_nia
+407,pascal:source_default:basic:10100601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_pascal
+408,pascal:source_default:s1:10100602,enhancement,,,,Increases Stacks: All Damage Nullification ends after taking 2 hit(s).,次數上升：所有傷害無效化次數2次,atlas_pascal
+409,pascal:source_default:s1:10100602,tx_bonuses,T2,,,Reduces Cooldown: To 40s.,冷卻時間減少：技能冷卻時間40秒,atlas_pascal
+410,pascal:source_default:ultimate:10100603,enhancement,,,,Increases Damage: To 470% of Magic Attack.,傷害量上升：魔法攻擊力的470%,atlas_pascal
+411,pascal:source_default:ultimate:10100603,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_pascal
+412,pascal:source_default:passive:10100604,enhancement,,,,Increases Effect: Magic Attack Boost to 33%.,效果上升：魔法攻擊力增加33%,atlas_pascal
+413,rook:source_default:basic:10089601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 14% of the caster's Max HP.,傷害量上升：物理攻擊力的60%、施展者最大生命力的14%,atlas_rook
+414,rook:source_default:s1:10089602,enhancement,,,,Increases Damage: To 380% of Physical Attack plus 91% of the caster's Max HP.,傷害量上升：物理攻擊力的380%、施展者最大生命力的91%,atlas_rook
+415,rook:source_default:s1:10089602,tx_bonuses,T2,,,Adds Effect: Additional 100% Crit Rate Boost.,添加效果：暴擊機率增加100%,atlas_rook
+416,rook:source_default:s1:10089602,tx_bonuses,T6,,,Adds Effect: 11% HP Alteration.,添加效果：生命力轉換11%,atlas_rook
+417,rook:source_default:ultimate:10089603,enhancement,,,,Increases Turns: Barrier duration becomes 3 turn(s).,回合上升：防護罩［持續3回合］,atlas_rook
+418,rook:source_default:passive:10089604,enhancement,,,,Increases Effect: Block Rate Boost to 23%.,效果上升：格擋機率增加23%,atlas_rook
+419,rook:source_default:passive:10089604,enhancement,,,,Increases Effect: Damage Resistance to 20%.,效果上升：削減效果20%,atlas_rook
+420,ruri:source_default:basic:10084601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_ruri
+421,ruri:source_default:s1:10084602,enhancement,,,,Increases Damage: To 90% of Magic Attack.,傷害量上升：魔法攻擊力的90%,atlas_ruri
+422,ruri:source_default:s1:10084602,enhancement,,,,Increases Damage: To 42% of Magic Attack to each attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，每次攻擊為魔法攻擊力的42%,atlas_ruri
+423,ruri:source_default:ultimate:10084603,enhancement,,,,Increases Damage: To 170% of Magic Attack.,傷害量上升：魔法攻擊力的170%,atlas_ruri
+424,ruri:source_default:ultimate:10084603,enhancement,,,,Increases Damage: To 155% of Magic Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，魔法攻擊力的155%,atlas_ruri
+425,ruri:source_default:ultimate:10084603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_ruri
+426,ruri:source_default:passive:10084604,enhancement,,,,Increases Effect: Magic Damage Boost to 29%.,效果上升：魔法傷害量增加29%,atlas_ruri
+427,ruri:source_default:passive:10084604,enhancement,,,,Increases Effect: Weakness Hit Chance Boost to 39%.,效果上升：弱點攻擊機率增加39%,atlas_ruri
+428,ruri:source_default:passive:10084604,tx_bonuses,T2,,,Adds Effect: Grants Weakness Hit Damage Boost upon activating a skill 1 time(s). [Duration: 5 Turn(s)],添加效果：發動自身的技能1次時，弱點攻擊傷害量增加［持續5回合］,atlas_ruri
+429,shane:source_default:basic:10087601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_shane
+430,shane:source_default:ultimate:10087603,enhancement,,,,Increases Damage: To 690% of Physical Attack.,傷害量上升：物理攻擊力的690%,atlas_shane
+431,shane:source_default:ultimate:10087603,tx_bonuses,T6,,,Adds Damage: Grants an additional 50% Damage Boost for each debuff on the target. [Max 4 Stack(s)],傷害量上升：對象每持有1個DeBuff，增加相當於50%的傷害量［最多4個］,atlas_shane
+432,shane:source_default:passive:10087604,enhancement,,,,Increases Effect: Magic Resistance to 29%.,效果上升：魔法削減29%,atlas_shane
+433,shane:source_default:passive:10087604,enhancement,,,,Increases Effect: Crit Rate Boost to 41%.,效果上升：暴擊機率增加41%,atlas_shane
+434,shane:source_default:passive:10087604,tx_bonuses,T2,,,Adds Damage: Grants an additional 20% Damage Boost for each debuff on the target. [Max 4 Stack(s)],傷害量上升：對象每持有1個DeBuff，增加相當於20%的傷害量［最多4個］,atlas_shane
+435,sieg:source_default:basic:10088601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_sieg
+436,sieg:source_default:s1:10088602,enhancement,,,,Increases Effect: Damage Reduction to 23%.,效果上升：傷害量減少23%,atlas_sieg
+437,sieg:source_default:ultimate:10088603,enhancement,,,,Increases Damage: To 655% of Physical Attack.,傷害量上升：物理攻擊力的655%,atlas_sieg
+438,sieg:source_default:ultimate:10088603,enhancement,,,,Increases Healing: HP Recovery amount becomes 30% of Physical Attack.,恢復量上升：生命力恢復量為物理攻擊力的30%,atlas_sieg
+439,sieg:source_default:ultimate:10088603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_sieg
+440,sieg:source_default:passive:10088604,enhancement,,Back Row Allies,我軍後排,Increases Effect: Physical Attack Boost to 27%.,效果上升：物理攻擊力增加27%,atlas_sieg
+441,sieg:source_default:passive:10088604,tx_bonuses,T2,Back Row Allies,我軍後排,Increases Turns: Physical Attack Boost duration becomes 3 turn(s).,回合上升：物理攻擊力增加［持續3回合］,atlas_sieg
+442,taka:source_default:basic:10114601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_taka
+443,taka:source_default:basic:10114601,enhancement,,,,"Increases Damage: When the target's current HP is 30% or lower, damage becomes equal to 55% of Physical Attack.",傷害量上升：當對象目前生命力達到30%以下時，傷害量為物理攻擊力的55%,atlas_taka
+444,taka:source_default:s1:10114602,enhancement,,,,Increases Effect: Crit Damage to 46%.,效果上升：額外套用暴擊傷害46%,atlas_taka
+445,taka:source_default:s1:10114602,enhancement,,,,Increases Damage: To 170% of Physical Attack.,傷害量上升：物理攻擊力的170%,atlas_taka
+446,taka:source_default:ultimate:10114603,enhancement,,,,Increases Damage: To 170% of Physical Attack.,傷害量上升：物理攻擊力的170%,atlas_taka
+447,taka:source_default:ultimate:10114603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_taka
+448,taka:source_default:passive:10114604,enhancement,,Self,自身,Adds Effect: Grants All Damage Nullification upon using a skill 1 time(s). [Ends After: Taking 1 Hit(s)],添加效果：發動自身的技能1次時，所有傷害無效化［被擊中1次］,atlas_taka
+449,taka:source_default:passive:10114604,tx_bonuses,T2,,,Increases Effect: [Hawk's Talons] increases Physical damage taken to 4%.,效果上升：［老鷹的利爪］受到的物理傷害量4%,atlas_taka
+450,velika:awakened:ultimate:40081703,tx_bonuses,T6,,,Adds Effect: 60% chance to inflict Silence. [Duration: 2 Turn(s)],添加效果：沉默［60%機率］［持續2回合］,atlas_velika
+451,velika:awakened:passive:40081704,tx_bonuses,T2,,,Increases Effect: Barrier absorption becomes equal to 185% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的185%,atlas_velika
+452,velika:awakened:passive:40081704,tx_bonuses,T2,,,Adds Effect: Grants a Barrier equal to 185% of the caster's Magic Attack when HP falls to 50% or lower. [Duration: 3 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者魔法攻擊力185%的防護罩［持續3回合］（每戰鬥發動1次）,atlas_velika
+453,velika:awakened:awakened:40081707,enhancement,,,,Increases Damage: To 215% of Magic Attack.,傷害量上升：魔法攻擊力的215%,atlas_velika
+454,velika:s6:basic:10081601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_velika
+455,velika:s6:s1:10081602,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction on the target in Infinite Tower and Tower of Trials. [Duration: 3 Turn(s)],添加效果：在無限之塔、試煉之塔中，對象的回合制Buff減少3回合［100%機率］,atlas_velika
+456,velika:s6:ultimate:10081603,enhancement,,,,Increases Damage: To 95% of Magic Attack.,傷害量上升：魔法攻擊力的95%,atlas_velika
+457,velika:s6:ultimate:10081603,tx_bonuses,T6,,,Adds Effect: 60% chance to inflict Silence. [Duration: 2 Turn(s)],添加效果：沉默［60%機率］［持續2回合］,atlas_velika
+458,velika:s6:passive:10081604,enhancement,,,,Increases Effect: Crit Rate Boost to 45%.,效果上升：暴擊機率增加45%,atlas_velika
+459,velika:s6:passive:10081604,enhancement,,,,Increases Effect: Damage Boost to 28%.,效果上升：傷害量增加28%,atlas_velika
+460,velika:s6:passive:10081604,tx_bonuses,T2,,,Increases Effect: Barrier absorption becomes 185% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的185%,atlas_velika
+461,velika:s6:passive:10081604,tx_bonuses,T2,,,Adds Effect: Grants a Barrier equal to 185% of the caster's Magic Attack when HP falls to 50% or lower. [Duration: 3 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者魔法攻擊力185%的防護罩［持續3回合］（每戰鬥發動1次）,atlas_velika
+462,xiao-qiao:source_default:basic:10152601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_xiao-qiao
+463,xiao-qiao:source_default:s1:10152602,enhancement,,,,Increases Damage: To 330% of Magic Attack.,傷害量上升：魔法攻擊力的330%,atlas_xiao-qiao
+464,xiao-qiao:source_default:ultimate:10152603,enhancement,,,,Increases Effect: Magic Attack Boost to 31%.,效果上升：魔法攻擊力增加31%,atlas_xiao-qiao
+465,xiao-qiao:source_default:ultimate:10152603,tx_bonuses,T6,2 Allies with the Highest Attack,攻擊力最高的我軍2名,Adds Effect: Grants Crit Damage Boost. [Duration: 3 Turn(s)],添加效果：暴擊傷害增加［持續3回合］,atlas_xiao-qiao
+466,xiao-qiao:source_default:passive:10152604,enhancement,,,,Increases Effect: Magic Damage Boost to 29%.,效果上升：魔法傷害量增加29%,atlas_xiao-qiao
+467,xiao-qiao:source_default:passive:10152604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Weakness Hit Chance Boost. [Always Active],添加效果：弱點攻擊機率增加 ［常態］,atlas_xiao-qiao
+468,yu-shin:source_default:basic:10069601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_yu-shin
+469,yu-shin:source_default:basic:10069601,enhancement,,,,Increases Effect: Effect Resist Reduction to 16%.,效果上升：效果抵抗減少16%,atlas_yu-shin
+470,yu-shin:source_default:s1:10069602,enhancement,,,,Increases Damage: To 92% of Magic Attack.,傷害量上升：魔法攻擊力的92%,atlas_yu-shin
+471,yu-shin:source_default:s1:10069602,tx_bonuses,T2,3 Allies,我軍3名,Adds Effect: 2 Debuff Removal(s).,添加效果：DeBuff解除2個,atlas_yu-shin
+472,yu-shin:source_default:ultimate:10069603,enhancement,,,,Increases Damage: To 135% of Magic Attack.,傷害量上升：魔法攻擊力的135%,atlas_yu-shin
+473,yu-shin:source_default:ultimate:10069603,enhancement,,,,Increases Chance: Paralysis chance becomes 55%.,機率上升：麻痺機率55%,atlas_yu-shin
+474,yu-shin:source_default:ultimate:10069603,tx_bonuses,T6,,,Increases Effect: Incoming Healing Reduction to 75%.,效果上升：受到的恢復量減少75%,atlas_yu-shin
+475,yu-shin:source_default:passive:10069604,enhancement,,,,Increases Turns: All Damage Immunity duration becomes 3 turn(s).,回合上升：所有傷害免疫［持續3回合］,atlas_yu-shin
+476,yu-shin:source_default:passive:10069604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 34%.,效果上升：效果命中增加34%,atlas_yu-shin
+477,ace:source_default:basic:10051601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_ace
+478,ace:source_default:s1:10051602,enhancement,,,,Increases Damage: To 85% of Physical Attack.,傷害量上升：物理攻擊力的85%,atlas_ace
+479,ace:source_default:s1:10051602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Incoming Healing Reduction. [Duration: 3 Turn(s)],添加效果：受到的恢復量減少［100%機率］［持續3回合］,atlas_ace
+480,ace:source_default:ultimate:10051603,enhancement,,,,Increases Effect: Block Rate Reduction to 33%.,效果上升：格擋機率減少33%,atlas_ace
+481,ace:source_default:ultimate:10051603,enhancement,,3 Allies,我軍3名,Adds Effect: 2 Debuff Removal(s).,添加效果：DeBuff解除2個,atlas_ace
+482,ace:source_default:passive:10051604,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_ace
+483,ace:source_default:passive:10051604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 155% of Physical Attack.,效果上升：防護罩吸收量為物理攻擊力的155%,atlas_ace
+484,ace:source_default:passive:10051604,tx_bonuses,T6,Self,自身,Adds Effect: Grants Effect Hit Rate Boost. [Always Active],添加效果：效果命中增加 ［常態］,atlas_ace
+485,aquila:source_default:basic:10144601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 14% of the caster's Max HP.,傷害量上升：物理攻擊力的60%、施展者最大生命力的14%,atlas_aquila
+486,aquila:source_default:basic:10144601,enhancement,,2 Allies with the Lowest Current HP (Excluding Self),目前生命力最低的我軍2名（不包含自身）,Adds Effect: Grants a Barrier equal to 8% of the caster's Max HP. [Duration: 2 Turn(s)],添加效果：相當於施展者最大生命力8%的防護罩［持續2回合］,atlas_aquila
+487,aquila:source_default:s1:10144602,enhancement,,,,Increases Chance: Death Turn Reduction chance becomes 70%.,機率上升：即死回合減少機率70%,atlas_aquila
+488,aquila:source_default:s1:10144602,enhancement,,,,Increases Effect: Weakness Hit Chance Reduction to 30%.,效果上升：弱點攻擊機率減少30%,atlas_aquila
+489,aquila:source_default:s1:10144602,tx_bonuses,T2,Self,自身,Adds Effect: Grants Damage Resistance. [Duration: 5 Turn(s)],添加效果：削減［持續5回合］,atlas_aquila
+490,aquila:source_default:ultimate:10144603,enhancement,,,,Increases Chance: Death chance becomes 40%.,機率上升：即死機率40%,atlas_aquila
+491,aquila:source_default:ultimate:10144603,enhancement,,,,Increases Effect: Barrier absorption becomes 25% of Max HP.,效果上升：防護罩吸收量為最大生命力的25%,atlas_aquila
+492,aquila:source_default:passive:10144604,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 40% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的40%,atlas_aquila
+493,aquila:source_default:passive:10144604,tx_bonuses,T6,,,Adds Effect: Link. [Duration: 3 Turn(s)],添加效果：連結［持續3回合］,atlas_aquila
+494,aris:awakened:s1:40182702,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_aris
+495,aris:awakened:passive:40182704,tx_bonuses,T6,,,"Increases Effect: Earth Dragon's Fury
+Grants 1 stack of 6% Damage Dealt Boost. [Max 30 Stacks]
+Grants 1 stack of 6% Physical Attack Boost. [Max 30 Stacks]","效果上升：地龍的憤怒
+造成的傷害量增加6%疊加1次［最多疊加30次］
+物理攻擊力增加6%疊加1次［最多疊加30次］",atlas_aris
+496,aris:awakened:awakened:40182707,enhancement,,,,Increases Effect: Incoming Healing Reduction to 52%.,效果上升：受到的恢復量減少52%,atlas_aris
+497,aris:awakened:awakened:40182707,enhancement,,,,Increases Effect: Block Rate Reduction to 23%.,效果上升：格擋機率減少23%,atlas_aris
+498,aris:s6:basic:10182601,enhancement,,,,Adds Effect: 40% chance to inflict Stun. [Duration: 1 Turn(s)],添加效果：暈眩［40%機率］［持續1回合］,atlas_aris
+499,aris:s6:s1:10182602,enhancement,,,,Adds Effect: Pierce,添加效果：穿透,atlas_aris
+500,aris:s6:s1:10182602,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_aris
+501,aris:s6:ultimate:10182603,enhancement,,,,Increases Damage: To 40% of Physical Attack plus 45% of target's Defense.,傷害量上升：物理攻擊力的40%、對象防禦力的45%,atlas_aris
+502,aris:s6:passive:10182604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_aris
+503,aris:s6:passive:10182604,enhancement,,,,Increases Effect: Block Rate Boost to 23%.,效果上升：格擋機率增加23%,atlas_aris
+504,aris:s6:passive:10182604,tx_bonuses,T6,,,"Increases Effect: Earth Dragon's Fury
+Grants 1 stack of 6% Damage Dealt Boost. [Max 30 Stacks]
+Grants 1 stack of 6% Physical Attack Boost. [Max 30 Stacks]","效果上升：地龍的憤怒
+造成的傷害量增加6%疊加1次［最多疊加30次］
+物理攻擊力增加6%疊加1次［最多疊加30次］",atlas_aris
+505,biscuit:source_default:basic:10110601,enhancement,,,,Adds Effect: 100% chance to inflict Damage Reduction. [Duration: 2 Turn(s)],添加效果：傷害量減少［100%機率］［持續2回合］,atlas_biscuit
+506,biscuit:source_default:s1:10110602,enhancement,,,,Increases Effect: Boss Damage Boost to 40%.,效果上升：BOSS對象傷害量增加40%,atlas_biscuit
+507,biscuit:source_default:s1:10110602,enhancement,,,,Increases Effect: Weakness Hit Chance Boost to 54%.,效果上升：弱點攻擊機率增加54%,atlas_biscuit
+508,biscuit:source_default:s1:10110602,tx_bonuses,T6,,,Changes Number of Targets: To 2 Allies with the Highest Attack.,變更對象數量：攻擊力最高的我軍2名,atlas_biscuit
+509,biscuit:source_default:ultimate:10110603,enhancement,,,,Increases Damage: To 115% of Magic Attack plus 135% of Defense.,傷害量上升：魔法攻擊力的115%、防禦力的135%,atlas_biscuit
+510,biscuit:source_default:passive:10110604,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_biscuit
+511,biscuit:source_default:passive:10110604,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Grants Quintuple-Target Attack Resistance. [Always Active],添加效果：5人攻擊技削減 ［常態］,atlas_biscuit
+512,branze-bransel:source_default:basic:10145601,enhancement,,,,Increases Damage: To 75% of Physical Attack.,傷害量上升：物理攻擊力的75%,atlas_branze-bransel
+513,branze-bransel:source_default:s1:10145602,enhancement,,,,Increases Damage: To 45% of Physical Attack.,傷害量上升：物理攻擊力的45%,atlas_branze-bransel
+514,branze-bransel:source_default:s1:10145602,enhancement,,,,Increases Chance: Bleed chance becomes 35%.,機率上升：出血機率35%,atlas_branze-bransel
+515,branze-bransel:source_default:ultimate:10145603,enhancement,,,,Increases Damage: To 297% of Physical Attack.,傷害量上升：物理攻擊力的297%,atlas_branze-bransel
+516,branze-bransel:source_default:ultimate:10145603,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 3 Turn(s)],添加效果：回合制Buff減少3回合［100%機率］,atlas_branze-bransel
+517,branze-bransel:source_default:ultimate:10145603,tx_bonuses,T2,Self,自身,Adds Healing: Heals HP equal to 110% of Physical Attack.,添加恢復：恢復相當於物理攻擊力110%的生命力,atlas_branze-bransel
+518,branze-bransel:source_default:ultimate:10145603,tx_bonuses,T6,Single Ally,單一我軍,Adds Effect: Revives a fallen target with 40% HP upon defeating an enemy with damage from this skill. (If deployed to a team with 3 or more Attack heroes),添加效果：使用該技能的直接傷害消滅敵軍時，使死亡的對象以生命力40%復活（編列攻擊型3名以上時）,atlas_branze-bransel
+519,branze-bransel:source_default:ultimate:10145603,tx_bonuses,T6,Single Ally,單一我軍,Adds Effect: Grants All Damage Nullification upon revival. [Ends After: Taking 2 Hit(s)],添加效果：自身復活時，所有傷害無效化［被擊中2次］,atlas_branze-bransel
+520,branze-bransel:source_default:passive:10145604,enhancement,,Self,自身,Adds Effect: Grants All Damage Immunity upon triggering Guts [Duration: 2 Turn(s)],添加效果：發動權能時，所有傷害免疫［持續2回合］,atlas_branze-bransel
+521,clemyth:awakened:ultimate:40179703,tx_bonuses,T6,"Allies (Attack, Magic)",我軍（攻擊型、魔法型）,Increases Turns: Crit Damage Boost duration becomes 4 turn(s).,回合上升：暴擊傷害增加［持續4回合］,atlas_clemyth
+522,clemyth:awakened:ultimate:40179703,tx_bonuses,T6,"Allies (Defense, Support)",我軍（防禦型、支援型）,Increases Turns: Defense Boost duration becomes 4 turn(s).,回合上升：防禦力增加［持續4回合］,atlas_clemyth
+523,clemyth:awakened:ultimate:40179703,tx_bonuses,T6,Allies (Universal),我軍（萬能型）,"Increases Turns: Damage Boost duration becomes 4 turn(s).
+Increases Turns: Effect Hit Rate Boost duration becomes 4 turn(s).","回合上升：傷害量增加［持續4回合］
+回合上升：效果命中增加［持續4回合］",atlas_clemyth
+524,clemyth:awakened:passive:40179704,tx_bonuses,T2,Self,自身,Adds Effect: Grants All Damage Immunity upon revival. [Duration: 2 Turn(s)] [Once per Battle],添加效果：自身復活時，所有傷害免疫［持續2回合］（每戰鬥發動1次）,atlas_clemyth
+525,clemyth:awakened:awakened:40179707,enhancement,,2 Allies,我軍2名,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_clemyth
+526,clemyth:s6:basic:10179601,enhancement,,Single Enemy,單一敵軍,Increases Damage: To 60% of Magic Attack plus 14% of the caster's Max HP.,傷害量上升：魔法攻擊力的60%、施展者最大生命力的14%,atlas_clemyth
+527,clemyth:s6:basic:10179601,enhancement,,Ally with Lowest Current HP (Excluding Self),目前生命力最低的我軍（不包含自身）］,Increases Effect: Barrier absorption becomes 15% of Max HP.,效果上升：防護罩吸收量為最大生命力的15%,atlas_clemyth
+528,clemyth:s6:s1:10179602,enhancement,,All Allies,所有我軍,Increases Turns: Continuous Healing duration becomes 3 turn(s).,回合上升：持續恢復［持續3回合］,atlas_clemyth
+529,clemyth:s6:ultimate:10179603,enhancement,,"Allies (Attack, Magic)",我軍（攻擊型、魔法型）,Increases Effect: Crit Damage Boost to 49%.,效果上升：暴擊傷害增加49%,atlas_clemyth
+530,clemyth:s6:ultimate:10179603,enhancement,,"Allies (Defense, Support)",我軍（防禦型、支援型）,Increases Effect: Defense Boost to 39%.,效果上升：防禦力增加39%,atlas_clemyth
+531,clemyth:s6:ultimate:10179603,enhancement,,Allies (Universal),我軍（萬能型）,Increases Effect: Damage Boost to 20%.,效果上升：傷害量增加20%,atlas_clemyth
+532,clemyth:s6:ultimate:10179603,tx_bonuses,T6,"Allies (Attack, Magic)",我軍（攻擊型、魔法型）,Increases Turns: Crit Damage Boost duration becomes 4 turn(s).,回合上升：暴擊傷害增加［持續4回合］,atlas_clemyth
+533,clemyth:s6:ultimate:10179603,tx_bonuses,T6,"Allies (Defense, Support)",我軍（防禦型、支援型）,Increases Turns: Defense Boost duration becomes 4 turn(s).,回合上升：防禦力增加［持續4回合］,atlas_clemyth
+534,clemyth:s6:ultimate:10179603,tx_bonuses,T6,Allies (Universal),我軍（萬能型）,"Increases Turns: Damage Boost duration becomes 4 turn(s).
+Increases Turns: Effect Hit Rate Boost duration becomes 4 turn(s).","回合上升：傷害量增加［持續4回合］
+回合上升：效果命中增加［持續4回合］",atlas_clemyth
+535,clemyth:s6:passive:10179604,enhancement,,Self,自身,Increases Effect: Max HP-Based Block Rate Boost max increases to 33%.,效果上升：最大生命力比例格擋機率最大增加數值33%,atlas_clemyth
+536,clemyth:s6:passive:10179604,enhancement,,All Enemies,所有敵軍,Increases Effect: All Attack Reduction to 16%.,效果上升：所有攻擊力減少16%,atlas_clemyth
+537,clemyth:s6:passive:10179604,tx_bonuses,T2,Self,自身,Adds Effect: Grants All Damage Immunity upon revival. [Duration: 2 Turn(s)] [Once per Battle],添加效果：自身復活時，所有傷害免疫［持續2回合］（每戰鬥發動1次）,atlas_clemyth
+538,colt:source_default:basic:10113601,enhancement,,,,Increases Damage: To 70% of Physical Attack.,傷害量上升：物理攻擊力的70%,atlas_colt
+539,colt:source_default:s1:10113602,enhancement,,,,Increases Damage: To 50% of Physical Attack.,傷害量上升：物理攻擊力的50%,atlas_colt
+540,colt:source_default:s1:10113602,enhancement,,,,Increases Chance: Bomb chance becomes 45%.,機率上升：炸彈機率45%,atlas_colt
+541,colt:source_default:ultimate:10113603,enhancement,,,,Increases Damage: To 150% of Physical Attack.,傷害量上升：物理攻擊力的150%,atlas_colt
+542,colt:source_default:ultimate:10113603,enhancement,,,,Increases Effect: All Attack Reduction to 18%.,效果上升：所有攻擊力減少18%,atlas_colt
+543,colt:source_default:passive:10113604,enhancement,,,,"Increases Effect: Speed-Based Attack Boost max becomes 1,320.","效果上升：攻速比例攻擊力最大增加數值1,320",atlas_colt
+544,colt:source_default:passive:10113604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 34%.,效果上升：效果命中增加34%,atlas_colt
+545,colt:source_default:passive:10113604,tx_bonuses,T2,Self,自身,Adds Effect: Guts. [Once per Battle] Adds Effect: Barrier. [Duration: 3 Turn(s)],添加效果：權能（每戰鬥發動1次） 添加效果：防護罩［持續3回合］,atlas_colt
+546,colt:source_default:passive:10113604,tx_bonuses,T6,,,Adds Effect: Reduces skill cooldowns by 23s when an enemy falls in battle.,添加效果：敵軍死亡時，技能冷卻時間減少23秒,atlas_colt
+547,colt:source_default:passive:10113604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 155% of the caster's Physical Attack upon triggering Guts. [Duration: 3 Turn(s)],添加效果：發動權能時，產生相當於施展者物理攻擊力155%的防護罩［持續3回合］,atlas_colt
+548,dellons:awakened:ultimate:40058703,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_dellons
+549,dellons:awakened:passive:40058704,tx_bonuses,T6,Self,自身,"Adds Effect: Increases All Damage Nullification's hit count by 1 hit(s) when an ally falls in battle. [Max 6 Hit(s)]
+Adds Effect: Grants 1 stack(s) of Crit Damage Boost (Stacks) when an ally falls in battle. [Max 8 Stack(s)]","添加效果：我軍死亡時，所有傷害無效化［被擊中1次］（最多6次）
+添加效果：我軍死亡時，暴擊傷害增加（疊加）疊加1次［最多疊加8次］",atlas_dellons
+550,dellons:awakened:awakened:40058707,enhancement,,Self,自身,Increases Effect: All Damage Nullification's hit count increase becomes 4 hit(s).,效果上升：所有傷害無效化的被擊中次數增加4次,atlas_dellons
+551,dellons:s6:basic:10058601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_dellons
+552,dellons:s6:basic:10058601,enhancement,,,,Adds Effect: 45% chance to inflict Silence. [Duration: 1 Turn(s)],添加效果：沉默［45%機率］［持續1回合］,atlas_dellons
+553,dellons:s6:s1:10058602,enhancement,,,,Increases Damage: To 135% of Physical Attack.,傷害量上升：物理攻擊力的135%,atlas_dellons
+554,dellons:s6:s1:10058602,enhancement,,,,Increases Chance: Silence chance becomes 60%.,機率上升：沉默機率60%,atlas_dellons
+555,dellons:s6:ultimate:10058603,enhancement,,,,Increases Damage: To 158% of Physical Attack.,傷害量上升：物理攻擊力的158%,atlas_dellons
+556,dellons:s6:ultimate:10058603,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_dellons
+557,dellons:s6:passive:10058604,enhancement,,All Allies,所有我軍,Increases Effect: Physical Damage Boost to 20%.,效果上升：物理傷害量增加20%,atlas_dellons
+558,dellons:s6:passive:10058604,enhancement,,Self,自身,Increases Stacks: All Damage Nullification ends after taking 4 hit(s).,次數上升：所有傷害無效化次數4次,atlas_dellons
+559,dellons:s6:passive:10058604,tx_bonuses,T6,Self,自身,"Adds Effect: Increases All Damage Nullification's hit count by 1 hit(s) when an ally falls in battle. [Max 6 Hit(s)]
+Adds Effect: Grants 1 stack(s) of Crit Damage Boost (Stacks) when an ally falls in battle. [Max 8 Stack(s)]","添加效果：我軍死亡時，所有傷害無效化［被擊中1次］（最多6次）
+添加效果：我軍死亡時，暴擊傷害增加（疊加）疊加1次［最多疊加8次］",atlas_dellons
+560,dongyoung:awakened:passive:40189704,tx_bonuses,T6,Self,自身,Adds Effect: Increases Indomitable effect's hit count by 1 hit(s) when an ally falls in battle.,添加效果：我軍死亡時，不屈效果的被擊中次數增加1次,atlas_dongyoung
+561,dongyoung:awakened:passive:40189704,tx_bonuses,T2,Allies in Row w/ Self (Magic),與自身同一列的我軍（魔法型）,Adds Effect: Grants All Damage Immunity. [Duration: 1 Turn(s)],添加效果：所有傷害免疫［持續1回合］,atlas_dongyoung
+562,dongyoung:awakened:passive:40189704,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 100% chance to inflict Magic Vulnerability. [Duration: 2 Turn(s)],添加效果：魔法脆弱［100%機率］［持續2回合］,atlas_dongyoung
+563,dongyoung:awakened:awakened:40189707,enhancement,,,,Increases Damage: To 160% of Magic Attack.,傷害量上升：魔法攻擊力的160%,atlas_dongyoung
+564,dongyoung:awakened:awakened:40189707,enhancement,,,,Increases Damage: To 26% Fixed damage.,傷害量上升：固定傷害26%,atlas_dongyoung
+565,dongyoung:s6:basic:10189601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_dongyoung
+566,dongyoung:s6:s1:10189602,enhancement,,,,Increases Damage: To 70% of Magic Attack.,傷害量上升：魔法攻擊力的70%,atlas_dongyoung
+567,dongyoung:s6:s1:10189602,enhancement,,,,Increases Damage: To 22% Fixed damage.,傷害量上升：固定傷害22%,atlas_dongyoung
+568,dongyoung:s6:ultimate:10189603,enhancement,,,,Increases Chance: Deadly Poison chance increases to 75%.,機率上升：劇毒機率75%,atlas_dongyoung
+569,dongyoung:s6:passive:10189604,enhancement,,,,Increases Effect: Magic Damage Boost to 20%.,效果上升：魔法傷害量增加20%,atlas_dongyoung
+570,dongyoung:s6:passive:10189604,tx_bonuses,T6,Self,自身,Adds Effect: Increases Indomitable effect's hit count by 1 hit(s) when an ally falls in battle.,添加效果：我軍死亡時，不屈效果的被擊中次數增加1次,atlas_dongyoung
+571,dongyoung:s6:passive:10189604,tx_bonuses,T2,Allies in Row w/ Self (Magic),與自身同一列的我軍（魔法型）,Adds Effect: Grants All Damage Immunity. [Duration: 1 Turn(s)],添加效果：所有傷害免疫［持續1回合］,atlas_dongyoung
+572,dongyoung:s6:passive:10189604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 100% chance to inflict Magic Vulnerability. [Duration: 2 Turn(s)],添加效果：魔法脆弱［100%機率］［持續2回合］,atlas_dongyoung
+573,eileene:awakened:s1:40059702,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+574,eileene:awakened:s1:40059702,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+575,eileene:awakened:ultimate:40059703,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+576,eileene:awakened:ultimate:40059703,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+577,eileene:awakened:passive:40059704,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+578,eileene:awakened:passive:40059704,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+579,eileene:awakened:awakened:40059707,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 2 Turn(s)],添加效果：回合制Buff減少2回合［100%機率］,atlas_eileene
+580,eileene:s6:basic:10059601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_eileene
+581,eileene:s6:basic:10059601,enhancement,,,,Increases Damage: To 55% of Physical Attack against targets inflicted with [Shock].,傷害量上升：對象為［觸電］狀態時，物理攻擊力的55%,atlas_eileene
+582,eileene:s6:s1:10059602,enhancement,,,,Increases Damage: To 56% of Physical Attack.,傷害量上升：物理攻擊力的56%,atlas_eileene
+583,eileene:s6:s1:10059602,enhancement,,,,Increases Chance: Shock chance becomes 30%.,機率上升：觸電機率30%,atlas_eileene
+584,eileene:s6:s1:10059602,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+585,eileene:s6:s1:10059602,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+586,eileene:s6:ultimate:10059603,enhancement,,,,Increases Damage: To 75% of Physical Attack.,傷害量上升：物理攻擊力的75%,atlas_eileene
+587,eileene:s6:ultimate:10059603,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+588,eileene:s6:ultimate:10059603,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+589,eileene:s6:passive:10059604,enhancement,,,,Increases Effect: Physical Attack Boost to 25%.,效果上升：物理攻擊力增加25%,atlas_eileene
+590,eileene:s6:passive:10059604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_eileene
+591,eileene:s6:passive:10059604,enhancement,,,,Increases Damage: To 75% of Physical Attack.,傷害量上升：物理攻擊力的75%,atlas_eileene
+592,eileene:s6:passive:10059604,tx_bonuses,T2,,,Adds Effect: Pierce.,添加效果：穿透,atlas_eileene
+593,eileene:s6:passive:10059604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: With each attack: 100% chance to inflict 1 stack(s) of Incoming Healing Reduction. [Max 4 Stack(s)],添加效果：每次攻擊時，受到的恢復量減少［100%機率］疊加1次［最多疊加4次］,atlas_eileene
+594,elysia:source_default:basic:10127601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_elysia
+595,elysia:source_default:s1:10127602,enhancement,,,,"Increases Damage: To 1,285 Fixed damage.","傷害量上升：固定傷害1,285",atlas_elysia
+596,elysia:source_default:s1:10127602,enhancement,,,,Increases Chance: Silence chance becomes 60%.,機率上升：沉默機率60%,atlas_elysia
+597,elysia:source_default:ultimate:10127603,enhancement,,,,Increases Damage: To 115% of Physical Attack.,傷害量上升：物理攻擊力的115%,atlas_elysia
+598,elysia:source_default:ultimate:10127603,enhancement,,,,Increases Effect: Increased Miss Chance to 48%.,效果上升：偏離機率增加48%,atlas_elysia
+599,elysia:source_default:ultimate:10127603,tx_bonuses,T6,,,Increases Effect: Buff Duration Reduction becomes 3 turn(s).,效果上升：回合制Buff減少3回合,atlas_elysia
+600,elysia:source_default:passive:10127604,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_elysia
+601,elysia:source_default:passive:10127604,tx_bonuses,T2,Self,自身,Adds Healing: Heals HP equal to 165% of the caster's Physical Attack when HP falls to 50% or lower. [1 Time(s) per Battle],添加恢復：當自身的生命力達到50%以下時，恢復相當於施展者物理攻擊力165%的生命力（每戰鬥發動1次）,atlas_elysia
+602,freyja:source_default:basic:10131601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_freyja
+603,freyja:source_default:basic:10131601,enhancement,,,,Adds Effect: 50% chance to inflict Bleed. [Duration: 2 Turn(s)],添加效果：出血［50%機率］［持續2回合］,atlas_freyja
+604,freyja:source_default:s1:10131602,enhancement,,,,Increases Damage: To 67% of Magic Attack.,傷害量上升：魔法攻擊力的67%,atlas_freyja
+605,freyja:source_default:s1:10131602,enhancement,,,,Adds Effect: 75% chance to inflict Bleed. [Duration: 2 Turn(s)],添加效果：出血［75%機率］［持續2回合］,atlas_freyja
+606,freyja:source_default:s1:10131602,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_freyja
+607,freyja:source_default:ultimate:10131603,enhancement,,,,Increases Effect: HP Alteration to 39%.,效果上升：生命力轉換39%,atlas_freyja
+608,freyja:source_default:ultimate:10131603,enhancement,,,,Increases Damage: To 80% of Magic Attack.,傷害量上升：魔法攻擊力的80%,atlas_freyja
+609,freyja:source_default:passive:10131604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_freyja
+610,freyja:source_default:passive:10131604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 37%.,效果上升：效果命中增加37%,atlas_freyja
+611,freyja:source_default:passive:10131604,tx_bonuses,T2,,,Adds Effect: Grants 4 stack(s) of Divinity (Stacks). [Max 6 Stack(s)],添加效果：神聖（疊加）疊加4次［最多疊加6次］,atlas_freyja
+612,hayeon:awakened:passive:40188704,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Barrier equal to 25% of the caster's Max HP when HP falls to 50% or lower. [Duration: 2 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者最大生命力25%的防護罩［持續2回合］（每戰鬥發動1次）,atlas_hayeon
+613,hayeon:awakened:passive:40188704,tx_bonuses,T6,"Enemies (Attack, Magic)",敵軍（攻擊型、魔法型）,Adds Effect: Inflicts All Attack Reduction. [Always Active],添加效果：所有攻擊力減少［常態］,atlas_hayeon
+614,hayeon:awakened:passive:40188704,tx_bonuses,T6,"Enemies (Defense, Support, Universal)",敵軍（防禦型、支援型、萬能型）,Adds Effect: Inflicts Defense Reduction. [Always Active],添加效果：防禦力減少［常態］,atlas_hayeon
+615,hayeon:awakened:awakened:40188707,enhancement,,All Allies,所有我軍,Adds Effect: Grants a Barrier equal to 30% of the caster's Max HP. [Duration: 2 Turn(s)],添加效果：相當於施展者最大生命力30%的防護罩［持續2回合］,atlas_hayeon
+616,hayeon:s6:basic:10188601,enhancement,,,,Increases Damage: To 70% of Magic Attack.,傷害量上升：魔法攻擊力的70%,atlas_hayeon
+617,hayeon:s6:s1:10188602,enhancement,,,,Increases Chance: Paralysis chance becomes 55%.,機率上升：麻痺機率55%,atlas_hayeon
+618,hayeon:s6:ultimate:10188603,enhancement,,,,Adds Effect: All Damage Immunity. [Duration: 1 Turn(s)],添加效果：所有傷害免疫［持續1回合］,atlas_hayeon
+619,hayeon:s6:passive:10188604,enhancement,,,,Increases Healing: HP Recovery amount becomes equal to 22% of the caster's Max HP.,恢復量上升：生命力恢復量為施展者最大生命力的22%,atlas_hayeon
+620,hayeon:s6:passive:10188604,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Barrier equal to 25% of the caster's Max HP when HP falls to 50% or lower. [Duration: 2 Turn(s)] [Once per Battle],添加效果：當自身的生命力達到50%以下時，產生相當於施展者最大生命力25%的防護罩［持續2回合］（每戰鬥發動1次）,atlas_hayeon
+621,hayeon:s6:passive:10188604,tx_bonuses,T6,"Enemies (Attack, Magic)",敵軍（攻擊型、魔法型）,Adds Effect: Inflicts All Attack Reduction. [Always Active],添加效果：所有攻擊力減少［常態］,atlas_hayeon
+622,hayeon:s6:passive:10188604,tx_bonuses,T6,"Enemies (Defense, Support, Universal)",敵軍（防禦型、支援型、萬能型）,Adds Effect: Inflicts Defense Reduction. [Always Active],添加效果：防禦力減少［常態］,atlas_hayeon
+623,jave:source_default:basic:10061601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_jave
+624,jave:source_default:basic:10061601,enhancement,,,,Increases Chance: Burn chance becomes 50%.,機率上升：灼傷機率50%,atlas_jave
+625,jave:source_default:s1:10061602,enhancement,,,,Increases Damage: To 150% of Physical Attack.,傷害量上升：物理攻擊力的150%,atlas_jave
+626,jave:source_default:ultimate:10061603,enhancement,,,,Increases Damage: To 80% of Physical Attack.,傷害量上升：物理攻擊力的80%,atlas_jave
+627,jave:source_default:ultimate:10061603,enhancement,,,,Increases Chance: Burn chance becomes 55%.,機率上升：灼傷機率55%,atlas_jave
+628,jave:source_default:passive:10061604,enhancement,,,,Increases Effect: Attack-Based Defense max becomes 1375.,效果上升：攻擊力比例防禦力最大增加數值1375,atlas_jave
+629,jave:source_default:passive:10061604,enhancement,,,,Increases Counterattack Damage: To 50% of Physical Attack.,反擊傷害量上升：物理攻擊力50%,atlas_jave
+630,jave:source_default:passive:10061604,enhancement,,,,Increases Chance: Burn chance becomes 40%.,機率上升：灼傷機率40%,atlas_jave
+631,jave:source_default:passive:10061604,tx_bonuses,T2,Self,自身,Adds Effect: Crowd Control Immunity. [Duration: 3 Turn(s)],添加效果：控制行動免疫［持續3回合］,atlas_jave
+632,jave:source_default:passive:10061604,tx_bonuses,T6,,,Changes Effect: Changes Burn into [Dragonflame].,效果變更：灼傷變更為［龍焰］,atlas_jave
+633,kagura:source_default:basic:10138601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_kagura
+634,kagura:source_default:s1:10138602,enhancement,,,,Increases Effect: Incoming Healing Reduction to 68%.,效果上升：受到的恢復量減少68%,atlas_kagura
+635,kagura:source_default:ultimate:10138603,enhancement,,,,Increases Chance: Petrify chance becomes 55%.,機率上升：石化機率55%,atlas_kagura
+636,kagura:source_default:passive:10138604,enhancement,,"Allies (Attack, Universal)",我軍（攻擊型、萬能型）,Increases Effect: Crit Damage Boost to 34%.,效果上升：暴擊傷害增加34%,atlas_kagura
+637,kagura:source_default:passive:10138604,tx_bonuses,T2,"Allies (Attack, Universal)",我軍（攻擊型、萬能型）,Adds Effect: Heals HP equal to 65% of the caster's Physical Attack upon triggering Indomitable.,添加效果：發動不屈時，恢復相當於施展者物理攻擊力65%的生命力,atlas_kagura
+638,kagura:source_default:passive:10138604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 100% chance to inflict Physical Vulnerability upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，物理脆弱［100%機率］［持續2回合］,atlas_kagura
+639,karl-heron:source_default:basic:10178601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_karl-heron
+640,karl-heron:source_default:basic:10178601,tx_bonuses,T2,,,Increases Chance: Shock chance becomes 30%.,機率上升：觸電機率30%,atlas_karl-heron
+641,karl-heron:source_default:s1:10178602,enhancement,,,,Increases Effect: Physical Vulnerability to 28%.,效果上升：物理脆弱28%,atlas_karl-heron
+642,karl-heron:source_default:s1:10178602,tx_bonuses,T2,,,Increases Chance: Shock chance becomes 50%.,機率上升：觸電機率50%,atlas_karl-heron
+643,karl-heron:source_default:ultimate:10178603,enhancement,,,,Increases Chance: Shock chance becomes 35%.,機率上升：觸電機率35%,atlas_karl-heron
+644,karl-heron:source_default:ultimate:10178603,tx_bonuses,T2,,,Increases Chance: Shock chance becomes 50%.,機率上升：觸電機率50%,atlas_karl-heron
+645,karl-heron:source_default:passive:10178604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_karl-heron
+646,karl-heron:source_default:passive:10178604,enhancement,,,,Increases Effect: Incoming Healing Reduction to 52%.,效果上升：受到的恢復量減少52%,atlas_karl-heron
+647,karl-heron:source_default:passive:10178604,tx_bonuses,T6,Allies (Attack),我軍（攻擊型）,Adds Effect: Grants All Damage Nullification upon revival. [Ends After: Taking 2 Hit(s)] [1 Time(s) per Battle],添加效果：自身復活時，所有傷害無效化［被擊中2次］（每戰鬥發動1次）,atlas_karl-heron
+648,karl-heron:source_default:passive:10178604,tx_bonuses,T6,Allies (Attack),我軍（攻擊型）,Adds Effect: 2 Debuff Removal(s) upon revival. [1 Time(s) per Battle],添加效果：自身復活時，DeBuff解除2個（每戰鬥發動1次）,atlas_karl-heron
+649,karl-heron:source_default:passive:10178604,tx_bonuses,T6,Allies (Attack),我軍（攻擊型）,Adds Effect: Grants Physical Damage Boost upon revival. [Duration: 3 Turn(s)] [1 Time(s) per Battle],添加效果：自身復活時，物理傷害量增加［持續3回合］（每戰鬥發動1次）,atlas_karl-heron
+650,karma:source_default:basic:10142601,enhancement,,,,Adds Effect: 100% chance to inflict Damage Reduction. [Duration: 2 Turn(s)],添加效果：傷害量減少［100%機率］［持續2回合］,atlas_karma
+651,karma:source_default:s1:10142602,enhancement,,,,Increases Damage: To 28% of Magic Attack plus 33% of Defense.,傷害量上升：魔法攻擊力的28%、防禦力的33%,atlas_karma
+652,karma:source_default:ultimate:10142603,enhancement,,,,Increases Damage: To 23% of Magic Attack plus 26% of Defense.,傷害量上升：魔法攻擊力的23%、防禦力的26%,atlas_karma
+653,karma:source_default:ultimate:10142603,enhancement,,,,Increases Effect: HP Recovery amount becomes 37% of Damage.,效果上升：生命力恢復量為傷害量的37%,atlas_karma
+654,karma:source_default:ultimate:10142603,tx_bonuses,T6,,,Changes Number of Targets: To All Enemies.,變更對象數量：敵軍全體,atlas_karma
+655,karma:source_default:passive:10142604,enhancement,,Allies (Universal),我軍（萬能型）,Increases Effect: Damage Boost to 15%.,效果上升：傷害量增加15%,atlas_karma
+656,karma:source_default:passive:10142604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Block Rate Boost. [Always Active],添加效果：格擋機率增加 ［常態］,atlas_karma
+657,klahan:source_default:basic:10137601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_klahan
+658,klahan:source_default:s1:10137602,enhancement,,,,Increases Damage: To 150% of Physical Attack.,傷害量上升：物理攻擊力的150%,atlas_klahan
+659,klahan:source_default:s1:10137602,tx_bonuses,T6,,,"Increases Damage: When the target's current HP is 50% or lower, damage increases by 115% of Physical Attack.",傷害量上升：當對象目前生命力達到50%以下時，物理攻擊力的115%,atlas_klahan
+660,klahan:source_default:ultimate:10137603,enhancement,,,,Increases Damage: To 165% of Physical Attack.,傷害量上升：物理攻擊力的165%,atlas_klahan
+661,klahan:source_default:ultimate:10137603,tx_bonuses,T6,,,"Increases Damage: When the target's current HP is 50% or higher, damage increases by 135% of Physical Attack.",傷害量上升：當對象目前生命力達到50%以上時，物理攻擊力的135%,atlas_klahan
+662,klahan:source_default:passive:10137604,enhancement,,,,Increases Effect: Physical Attack Boost to 33%.,效果上升：物理攻擊力增加33%,atlas_klahan
+663,klahan:source_default:passive:10137604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Physical Damage Boost. [Duration: 3 Turn(s)],添加效果：物理傷害量增加［持續3回合］,atlas_klahan
+664,kris:source_default:basic:10057601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_kris
+665,kris:source_default:basic:10057601,enhancement,,,,Adds Effect: 20% chance to inflict Death. [Duration: 3 Turn(s)],添加效果：即死［20%機率］［持續3回合］,atlas_kris
+666,kris:source_default:s1:10057602,enhancement,,,,Increases Damage: To 370% of Physical Attack.,傷害量上升：物理攻擊力的370%,atlas_kris
+667,kris:source_default:s1:10057602,enhancement,,,,Increases Chance: Death chance becomes 60%.,機率上升：即死機率60%,atlas_kris
+668,kris:source_default:s1:10057602,tx_bonuses,T6,,,Adds Effect: 30% chance to inflict Death. [Duration: 3 Turn(s)],添加效果：即死［30%機率］［持續3回合］,atlas_kris
+669,kris:source_default:ultimate:10057603,enhancement,,,,Increases Damage: To 115% of Physical Attack.,傷害量上升：物理攻擊力的115%,atlas_kris
+670,kris:source_default:ultimate:10057603,enhancement,,,,Increases Chance: Death chance becomes 30%.,機率上升：即死機率30%,atlas_kris
+671,kris:source_default:passive:10057604,enhancement,,,,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_kris
+672,kris:source_default:passive:10057604,tx_bonuses,T2,,,Adds Effect: Skill Cooldown Reset upon gaining Immortality.,添加效果：發動不死時，技能冷卻時間重置,atlas_kris
+673,kyle:source_default:basic:10143601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_kyle
+674,kyle:source_default:s1:10143602,enhancement,,,,Increases Damage: To 72% of Physical Attack plus 10% of the target's Max HP.,傷害量上升：物理攻擊力的72%、對象最大生命力的10%,atlas_kyle
+675,kyle:source_default:s1:10143602,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_kyle
+676,kyle:source_default:ultimate:10143603,enhancement,,,,Increases Damage: To 90% of Physical Attack.,傷害量上升：物理攻擊力的90%,atlas_kyle
+677,kyle:source_default:ultimate:10143603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_kyle
+678,kyle:source_default:passive:10143604,enhancement,,,,Increases Stacks: All Damage Nullification ends after taking 4 hit(s).,次數上升：所有傷害無效化次數4次,atlas_kyle
+679,kyle:source_default:passive:10143604,enhancement,,,,Increases Damage: To 32% of the target's Max HP.,傷害量上升：對象最大生命力的32%,atlas_kyle
+680,kyle:source_default:passive:10143604,tx_bonuses,T2,Self,自身,Adds Effect: Grants All Damage Nullification when HP falls to 70% or lower. [Ends After: Taking 3 Hit(s)] [Once per Battle] (If deployed to a team with 3 or more Attack heroes),添加效果：當自身的生命力達到70%以下時，所有傷害無效化［被擊中3次］（每戰鬥發動1次）（編制攻擊型3名以上時）,atlas_kyle
+681,kyrielle:source_default:basic:10128601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_kyrielle
+682,kyrielle:source_default:basic:10128601,enhancement,,,,Adds Effect: 35% chance to inflict Paralysis. [Duration: 1 Turn(s)],添加效果：麻痺［35%機率］［持續1回合］,atlas_kyrielle
+683,kyrielle:source_default:s1:10128602,enhancement,,,,Increases Damage: To 267% of Magic Attack.,傷害量上升：魔法攻擊力的267%,atlas_kyrielle
+684,kyrielle:source_default:s1:10128602,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Activates again up to 1 time(s) with 100% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以100%的威力最多連續發動1次,atlas_kyrielle
+685,kyrielle:source_default:ultimate:10128603,enhancement,,,,Increases Damage: To 67% of Magic Attack.,傷害量上升：魔法攻擊力的67%,atlas_kyrielle
+686,kyrielle:source_default:ultimate:10128603,enhancement,,,,Increases Chance: Paralysis chance becomes 35%.,機率上升：麻痺機率35%,atlas_kyrielle
+687,kyrielle:source_default:passive:10128604,enhancement,,,,Increases Effect: Speed-Based Attack max increases to 1320.,效果上升：攻速比例攻擊力最大增加數值1320,atlas_kyrielle
+688,kyrielle:source_default:passive:10128604,enhancement,,,,Increases Effect: Magic Damage Boost to 20%.,效果上升：魔法傷害量增加20%,atlas_kyrielle
+689,kyrielle:source_default:passive:10128604,tx_bonuses,T6,Self,自身,"Increases Effect: Barrier absorption becomes 155% of Magic Attack.
+Adds Effect: Crowd Control Immunity. [Duration: 3 Turn(s)]","效果上升：防護罩吸收量為魔法攻擊力的155%
+添加效果：控制行動免疫［持續3回合］",atlas_kyrielle
+690,lu-bu:source_default:basic:10148601,enhancement,,,,Increases Damage: To 100% of Physical Attack.,傷害量上升：物理攻擊力的100%,atlas_lu-bu
+691,lu-bu:source_default:s1:10148602,enhancement,,,,Increases Damage: To 67% of Physical Attack.,傷害量上升：物理攻擊力的67%,atlas_lu-bu
+692,lu-bu:source_default:s1:10148602,enhancement,,,,Increases Chance: Stun chance becomes 55%.,機率上升：暈眩機率55%,atlas_lu-bu
+693,lu-bu:source_default:s1:10148602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 3 Turn(s)],添加效果：防禦力減少［100%機率］［持續3回合］,atlas_lu-bu
+694,lu-bu:source_default:s1:10148602,tx_bonuses,T6,"Self, 1 Ally (Back Row First)",我軍（自身、後排優先1名）,Adds Healing: Heals HP equal to 40% of Physical Attack.,添加恢復：恢復相當於物理攻擊力40%的生命力,atlas_lu-bu
+695,lu-bu:source_default:s1:10148602,tx_bonuses,T6,"Self, 1 Ally (Back Row First)",我軍（自身、後排優先1名）,Adds Effect: Grants Defense Ignore Efficiency Boost. [Duration: 3 Turn(s)],添加效果：無視防禦效率增加［持續3回合］,atlas_lu-bu
+696,lu-bu:source_default:ultimate:10148603,enhancement,,,,Increases Damage: To 60% of Physical Attack.,傷害量上升：物理攻擊力的60%,atlas_lu-bu
+697,lu-bu:source_default:ultimate:10148603,enhancement,,,,Increases Damage: To 32% of Physical Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，物理攻擊力的32%,atlas_lu-bu
+698,lu-bu:source_default:ultimate:10148603,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 3 Turn(s)],添加效果：防禦力減少［100%機率］［持續3回合］,atlas_lu-bu
+699,lu-bu:source_default:ultimate:10148603,tx_bonuses,T6,"Self, 1 Ally (Back Row First)",我軍（自身、後排優先1名）,Adds Healing: Heals HP equal to 40% of Physical Attack.,添加恢復：恢復相當於物理攻擊力40%的生命力,atlas_lu-bu
+700,lu-bu:source_default:ultimate:10148603,tx_bonuses,T6,"Self, 1 Ally (Back Row First)",我軍（自身、後排優先1名）,Adds Effect: Grants Defense Ignore Efficiency Boost. [Duration: 3 Turn(s)],添加效果：無視防禦效率增加［持續3回合］,atlas_lu-bu
+701,lu-bu:source_default:passive:10148604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_lu-bu
+702,lu-bu:source_default:passive:10148604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_lu-bu
+703,mercure:source_default:basic:10112601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_mercure
+704,mercure:source_default:basic:10112601,enhancement,,,,Increases Chance: Magic Reflux chance becomes 50%.,機率上升：魔力逆流50%,atlas_mercure
+705,mercure:source_default:basic:10112601,tx_bonuses,T6,,,Changes Effect: Changes Magic Reflux Damage to 15% and changes the number of targets to 4.,變更效果：魔力逆流傷害量變更為15%，魔力逆流轉移對象變更為4人,atlas_mercure
+706,mercure:source_default:s1:10112602,enhancement,,,,Increases Damage: To 70% of Magic Attack.,傷害量上升：魔法攻擊力的70%,atlas_mercure
+707,mercure:source_default:s1:10112602,enhancement,,,,Increases Chance: Stun chance becomes 55%.,機率上升：暈眩機率55%,atlas_mercure
+708,mercure:source_default:ultimate:10112603,enhancement,,,,Increases Damage: To 60% of Magic Attack.,傷害量上升：魔法攻擊力的60%,atlas_mercure
+709,mercure:source_default:ultimate:10112603,enhancement,,,,Increases Chance: Magic Reflux chance becomes 50%.,機率上升：魔力逆流50%,atlas_mercure
+710,mercure:source_default:ultimate:10112603,tx_bonuses,T6,,,Changes Effect: Changes Magic Reflux Damage to 15% and changes the number of targets to 4.,變更效果：魔力逆流傷害量變更為15%，魔力逆流轉移對象變更為4人,atlas_mercure
+711,mercure:source_default:passive:10112604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_mercure
+712,mercure:source_default:passive:10112604,tx_bonuses,T2,3 Enemies,敵軍3名,"Adds Effect: When starting battles with at least 3 Magic hero(es) on your team, using any attack 3 time(s) has a 100% chance to inflict Magic Reflux. [Duration: 1 Turn(s)]",添加效果：戰鬥開始時，當我軍魔法型英雄有3名以上時，發動自身的所有攻擊3次時，魔力逆流［100%機率］［持續1回合］,atlas_mercure
+713,mercure:source_default:passive:10112604,tx_bonuses,T6,,,Changes Effect: Changes Magic Reflux Damage to 15% and changes the number of targets to 4.,變更效果：魔力逆流傷害量變更為15%，魔力逆流轉移對象變更為4人,atlas_mercure
+714,mist:source_default:basic:10172601,enhancement,,,,Increases Damage: To 120% of Magic Attack.,傷害量上升：魔法攻擊力的120%,atlas_mist
+715,mist:source_default:basic:10172601,enhancement,,,,Adds Effect: 40% chance to inflict Fear. [Duration: 1 Turn(s)],添加效果：恐怖［40%機率］［持續1回合］,atlas_mist
+716,mist:source_default:s1:10172602,enhancement,,,,Increases Damage: To 67% of Magic Attack.,傷害量上升：魔法攻擊力的67%,atlas_mist
+717,mist:source_default:s1:10172602,enhancement,,,,Increases Chance: Death chance becomes 40%.,機率上升：即死機率40%,atlas_mist
+718,mist:source_default:s1:10172602,tx_bonuses,T6,,,Changes Number of Targets: To All Enemies.,變更對象數量：敵軍全體,atlas_mist
+719,mist:source_default:ultimate:10172603,enhancement,,,,Increases Damage: To 67% of Magic Attack.,傷害量上升：魔法攻擊力的67%,atlas_mist
+720,mist:source_default:ultimate:10172603,enhancement,,,,Increases Chance: Death chance becomes 45%.,機率上升：即死機率45%,atlas_mist
+721,mist:source_default:ultimate:10172603,tx_bonuses,T2,Self,自身,Adds Effect: All Damage Immunity. [Duration: 2 Turn(s)],添加效果：所有傷害免疫［持續2回合］,atlas_mist
+722,mist:source_default:passive:10172604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_mist
+723,mist:source_default:passive:10172604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 34%.,效果上升：效果命中增加34%,atlas_mist
+724,nezha:source_default:basic:10156601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_nezha
+725,nezha:source_default:s1:10156602,enhancement,,,,Increases Damage: To 225% of Magic Attack.,傷害量上升：魔法攻擊力的225%,atlas_nezha
+726,nezha:source_default:ultimate:10156603,enhancement,,,,Increases Damage: To 335% of Magic Attack.,傷害量上升：魔法攻擊力的335%,atlas_nezha
+727,nezha:source_default:ultimate:10156603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_nezha
+728,nezha:source_default:passive:10156604,enhancement,,,,Increases Effect: Crit Rate Boost to 33%.,效果上升：暴擊機率增加33%,atlas_nezha
+729,nezha:source_default:passive:10156604,enhancement,,,,Increases Effect: Triple-Target Attack Damage by 33%.,效果上升：3人攻擊技傷害量增加33%,atlas_nezha
+730,nezha:source_default:passive:10156604,tx_bonuses,T2,All Allies,所有我軍,Adds Effect: Grants a Barrier equal to 55% of the caster's Magic Attack upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，產生相當於施展者魔法攻擊力55%的防護罩［持續2回合］,atlas_nezha
+731,omok:source_default:basic:10177601,enhancement,,2 Allies (Excluding Self),我軍2名（不包含自身）,Adds Effect: Grants Magic Damage Boost. [Duration: 2 Turn(s)],添加效果：魔法傷害量增加［持續2回合］,atlas_omok
+732,omok:source_default:s1:10177602,enhancement,,Allies (Magic),我軍（魔法型）,Adds Effect: 2 Debuff Removal(s).,添加效果：DeBuff解除2個,atlas_omok
+733,omok:source_default:ultimate:10177603,enhancement,,,,Increases Damage: To 80% of Magic Attack plus 9% of the target's Max HP.,傷害量上升：魔法攻擊力的80%、對象最大生命力的9%,atlas_omok
+734,omok:source_default:ultimate:10177603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_omok
+735,omok:source_default:passive:10177604,enhancement,,,,Increases Effect: Magic Attack Boost to 25%.,效果上升：魔法攻擊力增加25%,atlas_omok
+736,omok:source_default:passive:10177604,enhancement,,,,Increases Effect: Defense Reduction to 34%.,效果上升：防禦力減少34%,atlas_omok
+737,omok:source_default:passive:10177604,tx_bonuses,T2,Self,自身,Adds Effect: Guts. [Once per Battle],添加效果：權能（每戰鬥發動1次）,atlas_omok
+738,omok:source_default:passive:10177604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 155% of the caster's Magic Attack upon triggering Guts. [Duration: 3 Turn(s)],添加效果：發動權能時，產生相當於施展者魔法攻擊力155%的防護罩［持續3回合］,atlas_omok
+739,orkah:awakened:s1:40180702,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_orkah
+740,orkah:awakened:ultimate:40180703,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_orkah
+741,orkah:awakened:passive:40180704,tx_bonuses,T2,Self,自身,Adds Effect: Grants Effect Resist Boost. [Always Active],添加效果：效果抵抗增加 ［常態］,atlas_orkah
+742,orkah:awakened:awakened:40180707,enhancement,,,,Increases Damage: To 72% of Physical Attack.,傷害量上升：物理攻擊力的72%,atlas_orkah
+743,orkah:awakened:awakened:40180707,enhancement,,,,Increases Damage: To 60% of Physical Attack upon dealing Crit Damage.,傷害量上升：當發生暴擊傷害時，物理攻擊力的60%,atlas_orkah
+744,orkah:awakened:awakened:40180707,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_orkah
+745,orkah:s6:basic:10180601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_orkah
+746,orkah:s6:s1:10180602,enhancement,,,,Increases Damage: To 60% of Physical Attack.,傷害量上升：物理攻擊力的60%,atlas_orkah
+747,orkah:s6:s1:10180602,enhancement,,,,Increases Effect: Effect Probability Reduction becomes 24%,效果上升：效果套用機率減少24%,atlas_orkah
+748,orkah:s6:s1:10180602,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_orkah
+749,orkah:s6:ultimate:10180603,enhancement,,,,Increases Damage: To 75% of Physical Attack.,傷害量上升：物理攻擊力的75%,atlas_orkah
+750,orkah:s6:ultimate:10180603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_orkah
+751,orkah:s6:passive:10180604,enhancement,,Self,自身,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_orkah
+752,orkah:s6:passive:10180604,enhancement,,All Allies,所有我軍,Increases Effect: Effect Hit Rate Boost to 34%.,效果上升：效果命中增加34%,atlas_orkah
+753,orkah:s6:passive:10180604,tx_bonuses,T2,Self,自身,Adds Effect: 49% Effect Resist Boost. [Always Active],添加效果：效果抵抗增加49%［常態］,atlas_orkah
+754,orly:source_default:basic:10126601,enhancement,,Ally with the Lowest Current HP (Excluding Self),目前生命力最低的我軍（不包含自身）］,Adds Effect: Grants Continuous Healing. [Duration: 1 Turn(s)],添加效果：持續恢復［持續1回合］,atlas_orly
+755,orly:source_default:s1:10126602,enhancement,,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 3 Turn(s)],添加效果：防禦力減少［100%機率］［持續3回合］,atlas_orly
+756,orly:source_default:ultimate:10126603,enhancement,,,,Increases Damage: To 22% of Magic Attack plus 6% of the caster's Max HP.,傷害量上升：魔法攻擊力的22%、施展者最大生命力的6%,atlas_orly
+757,orly:source_default:ultimate:10126603,enhancement,,,,Increases Effect: Barrier absorption becomes 23% of Max HP.,效果上升：防護罩吸收量為最大生命力的23%,atlas_orly
+758,orly:source_default:ultimate:10126603,tx_bonuses,T2,"Allies (Self, Magic)",我軍（自身、魔法型）,Adds Effect: 2 Debuff Removal(s).,添加效果：DeBuff解除2個,atlas_orly
+759,orly:source_default:passive:10126604,enhancement,,,,Increases Effect: Barrier absorption becomes 45% of Max HP.,效果上升：防護罩吸收量為最大生命力的45%,atlas_orly
+760,orly:source_default:passive:10126604,tx_bonuses,T6,"Allies (Self, Magic)",我軍（自身、魔法型）,Adds Effect: Grants All Damage Nullification upon using a skill 1 time(s). [Ends After: Taking 1 Hit(s)],添加效果：發動自身的技能1次時，所有傷害無效化［被擊中1次］,atlas_orly
+761,pallanus:source_default:basic:10146601,enhancement,,Single Enemy,單一敵軍,Adds Effect: Starting battles with at least 1 of both Defense and Support hero(es) on your team has a 50% chance to inflict 1 stack(s) of [Mark: Energia's Saturation] (Stacks). [Max: 2 Stack(s)],添加效果：戰鬥開始時，當我軍防禦型、支援型英雄各自有1名以上時，［標示：艾涅爾蓋亞的砲火］（疊加）［50%機率］疊加1次［最多疊加2次］,atlas_pallanus
+762,pallanus:source_default:s1:10146602,enhancement,,,,Increases Damage: To 67% of Physical Attack.,傷害量上升：物理攻擊力的67%,atlas_pallanus
+763,pallanus:source_default:s1:10146602,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_pallanus
+764,pallanus:source_default:ultimate:10146603,enhancement,,,,Increases Damage: To 90% of Physical Attack.,傷害量上升：物理攻擊力的90%,atlas_pallanus
+765,pallanus:source_default:ultimate:10146603,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_pallanus
+766,pallanus:source_default:passive:10146604,enhancement,,Self,自身,Adds Effect: Grants All Damage Immunity upon triggering Guts. [Duration: 2 Turn(s)],添加效果：發動權能時，所有傷害免疫［持續2回合］,atlas_pallanus
+767,pallanus:source_default:passive:10146604,tx_bonuses,T2,"Allies (Defense, Support)",我軍（防禦型、支援型）,Adds Effect: Grants Incoming Healing Boost. [Always Active],添加效果：受到的恢復量增加 ［常態］,atlas_pallanus
+768,platin:source_default:basic:10054601,enhancement,,,,Increases Damage: To 65% of Magic Attack plus 75% of Defense.,傷害量上升：魔法攻擊力的65%、防禦力的75%,atlas_platin
+769,platin:source_default:basic:10054601,enhancement,,,,Increases Effect: All Attack Reduction to 9%.,效果上升：所有攻擊力減少9%,atlas_platin
+770,platin:source_default:s1:10054602,enhancement,,,,Increases Damage: To 50% of Magic Attack plus 55% of Defense.,傷害量上升：魔法攻擊力的50%、防禦力的55%,atlas_platin
+771,platin:source_default:s1:10054602,enhancement,,,,Increases Effect: HP Recovery amount becomes 43% of Damage.,效果上升：生命力恢復量為傷害量的43%,atlas_platin
+772,platin:source_default:ultimate:10054603,enhancement,,,,Increases Effect: HP Alteration becomes 25%.,效果上升：生命力轉換25%,atlas_platin
+773,platin:source_default:passive:10054604,enhancement,,,,Increases Healing: HP Recovery amount becomes 190% of Defense.,恢復量上升：生命力恢復量為防禦力的190%,atlas_platin
+774,platin:source_default:passive:10054604,tx_bonuses,T2,,,Increases Stacks: Heals HP more times per battle. [3 Time(s) per Battle],次數上升：生命力恢復（每戰鬥發動3次）,atlas_platin
+775,platin:source_default:passive:10054604,tx_bonuses,T6,,,"Increases Damage: To 1,485 Fixed damage.","傷害量上升：固定傷害1,485",atlas_platin
+776,rachel:source_default:basic:10060601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_rachel
+777,rachel:source_default:basic:10060601,enhancement,,,,Increases Chance: Burn chance becomes 50%.,機率上升：灼傷機率50%,atlas_rachel
+778,rachel:source_default:s1:10060602,enhancement,,,,Increases Damage: To 122% of Physical Attack.,傷害量上升：物理攻擊力的122%,atlas_rachel
+779,rachel:source_default:s1:10060602,tx_bonuses,T6,,,Changes Number of Targets: To 3 Enemies.,變更對象數量：敵軍3名,atlas_rachel
+780,rachel:source_default:ultimate:10060603,enhancement,,,,Increases Effect: Defense Reduction to 36%.,效果上升：防禦力減少36%,atlas_rachel
+781,rachel:source_default:ultimate:10060603,enhancement,,,,Increases Effect: Physical Vulnerability to 28%.,效果上升：物理脆弱28%,atlas_rachel
+782,rachel:source_default:ultimate:10060603,tx_bonuses,T2,,,Increases Turns: Defense Reduction duration becomes 4 turn(s).,回合上升：防禦力減少［持續4回合］,atlas_rachel
+783,rachel:source_default:ultimate:10060603,tx_bonuses,T2,,,Increases Turns: Physical Vulnerability duration becomes 4 turn(s).,回合上升：物理脆弱［持續4回合］,atlas_rachel
+784,rachel:source_default:passive:10060604,enhancement,,,,Increases Effect: Weakness Hit Chance Boost to 27%.,效果上升：弱點攻擊機率增加27%,atlas_rachel
+785,rachel:source_default:passive:10060604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_rachel
+786,radgrid:source_default:basic:10169601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_radgrid
+787,radgrid:source_default:basic:10169601,enhancement,,,,Increases Effect: All Attack Reduction to 9%.,效果上升：所有攻擊力減少9%,atlas_radgrid
+788,radgrid:source_default:s1:10169602,enhancement,,,,Increases Effect: Crit Rate Reduction to 25%.,效果上升：暴擊機率減少25%,atlas_radgrid
+789,radgrid:source_default:s1:10169602,enhancement,,,,Increases Effect: Weakness Hit Chance Reduction to 30%.,效果上升：弱點攻擊機率減少30%,atlas_radgrid
+790,radgrid:source_default:s1:10169602,tx_bonuses,T2,,,Increases Turns: Critical Hit Chance Reduction duration becomes 4 turn(s).,回合上升：暴擊攻擊機率減少［持續4回合］,atlas_radgrid
+791,radgrid:source_default:s1:10169602,tx_bonuses,T2,,,Increases Turns: Weakness Hit Chance Reduction duration becomes 4 turn(s).,回合上升：弱點攻擊機率減少［持續4回合］,atlas_radgrid
+792,radgrid:source_default:ultimate:10169603,enhancement,,,,Increases Damage: To 50% of Physical Attack plus 55% of Defense.,傷害量上升：物理攻擊力的50%、防禦力的55%,atlas_radgrid
+793,radgrid:source_default:ultimate:10169603,enhancement,,,,Adds Effect: 100% chance to inflict 2 Buff Removal(s).,添加效果：Buff解除2個［100%機率］,atlas_radgrid
+794,radgrid:source_default:passive:10169604,enhancement,,,,Increases Effect: Defense Boost to 39%.,效果上升：防禦力增加39%,atlas_radgrid
+795,radgrid:source_default:passive:10169604,enhancement,,,,Increases Effect: Barrier absorption becomes 55% of Defense.,效果上升：防護罩吸收量為防禦力的55%,atlas_radgrid
+796,radgrid:source_default:passive:10169604,tx_bonuses,T6,Back Row Allies (Universal),我軍後排（萬能型）,Adds Effect: Taking a hit from an enemy's attack 3 time(s) grants a Barrier equal to 45% of the caster's Defense.,添加效果：自身被敵人的攻擊命中3次時，產生相當於施展者防禦力45%的防護罩,atlas_radgrid
+797,randgrid:source_default:basic:10171601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_randgrid
+798,randgrid:source_default:s1:10171602,enhancement,,,,Adds Effect: 100% chance to inflict Block Rate Reduction. [Duration: 3 Turn(s)],添加效果：格擋機率減少［100%機率］［持續3回合］,atlas_randgrid
+799,randgrid:source_default:ultimate:10171603,enhancement,,,,Increases Damage: To 101% of Physical Attack.,傷害量上升：物理攻擊力的101%,atlas_randgrid
+800,randgrid:source_default:ultimate:10171603,tx_bonuses,T6,Self,自身,Adds Effect: Resets the cooldown of [Undefeated Cavalier] upon defeating an enemy with damage from this skill.,添加效果：使用該技能的直接傷害消滅敵軍時，［馬上的迅猛之槍］冷卻時間重置,atlas_randgrid
+801,randgrid:source_default:passive:10171604,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_randgrid
+802,randgrid:source_default:passive:10171604,enhancement,,,,Increases Effect: Block Rate Reduction to 23%.,效果上升：格擋機率減少23%,atlas_randgrid
+803,randgrid:source_default:passive:10171604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Weakness Hit Chance Boost. [Always Active],添加效果：弱點攻擊機率增加 ［常態］,atlas_randgrid
+804,reginleif:source_default:basic:10170601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_reginleif
+805,reginleif:source_default:basic:10170601,tx_bonuses,T2,,,Changes Number of Targets: To 2 Enemies.,變更對象數量：敵軍2名,atlas_reginleif
+806,reginleif:source_default:s1:10170602,enhancement,,,,Increases Damage: To 75% of Magic Attack.,傷害量上升：魔法攻擊力的75%,atlas_reginleif
+807,reginleif:source_default:s1:10170602,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_reginleif
+808,reginleif:source_default:ultimate:10170603,enhancement,,,,Adds Effect: 55% chance to inflict Paralysis. [Duration: 2 Turn(s)],添加效果：麻痺［55%機率］［持續2回合］,atlas_reginleif
+809,reginleif:source_default:ultimate:10170603,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_reginleif
+810,reginleif:source_default:passive:10170604,enhancement,,All Enemies,所有敵軍,Adds Effect: Inflicts Defense Reduction. [Always Active],添加效果：防禦力減少［常態］,atlas_reginleif
+811,rin:source_default:basic:10141601,enhancement,,,,Increases Damage: To 65% of Magic Attack.,傷害量上升：魔法攻擊力的65%,atlas_rin
+812,rin:source_default:basic:10141601,enhancement,,,,Increases chance: Confusion chance becomes 50%.,機率上升：混亂機率增加50%,atlas_rin
+813,rin:source_default:s1:10141602,enhancement,,,,Adds Damage: Each attack deals additional damage equal to 37% of Magic Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，每次攻擊造成相當於魔法攻擊力37%的追加傷害,atlas_rin
+814,rin:source_default:s1:10141602,tx_bonuses,T6,Self,自身,Adds Effect: Resets the cooldown of [Dragon's Descent] upon defeating an enemy with damage from this skill.,添加效果：使用該技能的直接傷害消滅敵軍時，［龍臨城下］冷卻時間重置,atlas_rin
+815,rin:source_default:ultimate:10141603,enhancement,,,,Increases Damage: To 90% of Magic Attack.,傷害量上升：魔法攻擊力的90%,atlas_rin
+816,rin:source_default:ultimate:10141603,enhancement,,,,Adds Effect: 100% chance to inflict Weakness Hit Chance Reduction. [Duration: 3 Turn(s)],添加效果：弱點攻擊機率減少［100%機率］［持續3回合］,atlas_rin
+817,rin:source_default:passive:10141604,enhancement,,,,Increases Effect: Weakness Hit Damage Boost to 23%.,效果上升：弱點攻擊傷害量增加23%,atlas_rin
+818,rin:source_default:passive:10141604,enhancement,,,,Increases Effect: Weakness Hit Chance Reduction to 22%.,效果上升：弱點攻擊機率減少22%,atlas_rin
+819,rin:source_default:passive:10141604,tx_bonuses,T2,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_rin
+820,rin:source_default:passive:10141604,tx_bonuses,T2,,,Adds Effect: All Damage Nullification upon revival. [Ends After: Taking 2 Hit(s)],添加效果：自身復活時，所有傷害無效化［被擊中2次］,atlas_rin
+821,rudy:awakened:ultimate:40056703,tx_bonuses,T2,,,Increases Turns: Link duration becomes 3 turn(s).,回合上升：連結［持續3回合］,atlas_rudy
+822,rudy:awakened:ultimate:40056703,tx_bonuses,T6,,,Adds Effect: Crowd Control Immunity. [Duration: 2 Turn(s)],添加效果：控制行動免疫［持續2回合］,atlas_rudy
+823,rudy:awakened:awakened:40056707,enhancement,,All Enemies,所有敵軍,Increases Effect: Awakening Gauge Reduction increases to 20.,效果上升：覺醒計量條減少20,atlas_rudy
+824,rudy:s6:basic:10056601,enhancement,,,,Increases Damage: To 65% of Physical Attack plus 75% of Defense.,傷害量上升：物理攻擊力的65%、防禦力的75%,atlas_rudy
+825,rudy:s6:s1:10056602,enhancement,,,,Increases Damage: To 85% of Physical Attack plus 100% of Defense.,傷害量上升：物理攻擊力的85%、防禦力的100%,atlas_rudy
+826,rudy:s6:s1:10056602,enhancement,,,,Increases Chance: Stun chance becomes 65%.,機率上升：暈眩機率65%,atlas_rudy
+827,rudy:s6:ultimate:10056603,enhancement,,,,Increases Effect: Link reduction rate becomes 20%.,效果上升：連結減少率20%,atlas_rudy
+828,rudy:s6:ultimate:10056603,tx_bonuses,T2,,,Increases Turns: Link duration becomes 3 turn(s).,回合上升：連結［持續3回合］,atlas_rudy
+829,rudy:s6:ultimate:10056603,tx_bonuses,T6,,,Adds Effect: Crowd Control Immunity. [Duration: 2 Turn(s)],添加效果：控制行動免疫［持續2回合］,atlas_rudy
+830,rudy:s6:passive:10056604,enhancement,,,,Increases Effect: Defense Boost to 24%.,效果上升：防禦力增加24%,atlas_rudy
+831,rudy:s6:passive:10056604,enhancement,,,,Increases Effect: Damage Resistance to 20%.,效果上升：削減效果20%,atlas_rudy
+832,ryan:source_default:basic:10129601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_ryan
+833,ryan:source_default:basic:10129601,enhancement,,,,Increases Effect: Skill Cooldown Reduction becomes 9s.,效果上升：技能冷卻時間減少效果9秒,atlas_ryan
+834,ryan:source_default:s1:10129602,enhancement,,,,Increases Damage: To 155% of Physical Attack.,傷害量上升：物理攻擊力的155%,atlas_ryan
+835,ryan:source_default:s1:10129602,enhancement,,Self,自身,Adds Effect: Grants Physical Damage Immunity. [Duration: 2 Turn(s)],添加效果：物理傷害免疫［持續2回合］,atlas_ryan
+836,ryan:source_default:s1:10129602,tx_bonuses,T2,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_ryan
+837,ryan:source_default:ultimate:10129603,enhancement,,,,Increases Damage: To 170% of Physical Attack.,傷害量上升：物理攻擊力的170%,atlas_ryan
+838,ryan:source_default:ultimate:10129603,enhancement,,,,Increases Damage: To 270% of Physical Attack upon landing a Weakness Hit.,傷害量上升：發生弱點攻擊傷害時，物理攻擊力的270%,atlas_ryan
+839,ryan:source_default:ultimate:10129603,tx_bonuses,T6,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_ryan
+840,ryan:source_default:passive:10129604,enhancement,,,,Increases Effect: Triple-Target Attack Damage by 31%,效果上升：3人攻擊技傷害量增加31%,atlas_ryan
+841,silvesta:awakened:s1:40055702,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_silvesta
+842,silvesta:awakened:ultimate:40055703,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_silvesta
+843,silvesta:awakened:passive:40055704,tx_bonuses,T6,Self,自身,[Self] Adds Healing: Heals HP equal to 96% of Magic Attack.,[自身] 添加恢復：恢復相當於魔法攻擊力96%的生命力,atlas_silvesta
+844,silvesta:awakened:awakened:40055707,enhancement,,Self,自身,Adds Effect: Resets all skill cooldowns.,添加效果：重置所有技能冷卻時間,atlas_silvesta
+845,silvesta:s6:basic:10055601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_silvesta
+846,silvesta:s6:s1:10055602,enhancement,,,,Increases Damage: To 95% of Magic Attack.,傷害量上升：魔法攻擊力的95%,atlas_silvesta
+847,silvesta:s6:s1:10055602,tx_bonuses,T2,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_silvesta
+848,silvesta:s6:ultimate:10055603,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction for 2 turns,添加效果：回合制Buff減少2回合［100%機率］,atlas_silvesta
+849,silvesta:s6:ultimate:10055603,tx_bonuses,T2,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_silvesta
+850,silvesta:s6:passive:10055604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_silvesta
+851,silvesta:s6:passive:10055604,tx_bonuses,T6,Self,自身,Adds Healing: Heals HP equal to 96% of Magic Attack upon using a skill 1 time(s).,添加恢復：發動自身的技能1次時，恢復相當於魔法攻擊力96%的生命力,atlas_silvesta
+852,skuld:awakened:passive:40168704,tx_bonuses,T2,,,Adds Healing: Heals HP equal to 165% of Magic Attack when HP falls to 50% or lower [2 time(s) per battle].,添加恢復：當自身的生命力達到50%以下時，恢復相當於魔法攻擊力165%的生命力（每戰鬥發動2次）,atlas_skuld
+853,skuld:awakened:passive:40168704,tx_bonuses,T6,Self,自身,"Increases Stacks: All Damage Nullification (upon consuming Threads of Fate) ends after taking 4 hit(s).
+Adds Effect: Grants 3 Debuff Removal upon consuming Threads of Fate.","次數上升：消耗命運之線時，所有傷害無效化次數4次
+添加效果：消耗命運之線時，DeBuff解除3個",atlas_skuld
+854,skuld:awakened:awakened:40168707,enhancement,,,,Increases Damage: To 155% of Magic Attack.,傷害量上升：魔法攻擊力的155%,atlas_skuld
+855,skuld:s6:basic:10168601,enhancement,,,,Adds Effect: 100% chance to inflict Magic Vulnerability for 2 turns,添加效果：魔法脆弱［100%機率］［持續2回合］,atlas_skuld
+856,skuld:s6:s1:10168602,enhancement,,All Enemies,所有敵軍,Increases Chance: Silence chance becomes 60%.,機率上升：沉默機率60%,atlas_skuld
+857,skuld:s6:ultimate:10168603,enhancement,,,,Adds Effect: Pierce,添加效果：穿透,atlas_skuld
+858,skuld:s6:ultimate:10168603,enhancement,,,,Increases Effect: Skill Cooldown Increase becomes 23s.,效果上升：技能冷卻時間增加23秒,atlas_skuld
+859,skuld:s6:passive:10168604,enhancement,,Self,自身,Increases Stacks: All Damage Nullification ends after taking 4 hit(s).,次數上升：所有傷害無效化次數4次,atlas_skuld
+860,skuld:s6:passive:10168604,enhancement,,All Enemies,所有敵軍,Increases Effect: Incoming Barrier Reduction to 60%.,效果上升：受到的防護罩減少60%,atlas_skuld
+861,skuld:s6:passive:10168604,tx_bonuses,T2,Self,自身,Adds Healing: Heals HP equal to 165% of Magic Attack.,添加恢復：恢復相當於魔法攻擊力165%的生命力,atlas_skuld
+862,skuld:s6:passive:10168604,tx_bonuses,T6,Self,自身,"Increases Stacks: All Damage Nullification (upon consuming Threads of Fate) ends after taking 4 hit(s).
+Adds Effect: Grants 3 Debuff Removal upon consuming Threads of Fate.","次數上升：消耗命運之線時，所有傷害無效化次數4次
+添加效果：消耗命運之線時，DeBuff解除3個",atlas_skuld
+863,spike:source_default:basic:10062601,enhancement,,,,Increases Damage: To 65% of Physical Attack plus 15% of the caster's Max HP.,傷害量上升：物理攻擊力的65%、施展者最大生命力的15%,atlas_spike
+864,spike:source_default:s1:10062602,enhancement,,Enemies in Row w/ Main Target,與主要技能對象同一列的敵軍,Increases Damage: To 75% of Physical Attack plus 18% of the caster's Max HP.,傷害量上升：物理攻擊力的75%、施展者最大生命力的18%,atlas_spike
+865,spike:source_default:s1:10062602,enhancement,,Enemies in Row w/ Main Target,與主要技能對象同一列的敵軍,Increases Chance: Freeze chance becomes 70%.,機率上升：凍結機率70%,atlas_spike
+866,spike:source_default:s1:10062602,tx_bonuses,T6,Self,自身,Adds Healing: Heals HP equal to 40% of Max HP.,添加恢復：恢復相當於最大生命力40%的生命力,atlas_spike
+867,spike:source_default:ultimate:10062603,enhancement,,,,Increases Damage: To 40% of Physical Attack plus 9% of the caster's Max HP.,傷害量上升：物理攻擊力的40%、施展者最大生命力的9%,atlas_spike
+868,spike:source_default:ultimate:10062603,enhancement,,,,Increases Chance: Freeze chance becomes 50%.,機率上升：凍結機率50%,atlas_spike
+869,spike:source_default:ultimate:10062603,tx_bonuses,T6,Self,自身,Adds Healing: Heals HP equal to 40% of Max HP.,添加恢復：恢復相當於最大生命力40%的生命力,atlas_spike
+870,spike:source_default:passive:10062604,enhancement,,,,Increases Effect: Max HP-Based Attack max becomes 1320.,效果上升：最大生命力比例攻擊力最大增加數值1320,atlas_spike
+871,spike:source_default:passive:10062604,enhancement,,,,Increases Effect: Effect Hit Rate Boost to 34%.,效果上升：效果命中增加34%,atlas_spike
+872,spike:source_default:passive:10062604,tx_bonuses,T2,Self,自身,Adds Effect: Guts. [Once per Battle],添加效果：權能（每戰鬥發動1次）,atlas_spike
+873,spike:source_default:passive:10062604,tx_bonuses,T2,Self,自身,Adds Healing: Heals HP equal to 60% of Max HP upon triggering Guts.,添加恢復：發動權能時，恢復相當於最大生命力60%的生命力,atlas_spike
+874,sun-wukong:source_default:basic:10147601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_sun-wukong
+875,sun-wukong:source_default:basic:10147605,enhancement,,,,Increases Damage: To 75% of Magic Attack.,傷害量上升：魔法攻擊力的75%,atlas_sun-wukong
+876,sun-wukong:source_default:basic:10147605,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_sun-wukong
+877,sun-wukong:source_default:s1:10147602,enhancement,,,,Increases Damage: To 62% of Magic Attack.,傷害量上升：魔法攻擊力的62%,atlas_sun-wukong
+878,sun-wukong:source_default:s1:10147606,enhancement,,,,Increases Damage: To 102% of Magic Attack plus 7% of the target's Max HP.,傷害量上升：魔法攻擊力的102%、對象最大生命力的7%,atlas_sun-wukong
+879,sun-wukong:source_default:s1:10147606,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_sun-wukong
+880,sun-wukong:source_default:ultimate:10147603,enhancement,,,,Increases Effect: Damage Resistance to 15%.,效果上升：削減效果15%,atlas_sun-wukong
+881,sun-wukong:source_default:ultimate:10147607,enhancement,,,,Increases Damage: To 82% of Magic Attack.,傷害量上升：魔法攻擊力的82%,atlas_sun-wukong
+882,sun-wukong:source_default:ultimate:10147607,enhancement,,,,Increases Effect: Block Rate Reduction to 33%.,效果上升：格擋機率減少33%,atlas_sun-wukong
+883,sun-wukong:source_default:ultimate:10147607,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_sun-wukong
+884,sun-wukong:source_default:passive:10147604,enhancement,,Self,自身,Increases Effect: Barrier absorption becomes 155% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的155%,atlas_sun-wukong
+885,sun-wukong:source_default:passive:10147604,enhancement,,,,Increases Healing: HP Recovery amount becomes 45% of Magic Attack.,恢復量上升：生命力恢復量為魔法攻擊力的45%,atlas_sun-wukong
+886,sun-wukong:source_default:passive:10147604,tx_bonuses,T2,All Allies,所有我軍,Adds Healing: Heals HP equal to 95% of the caster's Magic Attack when HP falls to 50% or lower. [1 Time(s) per Battle],添加恢復：當自身的生命力達到50%以下時，恢復相當於施展者魔法攻擊力95%的生命力（每戰鬥發動1次）,atlas_sun-wukong
+887,sung-jinwoo:source_default:basic:10173601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_sung-jinwoo
+888,sung-jinwoo:source_default:s1:10173602,enhancement,,,,Increases Damage: To 67% of Magic Attack plus 9% of the target's Max HP.,傷害量上升：魔法攻擊力的67%、對象最大生命力的9%,atlas_sung-jinwoo
+889,sung-jinwoo:source_default:ultimate:10173603,enhancement,,,,Increases Damage: To 55% of Magic Attack.,傷害量上升：魔法攻擊力的55%,atlas_sung-jinwoo
+890,sung-jinwoo:source_default:passive:10173604,enhancement,,,,Increases Effect: Effect Resist Boost to 49%.,效果上升：效果抵抗增加49%,atlas_sung-jinwoo
+891,sung-jinwoo:source_default:passive:10173604,enhancement,,,,Increases Effect: Magic Damage Boost to 20%.,效果上升：魔法傷害量增加20%,atlas_sung-jinwoo
+892,sung-jinwoo:source_default:passive:10173604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_sung-jinwoo
+893,sung-jinwoo:source_default:passive:10173604,tx_bonuses,T6,All Allies,所有我軍,Adds Effect: All Damage Nullification upon revival. [Ends After: Taking 1 Hit(s)],添加效果：自身復活時，所有傷害無效化［被擊中1次］,atlas_sung-jinwoo
+894,sung-jinwoo:source_default:passive:10173604,tx_bonuses,T2,Self,自身,Increases Effect: Level Up (Stacks) increases level by up to 40.,效果上升：［升級］（疊加）最多增加40等級,atlas_sung-jinwoo
+895,sung-jinwoo:source_default:passive:10173604,tx_bonuses,T6,Self,自身,Adds Effect: Grants All Damage Nullification upon revival. [Ends After: Taking 3 Hit(s)],添加效果：自身復活時，所有傷害無效化［被擊中3次］,atlas_sung-jinwoo
+896,sung-jinwoo:source_default:passive:10173604,tx_bonuses,T6,Self,自身,Adds Effect: Increases Level by 10 upon revival. [Max Increase: 40 Level(s)],添加效果：自身復活時，10等級增加［最多增加40等級］,atlas_sung-jinwoo
+897,sunran:awakened:s1:40187702,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+898,sunran:awakened:ultimate:40187703,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+899,sunran:awakened:passive:40187704,tx_bonuses,T6,,,Adds Effect: Starts battle with 3 stack(s) of Demon Face (Stacks).,添加效果：戰鬥開始時，鬼面（疊加）疊加3次,atlas_sunran
+900,sunran:awakened:passive:40187704,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+901,sunran:awakened:passive:40187704,tx_bonuses,T6,,,Adds Effect: Grants Weakness Hit Chance Boost. [Always Active],添加效果：弱點攻擊機率增加 ［常態］,atlas_sunran
+902,sunran:awakened:awakened:40187707,enhancement,,,,Adds Effect: Pierce,添加效果：穿透,atlas_sunran
+903,sunran:s6:basic:10187601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_sunran
+904,sunran:s6:s1:10187602,enhancement,,,,Increases Damage: To 51% of Physical Attack.,傷害量上升：物理攻擊力的51%,atlas_sunran
+905,sunran:s6:s1:10187602,enhancement,,,,Increases Damage: To 19% of each Physical Attack for every 3 stack(s) of Demon Face (Stacks).,傷害量上升：［鬼面］（疊加）每疊加3次物理攻擊力的19%,atlas_sunran
+906,sunran:s6:s1:10187602,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+907,sunran:s6:ultimate:10187603,enhancement,,,,Increases Damage: To 51% of Physical Attack.,傷害量上升：物理攻擊力的51%,atlas_sunran
+908,sunran:s6:ultimate:10187603,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+909,sunran:s6:passive:10187604,enhancement,,,,Increases Turns: Grants Upper Hand. [Duration: 3 Turn(s)],回合上升：優勢［持續3回合］,atlas_sunran
+910,sunran:s6:passive:10187604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_sunran
+911,sunran:s6:passive:10187604,enhancement,,,,Increases Damage: To 51% of Physical Attack.,傷害量上升：物理攻擊力的51%,atlas_sunran
+912,sunran:s6:passive:10187604,tx_bonuses,T6,,,Adds Effect: Starts battle with 3 stack(s) of Demon Face (Stacks).,添加效果：戰鬥開始時，鬼面（疊加）疊加3次,atlas_sunran
+913,sunran:s6:passive:10187604,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_sunran
+914,sunran:s6:passive:10187604,tx_bonuses,T6,,,Adds Effect: Grants Weakness Hit Chance Boost. [Always Active],添加效果：弱點攻擊機率增加 ［常態］,atlas_sunran
+915,teo:source_default:basic:10052601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_teo
+916,teo:source_default:s1:10052602,enhancement,,,,Increases Damage: To 170% of Physical Attack.,傷害量上升：物理攻擊力的170%,atlas_teo
+917,teo:source_default:ultimate:10052603,enhancement,,,,Increases Damage: To 90% of Physical Attack.,傷害量上升：物理攻擊力的90%,atlas_teo
+918,teo:source_default:passive:10052604,enhancement,,Self,自身,Adds Effect: Grants Physical Attack Boost upon triggering Immortality. [Duration: 2 Turn(s)],添加效果：發動不死時，物理攻擊力增加［持續2回合］,atlas_teo
+919,teo:source_default:passive:10052604,enhancement,,All Enemies,所有敵軍,Increases Damage: To 90% of Physical Attack.,傷害量上升：物理攻擊力的90%,atlas_teo
+920,teo:source_default:passive:10052604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Skill Cooldown Reset upon gaining Immortality.,添加效果：發動不死時，技能冷卻時間重置,atlas_teo
+921,teo:source_default:passive:10052604,tx_bonuses,T6,,,Increases Effect: Crit Rate Boost to 100%.,效果上升：暴擊機率增加100%,atlas_teo
+922,trude:source_default:basic:10130601,enhancement,,,,Increases Damage: To 120% of Physical Attack.,傷害量上升：物理攻擊力的120%,atlas_trude
+923,trude:source_default:basic:10130601,enhancement,,Self,自身,Adds Healing: Heals HP equal to 20% of Physical Attack.,添加恢復：恢復相當於物理攻擊力20%的生命力,atlas_trude
+924,trude:source_default:s1:10130602,enhancement,,,,Increases Damage: To 200% of Physical Attack.,傷害量上升：物理攻擊力的200%,atlas_trude
+925,trude:source_default:s1:10130602,enhancement,,Self,自身,Adds Effect: Crowd Control Immunity. [Duration: 3 Turn(s)],添加效果：控制行動免疫［持續3回合］,atlas_trude
+926,trude:source_default:s1:10130602,tx_bonuses,T2,Allies (Universal),我軍（萬能型）,Adds Effect: Grants a Barrier equal to 65% of Physical Attack. [Duration: 3 Turn(s)],添加效果：相當於物理攻擊力65%的防護罩［持續3回合］,atlas_trude
+927,trude:source_default:ultimate:10130603,enhancement,,,,Increases Damage: To 68% of Physical Attack.,傷害量上升：物理攻擊力的68%,atlas_trude
+928,trude:source_default:ultimate:10130603,enhancement,,Allies (Universal),我軍（萬能型）,Adds Effect: Grants Crit Damage Boost. [Duration: 3 Turn(s)],添加效果：暴擊傷害增加［持續3回合］,atlas_trude
+929,trude:source_default:ultimate:10130603,tx_bonuses,T2,Allies (Universal),我軍（萬能型）,Adds Effect: Grants a Barrier equal to 65% of Physical Attack. [Duration: 3 Turn(s)],添加效果：相當於物理攻擊力65%的防護罩［持續3回合］,atlas_trude
+930,trude:source_default:passive:10130604,enhancement,,,,Increases Effect: Block Rate Boost to 60%.,效果上升：格擋機率增加60%,atlas_trude
+931,trude:source_default:passive:10130604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_trude
+932,trude:source_default:passive:10130604,tx_bonuses,T6,,,Adds Effect: Grants Crit Rate Boost. [Always Active],添加效果：暴擊機率增加 ［常態］,atlas_trude
+933,vanessa:source_default:basic:10063601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_vanessa
+934,vanessa:source_default:s1:10063602,enhancement,,,,Increases Damage: To 110% of Magic Attack.,傷害量上升：魔法攻擊力的110%,atlas_vanessa
+935,vanessa:source_default:s1:10063602,enhancement,,,,Increases Effect: Skill Cooldown Increase becomes 23s.,效果上升：技能冷卻時間增加23秒,atlas_vanessa
+936,vanessa:source_default:s1:10063602,tx_bonuses,T2,,,Adds Effect: 100% chance to inflict 2 Buff Removal(s).,添加效果：Buff解除2個［100%機率］,atlas_vanessa
+937,vanessa:source_default:ultimate:10063603,enhancement,,,,Increases Damage: To 82% of Magic Attack.,傷害量上升：魔法攻擊力的82%,atlas_vanessa
+938,vanessa:source_default:ultimate:10063603,enhancement,,,,Increases Chance: Petrify chance becomes 50%.,機率上升：石化機率50%,atlas_vanessa
+939,vanessa:source_default:passive:10063604,enhancement,,,,Increases Turns: All Damage Immunity duration becomes 3 turn(s).,回合上升：所有傷害免疫［持續3回合］,atlas_vanessa
+940,vanessa:source_default:passive:10063604,enhancement,,,,Increases Effect: Defense Reduction to 24%.,效果上升：防禦力減少24%,atlas_vanessa
+941,vanessa:source_default:passive:10063604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 100% chance to inflict Magic Vulnerability upon using a skill 1 time(s). [Duration: 2 Turn(s)],添加效果：發動自身的技能1次時，魔法脆弱［100%機率］［持續2回合］,atlas_vanessa
+942,yeonhee:source_default:basic:10053601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_yeonhee
+943,yeonhee:source_default:basic:10053601,tx_bonuses,T2,,,Changes Number of Targets: To 2 Enemies.,變更對象數量：敵軍2名,atlas_yeonhee
+944,yeonhee:source_default:basic:10053601,tx_bonuses,T6,,,Changes Effect: Changes Sleep to Deep Sleep that is removed when the target takes damage equal to 30% or more of their Max HP.,效果變更：睡眠變更為受到最大生命力30%以上的傷害時，解除的［沉睡］。,atlas_yeonhee
+945,yeonhee:source_default:s1:10053602,enhancement,,,,Increases Damage: To 51% of Magic Attack plus 7% of the target's Max HP.,傷害量上升：魔法攻擊力的51%、對象最大生命力的7%,atlas_yeonhee
+946,yeonhee:source_default:s1:10053602,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_yeonhee
+947,yeonhee:source_default:ultimate:10053603,enhancement,,,,Increases Damage: To 55% of Magic Attack.,傷害量上升：魔法攻擊力的55%,atlas_yeonhee
+948,yeonhee:source_default:ultimate:10053603,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_yeonhee
+949,yeonhee:source_default:ultimate:10053603,tx_bonuses,T6,,,Changes Effect: Changes Sleep to Deep Sleep that is removed when the target takes damage equal to 30% or more of their Max HP.,效果變更：睡眠變更為受到最大生命力30%以上的傷害時，解除的［沉睡］。,atlas_yeonhee
+950,yeonhee:source_default:passive:10053604,enhancement,,,,Increases Effect: Magic Attack Boost to 25%.,效果上升：魔法攻擊力增加25%,atlas_yeonhee
+951,yeonhee:source_default:passive:10053604,enhancement,,Self,自身,Adds Effect: Grants Magic Damage Boost. [Always Active],添加效果：魔法傷害量增加［常態］,atlas_yeonhee
+952,yoongun:awakened:s1:40190702,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_yoongun
+953,yoongun:awakened:s1:40190702,tx_bonuses,T6,,,Adds Effect: Consecutively activates [Rapid Volley] up to 1 time(s) with 70% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以70%的威力最多連續發動1次的［神速射擊］,atlas_yoongun
+954,yoongun:awakened:ultimate:40190703,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_yoongun
+955,yoongun:awakened:ultimate:40190703,tx_bonuses,T6,,,Adds Effect: Consecutively activates [Tenfold Barrage] up to 1 time(s) with 70% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以70%的威力連續發動最多1次的［十連子砲］,atlas_yoongun
+956,yoongun:awakened:awakened:40190707,enhancement,,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_yoongun
+957,yoongun:s6:basic:10190601,enhancement,,,,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_yoongun
+958,yoongun:s6:s1:10190602,enhancement,,,,Increases Damage: To 43% of Magic Attack.,傷害量上升：魔法攻擊力的43%,atlas_yoongun
+959,yoongun:s6:s1:10190602,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_yoongun
+960,yoongun:s6:s1:10190602,tx_bonuses,T6,,,Adds Effect: Consecutively activates [Rapid Volley] up to 1 time(s) with 70% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以70%的威力最多連續發動1次的［神速射擊］,atlas_yoongun
+961,yoongun:s6:ultimate:10190603,enhancement,,,,Adds Effect: Pierce,添加效果：穿透,atlas_yoongun
+962,yoongun:s6:ultimate:10190603,tx_bonuses,T2,,,Adds Effect: Ignore Defense.,添加效果：無視防禦,atlas_yoongun
+963,yoongun:s6:ultimate:10190603,tx_bonuses,T6,,,Adds Effect: Consecutively activates [Tenfold Barrage] up to 1 time(s) with 70% power upon defeating an enemy with this skill.,添加效果：使用該技能消滅敵軍時，以70%的威力連續發動最多1次的［十連子砲］,atlas_yoongun
+964,yoongun:s6:passive:10190604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_yoongun
+965,yoongun:s6:passive:10190604,enhancement,,,,Increases Effect: Barrier absorption becomes equal to 185% of Magic Attack.,效果上升：防護罩吸收量為魔法攻擊力的185%,atlas_yoongun
+966,giyu-tomioka:awakened:basic:40201701,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+967,giyu-tomioka:awakened:s1:40201702,tx_bonuses,T2,3 Enemies (By Highest Attack Level),敵軍3名（按攻擊力高的順序）,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+968,giyu-tomioka:awakened:ultimate:40201703,tx_bonuses,T2,All Enemies,所有敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+969,giyu-tomioka:awakened:passive:40201704,tx_bonuses,T6,Self,自身,Adds Effect: Grants 1 stack(s) of Damage Boost upon performing any attack 1 time(s). [Max 10 Stack(s)],添加效果：發動自身的所有攻擊1次時，傷害量增加疊加1次［最多疊加10次］,atlas_giyu-tomioka
+970,giyu-tomioka:awakened:awakened:40201707,enhancement,,All Enemies,所有敵軍,Increases Damage: To 90% of Physical Attack plus 100% of Defense.,傷害量上升：物理攻擊力的90%、防禦力的100%,atlas_giyu-tomioka
+971,giyu-tomioka:s6:basic:10201601,enhancement,,Single Enemy,單一敵軍,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_giyu-tomioka
+972,giyu-tomioka:s6:basic:10201601,enhancement,,Self,自身,Increases Healing: HP Recovery amount becomes 65% of Defense.,恢復量上升：生命力恢復量為防禦力的65%,atlas_giyu-tomioka
+973,giyu-tomioka:s6:basic:10201601,tx_bonuses,T2,Single Enemy,單一敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+974,giyu-tomioka:s6:s1:10201602,enhancement,,3 Enemies (By Highest Attack Level),敵軍3名（按攻擊力高的順序）,Increases Damage: To 85% of Physical Attack plus 100% of Defense.,傷害量上升：物理攻擊力的85%、防禦力的100%,atlas_giyu-tomioka
+975,giyu-tomioka:s6:s1:10201602,enhancement,,3 Enemies (By Highest Attack Level),敵軍3名（按攻擊力高的順序）,Increases Effect: Crit Rate Reduction to 31%.,效果上升：暴擊機率減少31%,atlas_giyu-tomioka
+976,giyu-tomioka:s6:s1:10201602,tx_bonuses,T2,3 Enemies (By Highest Attack Level),敵軍3名（按攻擊力高的順序）,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+977,giyu-tomioka:s6:ultimate:10201603,enhancement,,All Allies,所有我軍,Increases Effect: HP Recovery amount becomes 31% of Damage.,效果上升：生命力恢復量為傷害量的31%,atlas_giyu-tomioka
+978,giyu-tomioka:s6:ultimate:10201603,enhancement,,All Enemies,所有敵軍,Increases Damage: To 95% of Physical Attack plus 105% of Defense.,傷害量上升：物理攻擊力的95%、防禦力的105%,atlas_giyu-tomioka
+979,giyu-tomioka:s6:ultimate:10201603,tx_bonuses,T2,All Enemies,所有敵軍,Adds Effect: Additional 100% Weakness Hit Chance Boost.,添加效果：弱點攻擊機率增加100%,atlas_giyu-tomioka
+980,giyu-tomioka:s6:passive:10201604,enhancement,,Self,自身,Increases Effect: Defense-Based Block Rate max becomes 33%.,效果上升：防禦力比例格擋機率最大增加數值33,atlas_giyu-tomioka
+981,giyu-tomioka:s6:passive:10201604,enhancement,,All Enemies,所有敵軍,Increases Effect: Crit Rate Reduction to 23%.,效果上升：暴擊機率減少23%,atlas_giyu-tomioka
+982,giyu-tomioka:s6:passive:10201604,tx_bonuses,T6,Self,自身,Adds Effect: Grants 1 stack(s) of Damage Boost upon performing any attack 1 time(s). [Max 10 Stack(s)],添加效果：發動自身的所有攻擊1次時，傷害量增加疊加1次［最多疊加10次］,atlas_giyu-tomioka
+983,shinobu-kocho:awakened:passive:40200704,tx_bonuses,T2,Self,自身,Adds Effect: Grants Crit Rate Boost. [Always Active],添加效果：暴擊機率增加 ［常態］,atlas_shinobu-kocho
+984,shinobu-kocho:awakened:passive:40200704,tx_bonuses,T6,Self,自身,Adds Effect: Grants 3 stack(s) of Toxic Build-Up. [Max 6 Stack(s)],添加效果：毒素堆積疊加3次［最多疊加6次］,atlas_shinobu-kocho
+985,shinobu-kocho:awakened:passive:40200704,tx_bonuses,T6,Self,自身,Adds Effect: Grants 3 stack(s) of Toxic Build-Up upon revival. [Max 6 Stack(s)] [1 Time(s) per Battle],添加效果：自身復活時，毒素堆積疊加3次［最多疊加6次］（每戰鬥發動1次）,atlas_shinobu-kocho
+986,shinobu-kocho:awakened:awakened:40200707,enhancement,,All Enemies,所有敵軍,Increases Damage: To 60% of Magic Attack.,傷害量上升：魔法攻擊力的60%,atlas_shinobu-kocho
+987,shinobu-kocho:awakened:awakened:40200707,enhancement,,All Enemies,所有敵軍,Adds Damage: Damage increases by up to 50% proportional to the target's current HP.,傷害量上升：根據對象目前生命力比例，最多增加50%的傷害量,atlas_shinobu-kocho
+988,shinobu-kocho:s6:basic:10200601,enhancement,,Single Enemy,單一敵軍,Increases Damage: To 130% of Magic Attack.,傷害量上升：魔法攻擊力的130%,atlas_shinobu-kocho
+989,shinobu-kocho:s6:s1:10200602,enhancement,,Single Enemy (Prioritizes Targets with Poison),單一敵軍（中毒優先）,Adds Effect: Pierce,添加效果：穿透,atlas_shinobu-kocho
+990,shinobu-kocho:s6:ultimate:10200603,enhancement,,1 Enemy (Front Row First),敵軍1名（前排優先）,Increases Damage: To 98% of Magic Attack.,傷害量上升：魔法攻擊力的98%,atlas_shinobu-kocho
+991,shinobu-kocho:s6:passive:10200604,enhancement,,All Enemies,所有敵軍,Increases Effect: Incoming Healing Reduction to 52%.,效果上升：受到的恢復量減少52%,atlas_shinobu-kocho
+992,shinobu-kocho:s6:passive:10200604,enhancement,,All Enemies,所有敵軍,Increases Effect: Effect Resist Reduction to 34%.,效果上升：效果抵抗減少34%,atlas_shinobu-kocho
+993,shinobu-kocho:s6:passive:10200604,tx_bonuses,T2,Self,自身,Adds Effect: Grants Crit Rate Boost. [Always Active],添加效果：暴擊機率增加 ［常態］,atlas_shinobu-kocho
+994,shinobu-kocho:s6:passive:10200604,tx_bonuses,T6,Self,自身,Adds Effect: Grants 3 stack(s) of Toxic Build-Up. [Max 6 Stack(s)],添加效果：毒素堆積疊加3次［最多疊加6次］,atlas_shinobu-kocho
+995,shinobu-kocho:s6:passive:10200604,tx_bonuses,T6,Self,自身,Adds Effect: Grants 3 stack(s) of Toxic Build-Up upon revival. [Max 6 Stack(s)] [1 Time(s) per Battle],添加效果：自身復活時，毒素堆積疊加3次［最多疊加6次］（每戰鬥發動1次）,atlas_shinobu-kocho
+996,tanjiro-kamado:awakened:passive:40198704,tx_bonuses,T2,Self,自身,Increases Effect: Increases Indomitable effect's hit count by 2 hit(s) when enemies fall in battle.,效果上升：敵軍死亡時，不屈效果的被擊中次數增加2次,atlas_tanjiro-kamado
+997,tanjiro-kamado:awakened:passive:40198704,tx_bonuses,T6,Self,自身,Changes Effect: Activates Transparent World at the start of battle. [Always Active],效果變更：戰鬥開始時，清澈透明的世界［常態］,atlas_tanjiro-kamado
+998,tanjiro-kamado:awakened:awakened:40198707,enhancement,,Allies (Attack),我軍（攻擊型）,Adds Effect: Grants All Damage Nullification. [Ends After: Taking 3 Hit(s)],添加效果：所有傷害無效化［被擊中3次］,atlas_tanjiro-kamado
+999,tanjiro-kamado:awakened:awakened:40198707,enhancement,,Allies (Attack),我軍（攻擊型）,Activates Delayed Buff. [Duration: 2 Turn(s)],延遲Buff［持續2回合］,atlas_tanjiro-kamado
+1000,tanjiro-kamado:s6:basic:10198601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_tanjiro-kamado
+1001,tanjiro-kamado:s6:s1:10198602,enhancement,,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_tanjiro-kamado
+1002,tanjiro-kamado:s6:ultimate:10198603,enhancement,,,,Adds Effect: 100% chance to inflict Block Rate Reduction. [Duration: 3 Turn(s)],添加效果：格擋機率減少［100%機率］［持續3回合］,atlas_tanjiro-kamado
+1003,tanjiro-kamado:s6:passive:10198604,enhancement,,Allies (Attack),我軍（攻擊型）,Increases Effect: Effect Hit Rate Boost to 37%.,效果上升：效果命中增加37%,atlas_tanjiro-kamado
+1004,tanjiro-kamado:s6:passive:10198604,enhancement,,All Enemies,所有敵軍,Increases Effect: Physical Vulnerability to 20%.,效果上升：物理脆弱20%,atlas_tanjiro-kamado
+1005,tanjiro-kamado:s6:passive:10198604,tx_bonuses,T2,Self,自身,Increases Effect: Increases Indomitable effect's hit count by 2 hit(s) when enemies falls in battle.,效果上升：敵軍死亡時，不屈效果的被擊中次數增加2次,atlas_tanjiro-kamado
+1006,tanjiro-kamado:s6:passive:10198604,tx_bonuses,T6,Self,自身,Changes Effect: Activates Transparent World at the start of battle. [Always Active],效果變更：戰鬥開始時，清澈透明的世界［常態］,atlas_tanjiro-kamado
+1007,zenitsu-agatsuma:awakened:s1:40199702,tx_bonuses,T6,,,Adds Effect: Each attack has a 70% chance to inflict Shock. [Duration: 3 Turn(s)],添加效果：每次攻擊觸電［70%機率］［持續3回合］,atlas_zenitsu-agatsuma
+1008,zenitsu-agatsuma:awakened:ultimate:40199703,tx_bonuses,T6,,,Adds Effect: Each attack has a 35% chance to inflict Shock. [Duration: 2 Turn(s)],添加效果：每次攻擊觸電［35%機率］［持續2回合］,atlas_zenitsu-agatsuma
+1009,zenitsu-agatsuma:awakened:passive:40199704,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Skill Cooldown Reduction of 26s when a debuff is removed.,添加效果：DeBuff解除，技能冷卻時間減少26秒,atlas_zenitsu-agatsuma
+1010,zenitsu-agatsuma:awakened:passive:40199704,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 95% of the caster's Physical Attack when a debuff is removed. [Duration: 3 Turn(s)],添加效果：DeBuff解除時，相當於施展者物理攻擊力95%的防護罩［持續3回合］,atlas_zenitsu-agatsuma
+1011,zenitsu-agatsuma:awakened:awakened:40199707,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 2 Turn(s)],添加效果：回合制Buff減少2回合［100%機率］,atlas_zenitsu-agatsuma
+1012,zenitsu-agatsuma:awakened:awakened:40199707,tx_bonuses,T6,,,Adds Effect: Each attack has a 40% chance to inflict Shock. [Duration: 2 Turn(s)],添加效果：每次攻擊觸電［40%機率］［持續2回合］,atlas_zenitsu-agatsuma
+1013,zenitsu-agatsuma:s6:basic:10199601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_zenitsu-agatsuma
+1014,zenitsu-agatsuma:s6:s1:10199602,enhancement,,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_zenitsu-agatsuma
+1015,zenitsu-agatsuma:s6:s1:10199602,tx_bonuses,T6,,,Adds Effect: Each attack has a 70% chance to inflict Shock. [Duration: 3 Turn(s)],添加效果：每次攻擊觸電［70%機率］［持續3回合］,atlas_zenitsu-agatsuma
+1016,zenitsu-agatsuma:s6:ultimate:10199603,enhancement,,,,Adds Effect: Ignore Defense,添加效果：無視防禦,atlas_zenitsu-agatsuma
+1017,zenitsu-agatsuma:s6:ultimate:10199603,tx_bonuses,T6,,,Adds Effect: Each attack has a 35% chance to inflict Shock. [Duration: 2 Turn(s)],添加效果：每次攻擊觸電［35%機率］［持續2回合］,atlas_zenitsu-agatsuma
+1018,zenitsu-agatsuma:s6:passive:10199604,enhancement,,Self,自身,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_zenitsu-agatsuma
+1019,zenitsu-agatsuma:s6:passive:10199604,enhancement,,All Enemies,所有敵軍,Increases Effect: Effect Resist Reduction to 34%.,效果上升：效果抵抗減少34%,atlas_zenitsu-agatsuma
+1020,zenitsu-agatsuma:s6:passive:10199604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Skill Cooldown Reduction of 26s when a debuff is removed.,添加效果：DeBuff解除，技能冷卻時間減少26秒,atlas_zenitsu-agatsuma
+1021,zenitsu-agatsuma:s6:passive:10199604,tx_bonuses,T2,Self,自身,Adds Effect: Grants a Barrier equal to 95% of the caster's Physical Attack when a debuff is removed. [Duration: 3 Turn(s)],添加效果：DeBuff解除時，相當於施展者物理攻擊力95%的防護罩［持續3回合］,atlas_zenitsu-agatsuma
+1022,judas:awakened:s1:40204702,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_judas
+1023,judas:awakened:ultimate:40204703,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_judas
+1024,judas:awakened:passive:40204704,tx_bonuses,T2,Self,自身,Adds Effect: Guts. [Once per Battle],添加效果：權能（每戰鬥發動1次）,atlas_judas
+1025,judas:awakened:passive:40204704,tx_bonuses,T2,Self,自身,"Adds Effect: Grants 1 stack(s) of Physical Attack Boost upon triggering Guts. [Max 15 Stack(s)] [At the start of battle, grants additional stacks equal to the number of Universal hero allies, excluding self]",添加效果：發動權能時，物理攻擊力增加疊加1次［最多疊加15次］［戰鬥開始時，按照自身以外的我軍萬能型英雄數量追加疊加］,atlas_judas
+1026,judas:awakened:passive:40204704,tx_bonuses,T2,Self,自身,Adds Effect: Heals HP equal to 165% of Physical Attack upon triggering Guts.,添加效果：發動權能時，恢復相當於物理攻擊力165%的生命力,atlas_judas
+1027,judas:awakened:awakened:40204707,enhancement,,,,Adds Effect: 100% chance to inflict 2 Buff Removal(s).,添加效果：Buff解除2個［100%機率］,atlas_judas
+1028,judas:awakened:awakened:40204707,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_judas
+1029,judas:s6:basic:10204601,enhancement,,Self,自身,Adds Effect: Grants Damage Resistance. [Ends After: Taking 3 Hit(s)],添加效果：削減［被擊中3次］,atlas_judas
+1030,judas:s6:s1:10204602,enhancement,,,,Adds Effect: 100% chance to inflict Buff Duration Reduction. [Reduced by: 2 Turn(s)],添加效果：回合制Buff減少2回合［100%機率］,atlas_judas
+1031,judas:s6:s1:10204602,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_judas
+1032,judas:s6:ultimate:10204603,enhancement,,Single Enemy,單一敵軍,Increases Effect: HP Alteration becomes 18%.,效果上升：生命力轉換18%,atlas_judas
+1033,judas:s6:ultimate:10204603,enhancement,,Single Enemy,單一敵軍,Adds Effect: 100% chance to inflict Unable to Recover. [Duration: 3 Turn(s)],添加效果：無法恢復［100%機率］［持續3回合］,atlas_judas
+1034,judas:s6:ultimate:10204603,tx_bonuses,T6,,,Adds Effect: Pierce.,添加效果：穿透,atlas_judas
+1035,judas:s6:passive:10204604,enhancement,,,,Increases Effect: Blessing cap becomes 25% of Max HP.,效果上升：祝福的被擊中限制數值為最大生命力的25%,atlas_judas
+1036,judas:s6:passive:10204604,enhancement,,,,Increases Effect: Damage Reduction to 13%.,效果上升：傷害量減少13%,atlas_judas
+1037,judas:s6:passive:10204604,tx_bonuses,T2,Self,自身,Adds Effect: Guts. [Once per Battle],添加效果：權能（每戰鬥發動1次）,atlas_judas
+1038,judas:s6:passive:10204604,tx_bonuses,T2,Self,自身,"Adds Effect: Grants 1 stack(s) of Physical Attack Boost upon triggering Guts. [Max 15 Stack(s)] [At the start of battle, grants additional stacks equal to the number of Universal hero allies, excluding self]",添加效果：發動權能時，物理攻擊力增加疊加1次［最多疊加15次］［戰鬥開始時，按照自身以外的我軍萬能型英雄數量追加疊加］,atlas_judas
+1039,judas:s6:passive:10204604,tx_bonuses,T2,Self,自身,Adds Effect: Heals HP equal to 165% of Physical Attack upon triggering Guts.,添加效果：發動權能時，恢復相當於物理攻擊力165%的生命力,atlas_judas
+1040,eve:awakened:s1:40206702,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_eve
+1041,eve:awakened:ultimate:40206703,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_eve
+1042,eve:awakened:passive:40206704,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 56% Incoming Healing Reduction [Always Active] (If deployed to a team with 3 or more Attack heroes.),添加效果：受到的恢復量減少56%［常態］（編列攻擊型3名以上時）,atlas_eve
+1043,eve:awakened:passive:40206704,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 56% Incoming Barrier Reduction [Always Active] (If deployed to a team with 3 or more Attack heroes.),添加效果：受到的防護罩減少56%［常態］（編列攻擊型3名以上時）,atlas_eve
+1044,eve:awakened:awakened:40206707,enhancement,,,,Increases Damage: To 66% of Physical Attack.,傷害量上升：物理攻擊力的66%,atlas_eve
+1045,eve:awakened:awakened:40206707,enhancement,,,,"Adds Damage: Damage increases by up to 100%, proportional to the target's current HP, when the target has [Physical Vulnerability].",添加傷害量：對象持有［物理脆弱］時，最大增加相當於對象目前生命力比例100%的傷害量,atlas_eve
+1046,eve:s6:basic:10206601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_eve
+1047,eve:s6:s1:10206602,enhancement,,,,Increases Damage: To 92% of Physical Attack.,傷害量上升：物理攻擊力的92%,atlas_eve
+1048,eve:s6:s1:10206602,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_eve
+1049,eve:s6:ultimate:10206603,enhancement,,,,Increases Damage: To 61% of Physical Attack.,傷害量上升：物理攻擊力的61%,atlas_eve
+1050,eve:s6:ultimate:10206603,tx_bonuses,T2,,,Changes Number of Targets: To 4 Enemies.,變更對象數量：敵軍4名,atlas_eve
+1051,eve:s6:passive:10206604,enhancement,,,,Increases Effect: Crit Rate Boost to 50%.,效果上升：暴擊機率增加50%,atlas_eve
+1052,eve:s6:passive:10206604,enhancement,,,,Increases Effect: Weakness Hit Chance Boost to 50%.,效果上升：弱點攻擊機率增加50%,atlas_eve
+1053,eve:s6:passive:10206604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 56% Incoming Healing Reduction [Always Active] (If deployed to a team with 3 or more Attack heroes.),添加效果：受到的恢復量減少56%［常態］（編列攻擊型3名以上時）,atlas_eve
+1054,eve:s6:passive:10206604,tx_bonuses,T6,All Enemies,所有敵軍,Adds Effect: 56% Incoming Barrier Reduction [Always Active] (If deployed to a team with 3 or more Attack heroes.),添加效果：受到的防護罩減少56%［常態］（編列攻擊型3名以上時）,atlas_eve
+1055,fai:source_default:basic:10121601,enhancement,,,,Increases Damage: To 130% of Physical Attack.,傷害量上升：物理攻擊力的130%,atlas_fai
+1056,fai:source_default:s1:10121602,enhancement,,,,Adds Effect: 100% chance to inflict Defense Reduction. [Duration: 3 Turn(s)],添加效果：防禦力減少［100%機率］［持續3回合］,atlas_fai
+1057,fai:source_default:s1:10121602,enhancement,,,,Increases Chance: Burn chance becomes 70%.,機率上升：灼傷機率70%,atlas_fai
+1058,fai:source_default:ultimate:10121603,enhancement,,,,Increases Damage: To 410% of Physical Attack plus 26% of the target's Max HP.,傷害量上升：物理攻擊力的410%、對象最大生命力的26%,atlas_fai
+1059,fai:source_default:ultimate:10121603,tx_bonuses,T2,,,Increases Effect: Execution condition becomes 30% of HP.,效果上升：處刑條件生命力30%,atlas_fai
+1060,fai:source_default:ultimate:10121603,tx_bonuses,T6,,,Adds Effect: Execution targets enemies that share a row with the target.,添加效果：處刑對象擴充為同一列的全體對象,atlas_fai
+1061,fai:source_default:passive:10121604,enhancement,,,,Increases Effect: Physical Vulnerability to 20%.,效果上升：物理脆弱20%,atlas_fai
+1062,fai:source_default:passive:10121604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_fai
+1063,gelidus:source_default:basic:10119601,enhancement,,,,Increases Damage: To 60% of Physical Attack plus 70% of Defense.,傷害量上升：物理攻擊力的60%、防禦力的70%,atlas_gelidus
+1064,gelidus:source_default:basic:10119601,enhancement,,,,Increases Chance: Extreme Chill chance becomes 50%.,機率上升：冰獄機率50%,atlas_gelidus
+1065,gelidus:source_default:basic:10119601,tx_bonuses,T6,,,Changes Number of Targets: To 3 Enemies with Extreme Chill.,變更對象數量：冰獄效果對象敵軍3名,atlas_gelidus
+1066,gelidus:source_default:s1:10119602,enhancement,,,,Increases Damage: To 75% of Physical Attack plus 85% of Defense.,傷害量上升：物理攻擊力的75%、防禦力的85%,atlas_gelidus
+1067,gelidus:source_default:s1:10119602,enhancement,,,,Increases Chance: Extreme Chill chance becomes 70%.,機率上升：冰獄機率70%,atlas_gelidus
+1068,gelidus:source_default:ultimate:10119603,enhancement,,,,Increases Damage: To 35% of Physical Attack plus 38% of Defense.,傷害量上升：物理攻擊力的35%、防禦力的38%,atlas_gelidus
+1069,gelidus:source_default:ultimate:10119603,enhancement,,,,Increases Chance: Extreme Chill chance becomes 70%.,機率上升：冰獄機率70%,atlas_gelidus
+1070,gelidus:source_default:passive:10119604,enhancement,,,,Increases Effect: Defense-Based Block Rate max becomes 33%.,效果上升：防禦力比例格擋機率最大增加數值33,atlas_gelidus
+1071,gelidus:source_default:passive:10119604,tx_bonuses,T2,,,Increases Effect: Effect Probability Reduction becomes 26%.,效果上升：效果套用機率減少26%,atlas_gelidus
+1072,juri:source_default:basic:10125601,enhancement,,,,Increases Damage: To 70% of Magic Attack plus 8% of the target's Max HP.,傷害量上升：魔法攻擊力的70%、對象最大生命力的8%,atlas_juri
+1073,juri:source_default:s1:10125602,enhancement,,,,Increases Damage: To 77% of Magic Attack.,傷害量上升：魔法攻擊力的77%,atlas_juri
+1074,juri:source_default:s1:10125602,enhancement,,,,Increases Effect: Defense Reduction to 29%.,效果上升：防禦力減少29%,atlas_juri
+1075,juri:source_default:ultimate:10125603,enhancement,,,,Increases Chance: Souldeath chance becomes 70%.,機率上升：永滅機率70%,atlas_juri
+1076,juri:source_default:ultimate:10125603,enhancement,,,,Increases Damage: To 87% of Magic Attack.,傷害量上升：魔法攻擊力的87%,atlas_juri
+1077,juri:source_default:passive:10125604,enhancement,,,,Increases Turns: Immortality duration becomes 3 turn(s).,回合上升：不死［持續3回合］,atlas_juri
+1078,juri:source_default:passive:10125604,enhancement,,,,Increases Follow-Up Attack Damage: To 50% of the Magic Attack plus 10% of the target's Max HP.,夾攻傷害量上升：魔法攻擊力的50%、對象最大生命力的10%,atlas_juri
+1079,juri:source_default:passive:10125604,tx_bonuses,T2,,,Increases Chance: Follow-Up Attack chance becomes 35%.,機率上升：夾攻機率35%,atlas_juri
+1080,juri:source_default:passive:10125604,tx_bonuses,T6,,,Adds Effect: Crowd Control Immunity. [Duration: 3 Turn(s)],添加效果：控制行動免疫［持續3回合］,atlas_juri
+1081,juri:source_default:passive:10125604,tx_bonuses,T2,,,Adds Effect: Grants Effect Resist Boost. [Always Active],添加效果：效果抵抗增加 ［常態］,atlas_juri
+1082,juri:source_default:passive:10125604,tx_bonuses,T6,,,Adds Effect: Crowd Control Immunity upon gaining Immortality. [Duration: 3 Turn(s)],添加效果：發動不死時，控制行動免疫［持續3回合］,atlas_juri
+1083,melia:source_default:basic:10120601,enhancement,,,,Increases Chance: Crystal Cluster chance becomes 35%.,機率上升：水晶結晶機率35%,atlas_melia
+1084,melia:source_default:basic:10120601,tx_bonuses,T6,,,Increases Effect: Crystal Cluster hit count becomes 5.,效果上升：水晶結晶的被擊中次數減少為5次,atlas_melia
+1085,melia:source_default:s1:10120602,enhancement,,,,Increases Chance: Crystal Cluster chance becomes 65%.,機率上升：水晶結晶機率65%,atlas_melia
+1086,melia:source_default:s1:10120602,tx_bonuses,T6,,,Increases Effect: Crystal Cluster hit count becomes 5.,效果上升：水晶結晶的被擊中次數減少為5次,atlas_melia
+1087,melia:source_default:ultimate:10120603,enhancement,,,,Increases Effect: Increased Miss Chance to 48%.,效果上升：偏離機率增加48%,atlas_melia
+1088,melia:source_default:ultimate:10120603,enhancement,,,,Increases Chance: Crystal Cluster chance becomes 45%.,機率上升：水晶結晶機率45%,atlas_melia
+1089,melia:source_default:ultimate:10120603,tx_bonuses,T2,Self,自身,Adds Effect: Taunt. [Duration: 2 Turn(s)],添加效果：挑釁［持續2回合］,atlas_melia
+1090,melia:source_default:passive:10120604,enhancement,,,,Increases Effect: HP gained upon revival becomes 100%.,效果上升：復活時，生命力100%,atlas_melia
+1091,melia:source_default:passive:10120604,enhancement,,,,Increases Effect: Magic Vulnerability to 20%.,效果上升：魔法脆弱20%,atlas_melia
+1092,rosie:source_default:basic:10122601,enhancement,,,,Adds Effect: 100% chance to inflict Effect Resist Reduction. [Duration: 2 Turn(s)],添加效果：效果抵抗減少［100%機率］［持續2回合］,atlas_rosie
+1093,rosie:source_default:s1:10122602,enhancement,,,,Increases Damage: To 37% of Magic Attack plus 10% of the caster's Max HP.,傷害量上升：魔法攻擊力的37%、施展者最大生命力的10%,atlas_rosie
+1094,rosie:source_default:s1:10122602,enhancement,,,,Increases Chance: Death chance becomes 35%.,機率上升：即死機率35%,atlas_rosie
+1095,rosie:source_default:ultimate:10122603,enhancement,,,,Increases Effect: HP gained upon revival becomes 55%.,效果上升：復活時，生命力55%,atlas_rosie
+1096,rosie:source_default:ultimate:10122603,enhancement,,,,Adds Effect: Guts upon revival. [Duration: 2 Turn(s)],添加效果：復活時，權能［持續2回合］,atlas_rosie
+1097,rosie:source_default:ultimate:10122603,tx_bonuses,T6,,,Changes Number of Targets: To All Allies.,變更對象數量：我軍全體,atlas_rosie
+1098,rosie:source_default:passive:10122604,enhancement,,,,Increases Turns: All Damage Immunity duration becomes 3 turn(s).,回合上升：所有傷害免疫［持續3回合］,atlas_rosie
+1099,rosie:source_default:passive:10122604,tx_bonuses,T2,,,Increases Effect: Effect Probability Boost to 26%.,效果上升：效果套用機率增加26%,atlas_rosie

@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.2.0",
+  "generated_date": "2026-11-16",
+  "locale": "zh-TW",
+  "target_scope": "全球版繁中；實際伺服器可用性待核對",
+  "source_scope": "7K Atlas公開角色資料快照；不含素材肥料怪。來源未推出角色另行標示。",
+  "source_notice": "遊戲資料權利屬Netmarble及相關權利人；社群資料來源為7K Atlas。未包含角色圖片、背景故事、影片及配裝攻略全文。",
+  "verification_notice": "來源匯入不等於官方逐項核對；不能據此聲稱已完成戰鬥模擬或穩拆判定。",
+  "summary": {
+    "heroes": 128,
+    "released_in_source": 125,
+    "unreleased_in_source": 3,
+    "full_source_heroes": 128,
+    "tw_translation_heroes": 128,
+    "skills": 619,
+    "skill_effects": 1624,
+    "skill_upgrades": 1099,
+    "effect_definitions": 1349,
+    "missing_tw_effect_lines": 3,
+    "officially_fully_verified_heroes": 0,
+    "battle_cases": 1,
+    "guildwar_groups": 31,
+    "guildwar_team_variants": 108,
+    "guildwar_hero_builds": 121,
+    "guildwar_matchup_claims": 206,
+    "guildwar_expanded_matchup_rows": 396,
+    "guildwar_unique_attack_defense_pairs": 393,
+    "guildwar_source_conflicts": 3,
+    "guildwar_unused_variants": 16
+  },
+  "guildwar_source_updated_date": "2026-11-15",
+  "guildwar_notice": "原站出刀建議，非本程式實測勝率；保留所有變體與正反向關係，來源矛盾對局排除推薦。"
+}

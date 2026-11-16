@@ -1,0 +1,7 @@
+﻿issue_id,hero_id,kind,details
+1,giyu-tomioka,missing_tw_effect_line,giyu-tomioka:awakened:awakened:40201707 / - Grants Spot. [10 Hit(s)]
+2,shinobu-kocho,missing_tw_effect_line,shinobu-kocho:awakened:ultimate:40200703 / - Each attack has a 25% chance to inflict Deadly Poison. [Duration: 3 Turn(s)]
+3,shinobu-kocho,missing_tw_effect_line,shinobu-kocho:s6:ultimate:10200603 / - Each attack has a 25% chance to inflict Deadly Poison. [Duration: 3 Turn(s)]
+4,,guildwar_source_conflict,death/1A → magic/2F：原站同時有贏／輸標記，暫停推薦。
+5,,guildwar_source_conflict,death/1B → magic/2F：原站同時有贏／輸標記，暫停推薦。
+6,,guildwar_source_conflict,death/1C → magic/2F：原站同時有贏／輸標記，暫停推薦。

@@ -1,0 +1,620 @@
+﻿skill_id,hero_id,form,slot_key,slot_tw,game_skill_group_id,name_en,name_tw,skill_type_source,cooldown_value,cooldown_unit,awakening_gauge,converts,source_id,verification_status
+ariel:source_default:basic:10065601,ariel,source_default,basic,普通攻擊,10065601,,,Basic Attack,,,,0,atlas_ariel,source_imported
+ariel:source_default:s1:10065602,ariel,source_default,s1,主動技能1,10065602,Light's Judgment,光之審判,Skill 1,70,source_unspecified,,0,atlas_ariel,source_imported
+ariel:source_default:ultimate:10065603,ariel,source_default,ultimate,主動技能2,10065603,Dazzling Light,眩目之光,Skill 2,70,source_unspecified,,0,atlas_ariel,source_imported
+ariel:source_default:passive:10065604,ariel,source_default,passive,被動技能,10065604,Blessing of God,神之恩寵,Passive,,,,0,atlas_ariel,source_imported
+asura:source_default:basic:10099601,asura,source_default,basic,普通攻擊,10099601,,,Basic Attack,,,,0,atlas_asura,source_imported
+asura:source_default:s1:10099602,asura,source_default,s1,主動技能1,10099602,Spirit Blade,精靈的大刀,Skill 1,88,source_unspecified,,0,atlas_asura,source_imported
+asura:source_default:ultimate:10099603,asura,source_default,ultimate,主動技能2,10099603,Spirits' Blessing,精靈的加持,Skill 2,80,source_unspecified,,0,atlas_asura,source_imported
+asura:source_default:passive:10099604,asura,source_default,passive,被動技能,10099604,Sagacious Vision,智慧之眼,Passive,,,,0,atlas_asura,source_imported
+bane:source_default:basic:10028601,bane,source_default,basic,普通攻擊,10028601,,,Basic Attack,,,,0,atlas_bane,source_imported
+bane:source_default:s1:10028602,bane,source_default,s1,主動技能1,10028602,Mana Blast,魔力湧現,Skill 1,60,source_unspecified,,0,atlas_bane,source_imported
+bane:source_default:ultimate:10028603,bane,source_default,ultimate,主動技能2,10028603,Magic Orb,魔焰光球,Skill 2,70,source_unspecified,,0,atlas_bane,source_imported
+bane:source_default:passive:10028604,bane,source_default,passive,被動技能,10028604,Overcoming Death,克服死亡,Passive,,,,0,atlas_bane,source_imported
+black-rose:source_default:basic:10111601,black-rose,source_default,basic,普通攻擊,10111601,,,Basic Attack,,,,0,atlas_black-rose,source_imported
+black-rose:source_default:s1:10111602,black-rose,source_default,s1,主動技能1,10111602,Ambuscade,閃電穿透,Skill 1,60,source_unspecified,,0,atlas_black-rose,source_imported
+black-rose:source_default:ultimate:10111603,black-rose,source_default,ultimate,主動技能2,10111603,Falling Roses,凋謝的玫瑰,Skill 2,88,source_unspecified,,0,atlas_black-rose,source_imported
+black-rose:source_default:passive:10111604,black-rose,source_default,passive,被動技能,10111604,Assassin's Adaptability,卓越的適應力,Passive,,,,0,atlas_black-rose,source_imported
+catty:source_default:basic:10115601,catty,source_default,basic,普通攻擊,10115601,,,Basic Attack,,,,0,atlas_catty,source_imported
+catty:source_default:s1:10115602,catty,source_default,s1,主動技能1,10115602,Claw Attack,亂爪,Skill 1,60,source_unspecified,,0,atlas_catty,source_imported
+catty:source_default:ultimate:10115603,catty,source_default,ultimate,主動技能2,10115603,Expose Weakness,尋找弱點,Skill 2,64,source_unspecified,,0,atlas_catty,source_imported
+catty:source_default:passive:10115604,catty,source_default,passive,被動技能,10115604,Sharp Claws,鋒利的爪子,Passive,,,,0,atlas_catty,source_imported
+chloe:source_default:basic:10097601,chloe,source_default,basic,普通攻擊,10097601,,,Basic Attack,,,,0,atlas_chloe,source_imported
+chloe:source_default:s1:10097602,chloe,source_default,s1,主動技能1,10097602,Cleaning Time,打掃時間,Skill 1,60,source_unspecified,,0,atlas_chloe,source_imported
+chloe:source_default:ultimate:10097603,chloe,source_default,ultimate,主動技能2,10097603,Kitty Dance,貓咪之舞,Skill 2,80,source_unspecified,,0,atlas_chloe,source_imported
+chloe:source_default:passive:10097604,chloe,source_default,passive,被動技能,10097604,Kitty Gratitude,貓咪的報恩,Passive,,,,0,atlas_chloe,source_imported
+cleo:source_default:basic:10035601,cleo,source_default,basic,普通攻擊,10035601,,,Basic Attack,,,,0,atlas_cleo,source_imported
+cleo:source_default:s1:10035602,cleo,source_default,s1,主動技能1,10035602,Deadly Poison,劇毒,Skill 1,60,source_unspecified,,0,atlas_cleo,source_imported
+cleo:source_default:ultimate:10035603,cleo,source_default,ultimate,主動技能2,10035603,Petrifying Gaze,詩仙,Skill 2,70,source_unspecified,,0,atlas_cleo,source_imported
+cleo:source_default:passive:10035604,cleo,source_default,passive,被動技能,10035604,Gorgon's Gaze,雅典那的詛咒,Passive,,,,0,atlas_cleo,source_imported
+evan:source_default:basic:10075601,evan,source_default,basic,普通攻擊,10075601,,,Basic Attack,,,,0,atlas_evan,source_imported
+evan:source_default:s1:10075602,evan,source_default,s1,主動技能1,10075602,Swift Strikes,連續攻擊,Skill 1,60,source_unspecified,,0,atlas_evan,source_imported
+evan:source_default:ultimate:10075603,evan,source_default,ultimate,主動技能2,10075603,Shield of Order,平衡之盾,Skill 2,114,source_unspecified,,0,atlas_evan,source_imported
+evan:source_default:passive:10075604,evan,source_default,passive,被動技能,10075604,Unbending Will,意志,Passive,,,,0,atlas_evan,source_imported
+feng-yan:source_default:basic:10068601,feng-yan,source_default,basic,普通攻擊,10068601,,,Basic Attack,,,,0,atlas_feng-yan,source_imported
+feng-yan:source_default:s1:10068602,feng-yan,source_default,s1,主動技能1,10068602,Colossal Strike,九陰劍擊,Skill 1,70,source_unspecified,,0,atlas_feng-yan,source_imported
+feng-yan:source_default:ultimate:10068603,feng-yan,source_default,ultimate,主動技能2,10068603,Thousand Blades,以氣御劍,Skill 2,84,source_unspecified,,0,atlas_feng-yan,source_imported
+feng-yan:source_default:passive:10068604,feng-yan,source_default,passive,被動技能,10068604,Blade Barrier,劍之結界,Passive,,,,0,atlas_feng-yan,source_imported
+heavenia:awakened:basic:40067701,heavenia,awakened,basic,普通攻擊,40067701,,,Basic Attack,,,,0,atlas_heavenia,source_imported
+heavenia:awakened:s1:40067702,heavenia,awakened,s1,主動技能1,40067702,Sword of Judgment,劍的審判,Skill 1,70,source_unspecified,,0,atlas_heavenia,source_imported
+heavenia:awakened:ultimate:40067703,heavenia,awakened,ultimate,主動技能2,40067703,Mighty Sword,猛烈攻擊,Skill 2,66,source_unspecified,,0,atlas_heavenia,source_imported
+heavenia:awakened:passive:40067704,heavenia,awakened,passive,被動技能,40067704,Mana Cycling,魔法捕捉,Passive,,,,0,atlas_heavenia,source_imported
+heavenia:awakened:awakened:40067707,heavenia,awakened,awakened,覺醒技能,40067707,Meteor Explosion,流星爆炸,Awakened Skill,,,120,0,atlas_heavenia,source_imported
+heavenia:s6:basic:10067601,heavenia,s6,basic,普通攻擊,10067601,,,Basic Attack,,,,0,atlas_heavenia,source_imported
+heavenia:s6:s1:10067602,heavenia,s6,s1,主動技能1,10067602,Sword of Judgment,劍的審判,Skill 1,70,source_unspecified,,0,atlas_heavenia,source_imported
+heavenia:s6:ultimate:10067603,heavenia,s6,ultimate,主動技能2,10067603,Mighty Sword,猛烈攻擊,Skill 2,66,source_unspecified,,0,atlas_heavenia,source_imported
+heavenia:s6:passive:10067604,heavenia,s6,passive,被動技能,10067604,Mana Cycling,魔法捕捉,Passive,,,,0,atlas_heavenia,source_imported
+hellenia:awakened:basic:40066701,hellenia,awakened,basic,普通攻擊,40066701,,,Basic Attack,,,,0,atlas_hellenia,source_imported
+hellenia:awakened:s1:40066702,hellenia,awakened,s1,主動技能1,40066702,Celestial Light,天空之光,Skill 1,70,source_unspecified,,0,atlas_hellenia,source_imported
+hellenia:awakened:ultimate:40066703,hellenia,awakened,ultimate,主動技能2,40066703,Celestial Shield,天空之盾,Skill 2,66,source_unspecified,,0,atlas_hellenia,source_imported
+hellenia:awakened:passive:40066704,hellenia,awakened,passive,被動技能,40066704,Valkyrie's Presence,瓦爾基麗的潛力,Passive,,,,0,atlas_hellenia,source_imported
+hellenia:awakened:awakened:40066707,hellenia,awakened,awakened,覺醒技能,40066707,Blessings of Salvation,救贖的祝福,Awakened Skill,,,100,0,atlas_hellenia,source_imported
+hellenia:s6:basic:10066601,hellenia,s6,basic,普通攻擊,10066601,,,Basic Attack,,,,0,atlas_hellenia,source_imported
+hellenia:s6:s1:10066602,hellenia,s6,s1,主動技能1,10066602,Celestial Light,天空之光,Skill 1,70,source_unspecified,,0,atlas_hellenia,source_imported
+hellenia:s6:ultimate:10066603,hellenia,s6,ultimate,主動技能2,10066603,Celestial Shield,天空之盾,Skill 2,66,source_unspecified,,0,atlas_hellenia,source_imported
+hellenia:s6:passive:10066604,hellenia,s6,passive,被動技能,10066604,Valkyrie's Presence,瓦爾基麗的潛力,Passive,,,,0,atlas_hellenia,source_imported
+hokin:source_default:basic:10007601,hokin,source_default,basic,普通攻擊,10007601,,,Basic Attack,,,,0,atlas_hokin,source_imported
+hokin:source_default:s1:10007602,hokin,source_default,s1,主動技能1,10007602,Throw Weapon,武器投擲,Skill 1,54,source_unspecified,,0,atlas_hokin,source_imported
+hokin:source_default:ultimate:10007603,hokin,source_default,ultimate,主動技能2,10007603,Swift Rider,敏捷的騎士,Skill 2,48,source_unspecified,,0,atlas_hokin,source_imported
+hokin:source_default:passive:10007604,hokin,source_default,passive,被動技能,10007604,Goblin Spirit,鬥爭心,Passive,,,,0,atlas_hokin,source_imported
+jane:source_default:basic:10092601,jane,source_default,basic,普通攻擊,10092601,,,Basic Attack,,,,0,atlas_jane,source_imported
+jane:source_default:s1:10092602,jane,source_default,s1,主動技能1,10092602,Ambush,伏兵之計,Skill 1,60,source_unspecified,,0,atlas_jane,source_imported
+jane:source_default:ultimate:10092603,jane,source_default,ultimate,主動技能2,10092603,Lethal Blow,重創要害,Skill 2,60,source_unspecified,,0,atlas_jane,source_imported
+jane:source_default:passive:10092604,jane,source_default,passive,被動技能,10092604,Hide,隱身,Passive,,,,0,atlas_jane,source_imported
+jin:source_default:basic:10116601,jin,source_default,basic,普通攻擊,10116601,,,Basic Attack,,,,0,atlas_jin,source_imported
+jin:source_default:s1:10116602,jin,source_default,s1,主動技能1,10116602,Explosive Fist,真-破空拳,Skill 1,84,source_unspecified,,0,atlas_jin,source_imported
+jin:source_default:ultimate:10116603,jin,source_default,ultimate,主動技能2,10116603,Extreme Fist,極限連斬拳,Skill 2,98,source_unspecified,,0,atlas_jin,source_imported
+jin:source_default:passive:10116604,jin,source_default,passive,被動技能,10116604,Extreme Training,修練的成果,Passive,,,,0,atlas_jin,source_imported
+joker:source_default:basic:10077601,joker,source_default,basic,普通攻擊,10077601,,,Basic Attack,,,,0,atlas_joker,source_imported
+joker:source_default:s1:10077602,joker,source_default,s1,主動技能1,10077602,Full House,Full House,Skill 1,60,source_unspecified,,0,atlas_joker,source_imported
+joker:source_default:ultimate:10077603,joker,source_default,ultimate,主動技能2,10077603,Magic Hat,魔術帽,Skill 2,70,source_unspecified,,0,atlas_joker,source_imported
+joker:source_default:passive:10077604,joker,source_default,passive,被動技能,10077604,Lucky Coin,幸運金幣,Passive,,,,0,atlas_joker,source_imported
+jupy:source_default:basic:10074601,jupy,source_default,basic,普通攻擊,10074601,,,Basic Attack,,,,0,atlas_jupy,source_imported
+jupy:source_default:s1:10074602,jupy,source_default,s1,主動技能1,10074602,Sniper Stance,狙擊姿態,Skill 1,60,source_unspecified,,0,atlas_jupy,source_imported
+jupy:source_default:s1:10074605,jupy,source_default,s1,主動技能1,10074605,Swift Shots,三重狙擊,Skill 1,66,source_unspecified,,1,atlas_jupy,source_imported
+jupy:source_default:ultimate:10074603,jupy,source_default,ultimate,主動技能2,10074603,Snipe,狙擊,Skill 2,60,source_unspecified,,0,atlas_jupy,source_imported
+jupy:source_default:passive:10074604,jupy,source_default,passive,被動技能,10074604,Hawk's Eyes,鷹之眼,Passive,,,,0,atlas_jupy,source_imported
+karin:source_default:basic:10076601,karin,source_default,basic,普通攻擊,10076601,,,Basic Attack,,,,0,atlas_karin,source_imported
+karin:source_default:s1:10076602,karin,source_default,s1,主動技能1,10076602,Heal,恢復,Skill 1,83,source_unspecified,,0,atlas_karin,source_imported
+karin:source_default:ultimate:10076603,karin,source_default,ultimate,主動技能2,10076603,Revive,復活,Skill 2,90,source_unspecified,,0,atlas_karin,source_imported
+karin:source_default:passive:10076604,karin,source_default,passive,被動技能,10076604,Blessed Resurrection,復活的祝福,Passive,,,,0,atlas_karin,source_imported
+karon:source_default:basic:10078601,karon,source_default,basic,普通攻擊,10078601,,,Basic Attack,,,,0,atlas_karon,source_imported
+karon:source_default:s1:10078602,karon,source_default,s1,主動技能1,10078602,Nature's Healing,自然恢復,Skill 1,98,source_unspecified,,0,atlas_karon,source_imported
+karon:source_default:ultimate:10078603,karon,source_default,ultimate,主動技能2,10078603,Nature's Breath,自然的氣息,Skill 2,124,source_unspecified,,0,atlas_karon,source_imported
+karon:source_default:passive:10078604,karon,source_default,passive,被動技能,10078604,Nature's Protection,自然的保護,Passive,,,,0,atlas_karon,source_imported
+lania:source_default:basic:10042601,lania,source_default,basic,普通攻擊,10042601,,,Basic Attack,,,,0,atlas_lania,source_imported
+lania:source_default:s1:10042602,lania,source_default,s1,主動技能1,10042602,Ice Shard,寒冰碎片,Skill 1,60,source_unspecified,,0,atlas_lania,source_imported
+lania:source_default:ultimate:10042603,lania,source_default,ultimate,主動技能2,10042603,Blizzard,暴風雪,Skill 2,80,source_unspecified,,0,atlas_lania,source_imported
+lania:source_default:passive:10042604,lania,source_default,passive,被動技能,10042604,Ruler of Ice,雪原的支配者,Passive,,,,0,atlas_lania,source_imported
+lee-joohee:source_default:basic:10176601,lee-joohee,source_default,basic,普通攻擊,10176601,,,Basic Attack,,,,0,atlas_lee-joohee,source_imported
+lee-joohee:source_default:s1:10176602,lee-joohee,source_default,s1,主動技能1,10176602,Compassionate Heart,慈愛之心,Skill 1,70,source_unspecified,,0,atlas_lee-joohee,source_imported
+lee-joohee:source_default:ultimate:10176603,lee-joohee,source_default,ultimate,主動技能2,10176603,Healing Touch,治癒之手,Skill 2,98,source_unspecified,,0,atlas_lee-joohee,source_imported
+lee-joohee:source_default:passive:10176604,lee-joohee,source_default,passive,被動技能,10176604,Coward's Courage,膽小鬼的勇氣,Passive,,,,0,atlas_lee-joohee,source_imported
+leo:source_default:basic:10021601,leo,source_default,basic,普通攻擊,10021601,,,Basic Attack,,,,0,atlas_leo,source_imported
+leo:source_default:s1:10021602,leo,source_default,s1,主動技能1,10021602,Slice and Dice,殺戮,Skill 1,66,source_unspecified,,0,atlas_leo,source_imported
+leo:source_default:ultimate:10021603,leo,source_default,ultimate,主動技能2,10021603,Lion's Roar,獅子吼,Skill 2,70,source_unspecified,,0,atlas_leo,source_imported
+leo:source_default:passive:10021604,leo,source_default,passive,被動技能,10021604,Beastly Endurance,野獸的根性,Passive,,,,0,atlas_leo,source_imported
+li:awakened:basic:40064701,li,awakened,basic,普通攻擊,40064701,,,Basic Attack,,,,0,atlas_li,source_imported
+li:awakened:s1:40064702,li,awakened,s1,主動技能1,40064702,Iron Physique,金剛不壞,Skill 1,90,source_unspecified,,0,atlas_li,source_imported
+li:awakened:ultimate:40064703,li,awakened,ultimate,主動技能2,40064703,Annihilating Strike,霸刀滅惡拳,Skill 2,90,source_unspecified,,0,atlas_li,source_imported
+li:awakened:passive:40064704,li,awakened,passive,被動技能,40064704,Sign of Revenge,懲戒真言,Passive,,,,0,atlas_li,source_imported
+li:awakened:awakened:40064707,li,awakened,awakened,覺醒技能,40064707,Nirvana Strike,波魔炎呪功,Awakened Skill,,,120,0,atlas_li,source_imported
+li:s6:basic:10064601,li,s6,basic,普通攻擊,10064601,,,Basic Attack,,,,0,atlas_li,source_imported
+li:s6:s1:10064602,li,s6,s1,主動技能1,10064602,Iron Physique,金剛不壞,Skill 1,90,source_unspecified,,0,atlas_li,source_imported
+li:s6:ultimate:10064603,li,s6,ultimate,主動技能2,10064603,Annihilating Strike,霸刀滅惡拳,Skill 2,90,source_unspecified,,0,atlas_li,source_imported
+li:s6:passive:10064604,li,s6,passive,被動技能,10064604,Sign of Revenge,懲戒真言,Passive,,,,0,atlas_li,source_imported
+ling-ling:source_default:basic:10149601,ling-ling,source_default,basic,普通攻擊,10149601,,,Basic Attack,,,,0,atlas_ling-ling,source_imported
+ling-ling:source_default:s1:10149602,ling-ling,source_default,s1,主動技能1,10149602,Ki Orb,氣功彈,Skill 1,60,source_unspecified,,0,atlas_ling-ling,source_imported
+ling-ling:source_default:ultimate:10149603,ling-ling,source_default,ultimate,主動技能2,10149603,Raging Dragon,暴龍昇天腳,Skill 2,70,source_unspecified,,0,atlas_ling-ling,source_imported
+ling-ling:source_default:passive:10149604,ling-ling,source_default,passive,被動技能,10149604,Ki Absorption,循氣吸功,Passive,,,,0,atlas_ling-ling,source_imported
+lucy:source_default:basic:10080601,lucy,source_default,basic,普通攻擊,10080601,,,Basic Attack,,,,0,atlas_lucy,source_imported
+lucy:source_default:s1:10080602,lucy,source_default,s1,主動技能1,10080602,Mystic Dance,神秘的舞姿,Skill 1,95,source_unspecified,,0,atlas_lucy,source_imported
+lucy:source_default:ultimate:10080603,lucy,source_default,ultimate,主動技能2,10080603,Dancer's Prayer,神之加護,Skill 2,80,source_unspecified,,0,atlas_lucy,source_imported
+lucy:source_default:passive:10080604,lucy,source_default,passive,被動技能,10080604,Spirit Dancer,靈力,Passive,,,,0,atlas_lucy,source_imported
+may:source_default:basic:10094601,may,source_default,basic,普通攻擊,10094601,,,Basic Attack,,,,0,atlas_may,source_imported
+may:source_default:s1:10094602,may,source_default,s1,主動技能1,10094602,Ducky Gun,護身用槍枝,Skill 1,72,source_unspecified,,0,atlas_may,source_imported
+may:source_default:ultimate:10094603,may,source_default,ultimate,主動技能2,10094603,Full Blast,無差別亂射,Skill 2,98,source_unspecified,,0,atlas_may,source_imported
+may:source_default:passive:10094604,may,source_default,passive,被動技能,10094604,Strong Face,虛張聲勢,Passive,,,,0,atlas_may,source_imported
+noho:source_default:basic:10098601,noho,source_default,basic,普通攻擊,10098601,,,Basic Attack,,,,0,atlas_noho,source_imported
+noho:source_default:s1:10098602,noho,source_default,s1,主動技能1,10098602,Righting the Record,錯誤的紀錄,Skill 1,77,source_unspecified,,0,atlas_noho,source_imported
+noho:source_default:ultimate:10098603,noho,source_default,ultimate,主動技能2,10098603,Tome of Destruction,破滅的古書,Skill 2,70,source_unspecified,,0,atlas_noho,source_imported
+noho:source_default:passive:10098604,noho,source_default,passive,被動技能,10098604,Mightier than the Sword,比刀更利的筆,Passive,,,,0,atlas_noho,source_imported
+rahkun:source_default:basic:10014601,rahkun,source_default,basic,普通攻擊,10014601,,,Basic Attack,,,,0,atlas_rahkun,source_imported
+rahkun:source_default:s1:10014602,rahkun,source_default,s1,主動技能1,10014602,Steel Skin,鋼鐵的肌膚,Skill 1,45,source_unspecified,,0,atlas_rahkun,source_imported
+rahkun:source_default:ultimate:10014603,rahkun,source_default,ultimate,主動技能2,10014603,Orc King's Roar,半獸人王的吶喊,Skill 2,48,source_unspecified,,0,atlas_rahkun,source_imported
+rahkun:source_default:passive:10014604,rahkun,source_default,passive,被動技能,10014604,Indomitable Orc,不屈的半獸人,Passive,,,,0,atlas_rahkun,source_imported
+rei:source_default:basic:10118601,rei,source_default,basic,普通攻擊,10118601,,,Basic Attack,,,,0,atlas_rei,source_imported
+rei:source_default:s1:10118602,rei,source_default,s1,主動技能1,10118602,Swift Death,快速殺法,Skill 1,80,source_unspecified,,0,atlas_rei,source_imported
+rei:source_default:ultimate:10118603,rei,source_default,ultimate,主動技能2,10118603,Hail of Blades,單刀暴雨,Skill 2,80,source_unspecified,,0,atlas_rei,source_imported
+rei:source_default:passive:10118604,rei,source_default,passive,被動技能,10118604,Hide,隱身,Passive,,,,0,atlas_rei,source_imported
+sarah:source_default:basic:10048601,sarah,source_default,basic,普通攻擊,10048601,,,Basic Attack,,,,0,atlas_sarah,source_imported
+sarah:source_default:s1:10048602,sarah,source_default,s1,主動技能1,10048602,Demon's Charm,惡魔的誘惑,Skill 1,63,source_unspecified,,0,atlas_sarah,source_imported
+sarah:source_default:ultimate:10048603,sarah,source_default,ultimate,主動技能2,10048603,Demon's Kiss,惡魔之吻,Skill 2,63,source_unspecified,,0,atlas_sarah,source_imported
+sarah:source_default:passive:10048604,sarah,source_default,passive,被動技能,10048604,Demonic Pact,惡魔的契約,Passive,,,,0,atlas_sarah,source_imported
+sera:source_default:basic:10093601,sera,source_default,basic,普通攻擊,10093601,,,Basic Attack,,,,0,atlas_sera,source_imported
+sera:source_default:s1:10093602,sera,source_default,s1,主動技能1,10093602,Gloating Wraiths,亡靈之笑,Skill 1,70,source_unspecified,,0,atlas_sera,source_imported
+sera:source_default:ultimate:10093603,sera,source_default,ultimate,主動技能2,10093603,Shadow Wraiths,亡靈之影,Skill 2,70,source_unspecified,,0,atlas_sera,source_imported
+sera:source_default:passive:10093604,sera,source_default,passive,被動技能,10093604,Shadow Lightning,雷聲之影,Passive,,,,0,atlas_sera,source_imported
+snipper:source_default:basic:10073601,snipper,source_default,basic,普通攻擊,10073601,,,Basic Attack,,,,0,atlas_snipper,source_imported
+snipper:source_default:s1:10073602,snipper,source_default,s1,主動技能1,10073602,Wild Shot,一齊掃射,Skill 1,60,source_unspecified,,0,atlas_snipper,source_imported
+snipper:source_default:ultimate:10073603,snipper,source_default,ultimate,主動技能2,10073603,Death Sentence,死刑宣告,Skill 2,72,source_unspecified,,0,atlas_snipper,source_imported
+snipper:source_default:passive:10073604,snipper,source_default,passive,被動技能,10073604,Hunter's Expertise,狩獵技巧,Passive,,,,0,atlas_snipper,source_imported
+soi:source_default:basic:10071601,soi,source_default,basic,普通攻擊,10071601,,,Basic Attack,,,,0,atlas_soi,source_imported
+soi:source_default:s1:10071602,soi,source_default,s1,主動技能1,10071602,Heartpiercer,心臟射擊,Skill 1,60,source_unspecified,,0,atlas_soi,source_imported
+soi:source_default:ultimate:10071603,soi,source_default,ultimate,主動技能2,10071603,Hawk Attack,亂棍猛擊,Skill 2,70,source_unspecified,,0,atlas_soi,source_imported
+soi:source_default:passive:10071604,soi,source_default,passive,被動技能,10071604,Aerial Scouting,偵察,Passive,,,,0,atlas_soi,source_imported
+sylvia:source_default:basic:10082601,sylvia,source_default,basic,普通攻擊,10082601,,,Basic Attack,,,,0,atlas_sylvia,source_imported
+sylvia:source_default:s1:10082602,sylvia,source_default,s1,主動技能1,10082602,Unleash Souls,靈魂的氣息,Skill 1,70,source_unspecified,,0,atlas_sylvia,source_imported
+sylvia:source_default:ultimate:10082603,sylvia,source_default,ultimate,主動技能2,10082603,Debilitating Curse,衰弱的詛咒,Skill 2,80,source_unspecified,,0,atlas_sylvia,source_imported
+sylvia:source_default:passive:10082604,sylvia,source_default,passive,被動技能,10082604,Glittering Souls,閃亮的死靈,Passive,,,,0,atlas_sylvia,source_imported
+victoria:source_default:basic:10079601,victoria,source_default,basic,普通攻擊,10079601,,,Basic Attack,,,,0,atlas_victoria,source_imported
+victoria:source_default:s1:10079602,victoria,source_default,s1,主動技能1,10079602,Pistol Shot,手槍射擊,Skill 1,60,source_unspecified,,0,atlas_victoria,source_imported
+victoria:source_default:ultimate:10079603,victoria,source_default,ultimate,主動技能2,10079603,Raise Morale,提振士氣,Skill 2,80,source_unspecified,,0,atlas_victoria,source_imported
+victoria:source_default:passive:10079604,victoria,source_default,passive,被動技能,10079604,Pirate Queen,海盜王的威嚴,Passive,,,,0,atlas_victoria,source_imported
+xiao:source_default:basic:10185601,xiao,source_default,basic,普通攻擊,10185601,,,Basic Attack,,,,0,atlas_xiao,source_imported
+xiao:source_default:s1:10185602,xiao,source_default,s1,主動技能1,10185602,Life Drain,吸血,Skill 1,78,source_unspecified,,0,atlas_xiao,source_imported
+xiao:source_default:ultimate:10185603,xiao,source_default,ultimate,主動技能2,10185603,"Rise, Zombies!",召喚血殭屍,Skill 2,60,source_unspecified,,0,atlas_xiao,source_imported
+xiao:source_default:passive:10185604,xiao,source_default,passive,被動技能,10185604,Jiangshi Charm,殭屍的符咒,Passive,,,,0,atlas_xiao,source_imported
+yoo-jinho:source_default:basic:10175601,yoo-jinho,source_default,basic,普通攻擊,10175601,,,Basic Attack,,,,0,atlas_yoo-jinho,source_imported
+yoo-jinho:source_default:s1:10175602,yoo-jinho,source_default,s1,主動技能1,10175602,Strike of Will,意志的一擊,Skill 1,60,source_unspecified,,0,atlas_yoo-jinho,source_imported
+yoo-jinho:source_default:ultimate:10175603,yoo-jinho,source_default,ultimate,主動技能2,10175603,Golden Shield,黃金盾牌,Skill 2,114,source_unspecified,,0,atlas_yoo-jinho,source_imported
+yoo-jinho:source_default:passive:10175604,yoo-jinho,source_default,passive,被動技能,10175604,Steely Endurance,鋼鐵毅力,Passive,,,,0,atlas_yoo-jinho,source_imported
+yui:source_default:basic:10083601,yui,source_default,basic,普通攻擊,10083601,,,Basic Attack,,,,0,atlas_yui,source_imported
+yui:source_default:s1:10083602,yui,source_default,s1,主動技能1,10083602,Healing Melody,祝福的旋律,Skill 1,124,source_unspecified,,0,atlas_yui,source_imported
+yui:source_default:ultimate:10083603,yui,source_default,ultimate,主動技能2,10083603,Battle Melody,戰場的旋律,Skill 2,112,source_unspecified,,0,atlas_yui,source_imported
+yui:source_default:passive:10083604,yui,source_default,passive,被動技能,10083604,Battle Bard,戰場大師,Passive,,,,0,atlas_yui,source_imported
+yuri:source_default:basic:10018601,yuri,source_default,basic,普通攻擊,10018601,,,Basic Attack,,,,0,atlas_yuri,source_imported
+yuri:source_default:s1:10018602,yuri,source_default,s1,主動技能1,10018602,Energy Drain,吸取精氣,Skill 1,60,source_unspecified,,0,atlas_yuri,source_imported
+yuri:source_default:ultimate:10018603,yuri,source_default,ultimate,主動技能2,10018603,Magic Orb,魔焰光球,Skill 2,72,source_unspecified,,0,atlas_yuri,source_imported
+yuri:source_default:passive:10018604,yuri,source_default,passive,被動技能,10018604,Fox Charm,狐狸的魅力,Passive,,,,0,atlas_yuri,source_imported
+zhao-yun:source_default:basic:10159601,zhao-yun,source_default,basic,普通攻擊,10159601,,,Basic Attack,,,,0,atlas_zhao-yun,source_imported
+zhao-yun:source_default:s1:10159602,zhao-yun,source_default,s1,主動技能1,10159602,Tornado Thrust,天際鬥神腳,Skill 1,60,source_unspecified,,0,atlas_zhao-yun,source_imported
+zhao-yun:source_default:ultimate:10159603,zhao-yun,source_default,ultimate,主動技能2,10159603,Splitting Tornado Thrust,迴轉分裂槍,Skill 2,84,source_unspecified,,0,atlas_zhao-yun,source_imported
+zhao-yun:source_default:passive:10159604,zhao-yun,source_default,passive,被動技能,10159604,Protective Aura,護衛氣勢,Passive,,,,0,atlas_zhao-yun,source_imported
+alice:source_default:basic:10095601,alice,source_default,basic,普通攻擊,10095601,,,Basic Attack,,,,0,atlas_alice,source_imported
+alice:source_default:s1:10095602,alice,source_default,s1,主動技能1,10095602,Secret Door,秘密之門,Skill 1,104,source_unspecified,,0,atlas_alice,source_imported
+alice:source_default:ultimate:10095603,alice,source_default,ultimate,主動技能2,10095603,Mystery Card,我的卡片？,Skill 2,109,source_unspecified,,0,atlas_alice,source_imported
+alice:source_default:passive:10095604,alice,source_default,passive,被動技能,10095604,Hopeless Romantic,我！你！浪漫～,Passive,,,,0,atlas_alice,source_imported
+amelia:source_default:basic:10140601,amelia,source_default,basic,普通攻擊,10140601,,,Basic Attack,,,,0,atlas_amelia,source_imported
+amelia:source_default:s1:10140602,amelia,source_default,s1,主動技能1,10140602,Entry Denied!,禁止通行,Skill 1,70,source_unspecified,,0,atlas_amelia,source_imported
+amelia:source_default:ultimate:10140603,amelia,source_default,ultimate,主動技能2,10140603,Save the Day!,對應危機,Skill 2,45,source_unspecified,,0,atlas_amelia,source_imported
+amelia:source_default:passive:10140604,amelia,source_default,passive,被動技能,10140604,Advanced Nanosuit,高科技奈米戰鬥服,Passive,,,,0,atlas_amelia,source_imported
+aragon:source_default:basic:10096601,aragon,source_default,basic,普通攻擊,10096601,,,Basic Attack,,,,0,atlas_aragon,source_imported
+aragon:source_default:ultimate:10096603,aragon,source_default,ultimate,主動技能2,10096603,Giganto Mortar,砲擊支援,Active Skill,84,source_unspecified,,0,atlas_aragon,source_imported
+aragon:source_default:passive:10096604,aragon,source_default,passive,被動技能,10096604,Veteran's Savvy,老將的威嚴,Passive,,,,0,atlas_aragon,source_imported
+bai-jiao:source_default:basic:10155601,bai-jiao,source_default,basic,普通攻擊,10155601,,,Basic Attack,,,,0,atlas_bai-jiao,source_imported
+bai-jiao:source_default:s1:10155602,bai-jiao,source_default,s1,主動技能1,10155602,Centipede Poison,百閣幻毒,Skill 1,60,source_unspecified,,0,atlas_bai-jiao,source_imported
+bai-jiao:source_default:ultimate:10155603,bai-jiao,source_default,ultimate,主動技能2,10155603,Fiendish Decree,魔神咒令,Skill 2,60,source_unspecified,,0,atlas_bai-jiao,source_imported
+bai-jiao:source_default:passive:10155604,bai-jiao,source_default,passive,被動技能,10155604,Dark Incantations,黑暗咒術,Passive,,,,0,atlas_bai-jiao,source_imported
+bai-long:source_default:basic:10154601,bai-long,source_default,basic,普通攻擊,10154601,,,Basic Attack,,,,0,atlas_bai-long,source_imported
+bai-long:source_default:s1:10154602,bai-long,source_default,s1,主動技能1,10154602,Tenfold Flash Strike,閃光十舞,Skill 1,81,source_unspecified,,0,atlas_bai-long,source_imported
+bai-long:source_default:ultimate:10154603,bai-long,source_default,ultimate,主動技能2,10154603,Nunchuck Storm,雙截颱風擊,Skill 2,60,source_unspecified,,0,atlas_bai-long,source_imported
+bai-long:source_default:passive:10154604,bai-long,source_default,passive,被動技能,10154604,Return of a Legend,傳說的復活,Passive,,,,0,atlas_bai-long,source_imported
+ballista:source_default:basic:10091601,ballista,source_default,basic,普通攻擊,10091601,,,Basic Attack,,,,0,atlas_ballista,source_imported
+ballista:source_default:ultimate:10091603,ballista,source_default,ultimate,主動技能2,10091603,Shadow of Death,死亡之影,Active Skill,60,source_unspecified,,0,atlas_ballista,source_imported
+ballista:source_default:passive:10091604,ballista,source_default,passive,被動技能,10091604,Deathbringer's Daughter,死神之女,Passive,,,,0,atlas_ballista,source_imported
+bi-dam:source_default:basic:10070601,bi-dam,source_default,basic,普通攻擊,10070601,,,Basic Attack,,,,0,atlas_bi-dam,source_imported
+bi-dam:source_default:s1:10070602,bi-dam,source_default,s1,主動技能1,10070602,Mega Arrow,巨弓神砲,Skill 1,70,source_unspecified,,0,atlas_bi-dam,source_imported
+bi-dam:source_default:ultimate:10070603,bi-dam,source_default,ultimate,主動技能2,10070603,Explosive Arrows,汰轉砲火,Skill 2,70,source_unspecified,,0,atlas_bi-dam,source_imported
+bi-dam:source_default:passive:10070604,bi-dam,source_default,passive,被動技能,10070604,Hwarang Blood,花郎的後裔,Passive,,,,0,atlas_bi-dam,source_imported
+cha-hae-in:source_default:basic:10174601,cha-hae-in,source_default,basic,普通攻擊,10174601,,,Basic Attack,,,,0,atlas_cha-hae-in,source_imported
+cha-hae-in:source_default:s1:10174602,cha-hae-in,source_default,s1,主動技能1,10174602,The Dancer,舞姬,Skill 1,105,source_unspecified,,0,atlas_cha-hae-in,source_imported
+cha-hae-in:source_default:ultimate:10174603,cha-hae-in,source_default,ultimate,主動技能2,10174603,Sword Dance,劍舞,Skill 2,120,source_unspecified,,0,atlas_cha-hae-in,source_imported
+cha-hae-in:source_default:passive:10174604,cha-hae-in,source_default,passive,被動技能,10174604,Mana Detection,檢測瑪那,Passive,,,,0,atlas_cha-hae-in,source_imported
+chancellor:source_default:basic:10090601,chancellor,source_default,basic,普通攻擊,10090601,,,Basic Attack,,,,0,atlas_chancellor,source_imported
+chancellor:source_default:s1:10090602,chancellor,source_default,s1,主動技能1,10090602,Pulverize,粉碎強襲,Skill 1,60,source_unspecified,,0,atlas_chancellor,source_imported
+chancellor:source_default:ultimate:10090603,chancellor,source_default,ultimate,主動技能2,10090603,Earthsplitter,大地破壞,Skill 2,70,source_unspecified,,0,atlas_chancellor,source_imported
+chancellor:source_default:passive:10090604,chancellor,source_default,passive,被動技能,10090604,Intimidating Presence,壓迫感,Passive,,,,0,atlas_chancellor,source_imported
+daisy:source_default:basic:10117601,daisy,source_default,basic,普通攻擊,10117601,,,Basic Attack,,,,0,atlas_daisy,source_imported
+daisy:source_default:s1:10117602,daisy,source_default,s1,主動技能1,10117602,Dancing Fan,飛火扇,Skill 1,72,source_unspecified,,0,atlas_daisy,source_imported
+daisy:source_default:ultimate:10117603,daisy,source_default,ultimate,主動技能2,10117603,Butterfly Flames,火蝴蝶,Skill 2,88,source_unspecified,,0,atlas_daisy,source_imported
+daisy:source_default:passive:10117604,daisy,source_default,passive,被動技能,10117604,Nimble Steps,機敏的動作,Passive,,,,0,atlas_daisy,source_imported
+deo:source_default:basic:10186601,deo,source_default,basic,普通攻擊,10186601,,,Basic Attack,,,,0,atlas_deo,source_imported
+deo:source_default:s1:10186602,deo,source_default,s1,主動技能1,10186602,Roulette Man,輪盤人,Skill 1,80,source_unspecified,,0,atlas_deo,source_imported
+deo:source_default:ultimate:10186603,deo,source_default,ultimate,主動技能2,10186603,Pizza Eclipse,山珍海味,Skill 2,84,source_unspecified,,0,atlas_deo,source_imported
+deo:source_default:passive:10186604,deo,source_default,passive,被動技能,10186604,Head of Unity Trading,商會代表,Passive,,,,0,atlas_deo,source_imported
+diaochan:source_default:basic:10160601,diaochan,source_default,basic,普通攻擊,10160601,,,Basic Attack,,,,0,atlas_diaochan,source_imported
+diaochan:source_default:s1:10160602,diaochan,source_default,s1,主動技能1,10160602,Forward March,進軍歌,Skill 1,85,source_unspecified,,0,atlas_diaochan,source_imported
+diaochan:source_default:ultimate:10160603,diaochan,source_default,ultimate,主動技能2,10160603,Song of Protection,保護之歌,Skill 2,84,source_unspecified,,0,atlas_diaochan,source_imported
+diaochan:source_default:passive:10160604,diaochan,source_default,passive,被動技能,10160604,Blushing Moon's Smile,閉月的微笑,Passive,,,,0,atlas_diaochan,source_imported
+espada:source_default:basic:10086601,espada,source_default,basic,普通攻擊,10086601,,,Basic Attack,,,,0,atlas_espada,source_imported
+espada:source_default:s1:10086602,espada,source_default,s1,主動技能1,10086602,Purging Shot,淨化彈,Skill 1,72,source_unspecified,,0,atlas_espada,source_imported
+espada:source_default:ultimate:10086603,espada,source_default,ultimate,主動技能2,10086603,Goddess's Judgment,神的審判,Skill 2,72,source_unspecified,,0,atlas_espada,source_imported
+espada:source_default:passive:10086604,espada,source_default,passive,被動技能,10086604,Purified Magic,魔力淨化,Passive,,,,0,atlas_espada,source_imported
+guan-yu:source_default:basic:10161601,guan-yu,source_default,basic,普通攻擊,10161601,,,Basic Attack,,,,0,atlas_guan-yu,source_imported
+guan-yu:source_default:s1:10161602,guan-yu,source_default,s1,主動技能1,10161602,Crescent Dragon's Fury,青龍月波斬,Skill 1,68,source_unspecified,,0,atlas_guan-yu,source_imported
+guan-yu:source_default:ultimate:10161603,guan-yu,source_default,ultimate,主動技能2,10161603,Lead the Charge,身先士卒,Skill 2,96,source_unspecified,,0,atlas_guan-yu,source_imported
+guan-yu:source_default:passive:10161604,guan-yu,source_default,passive,被動技能,10161604,Peerless Warrior,萬人之敵,Passive,,,,0,atlas_guan-yu,source_imported
+knox:awakened:basic:40049701,knox,awakened,basic,普通攻擊,40049701,,,Basic Attack,,,,0,atlas_knox,source_imported
+knox:awakened:s1:40049702,knox,awakened,s1,主動技能1,40049702,Hell Wave,地獄的波動,Skill 1,96,source_unspecified,,0,atlas_knox,source_imported
+knox:awakened:ultimate:40049703,knox,awakened,ultimate,主動技能2,40049703,Gaze of Destruction,破滅視線,Skill 2,70,source_unspecified,,0,atlas_knox,source_imported
+knox:awakened:passive:40049704,knox,awakened,passive,被動技能,40049704,Curse of the Abyss,深淵的詛咒,Passive,,,,0,atlas_knox,source_imported
+knox:awakened:awakened:40049707,knox,awakened,awakened,覺醒技能,40049707,Abyssal Wave,深淵的劍風,Awakened Skill,,,150,0,atlas_knox,source_imported
+knox:s6:basic:10049601,knox,s6,basic,普通攻擊,10049601,,,Basic Attack,,,,0,atlas_knox,source_imported
+knox:s6:s1:10049602,knox,s6,s1,主動技能1,10049602,Infernal Shield,地獄之盾,Skill 1,96,source_unspecified,,0,atlas_knox,source_imported
+knox:s6:ultimate:10049603,knox,s6,ultimate,主動技能2,10049603,Hell Strike,地獄的一擊,Skill 2,70,source_unspecified,,0,atlas_knox,source_imported
+knox:s6:passive:10049604,knox,s6,passive,被動技能,10049604,Knight of Hell,地獄騎士,Passive,,,,0,atlas_knox,source_imported
+lina:source_default:basic:10072601,lina,source_default,basic,普通攻擊,10072601,,,Basic Attack,,,,0,atlas_lina,source_imported
+lina:source_default:s1:10072602,lina,source_default,s1,主動技能1,10072602,Marching Anthem,行進歌,Skill 1,114,source_unspecified,,0,atlas_lina,source_imported
+lina:source_default:ultimate:10072603,lina,source_default,ultimate,主動技能2,10072603,Inspiring Melody,溫暖的回音,Skill 2,120,source_unspecified,,0,atlas_lina,source_imported
+lina:source_default:passive:10072604,lina,source_default,passive,被動技能,10072604,Dissonance,不協調合音,Passive,,,,0,atlas_lina,source_imported
+miho:source_default:basic:10139601,miho,source_default,basic,普通攻擊,10139601,,,Basic Attack,,,,0,atlas_miho,source_imported
+miho:source_default:s1:10139602,miho,source_default,s1,主動技能1,10139602,Violent Dance,殺戮之舞,Skill 1,70,source_unspecified,,0,atlas_miho,source_imported
+miho:source_default:ultimate:10139603,miho,source_default,ultimate,主動技能2,10139603,Overconfident Blow,傲慢一擊,Skill 2,70,source_unspecified,,0,atlas_miho,source_imported
+miho:source_default:passive:10139604,miho,source_default,passive,被動技能,10139604,Opportunist,虎視眈眈,Passive,,,,0,atlas_miho,source_imported
+nia:source_default:basic:10085601,nia,source_default,basic,普通攻擊,10085601,,,Basic Attack,,,,0,atlas_nia,source_imported
+nia:source_default:s1:10085602,nia,source_default,s1,主動技能1,10085602,Megavolt,100萬伏特,Skill 1,80,source_unspecified,,0,atlas_nia,source_imported
+nia:source_default:ultimate:10085603,nia,source_default,ultimate,主動技能2,10085603,Time Leap,操控時間,Skill 2,104,source_unspecified,,0,atlas_nia,source_imported
+nia:source_default:passive:10085604,nia,source_default,passive,被動技能,10085604,Auxiliary Power,預備戰力,Passive,,,,0,atlas_nia,source_imported
+pascal:source_default:basic:10100601,pascal,source_default,basic,普通攻擊,10100601,,,Basic Attack,,,,0,atlas_pascal,source_imported
+pascal:source_default:s1:10100602,pascal,source_default,s1,主動技能1,10100602,Gate to the Abyss,黑暗之門,Skill 1,60,source_unspecified,,0,atlas_pascal,source_imported
+pascal:source_default:ultimate:10100603,pascal,source_default,ultimate,主動技能2,10100603,Titan of Calamities,破壞的巨人,Skill 2,150,source_unspecified,,0,atlas_pascal,source_imported
+pascal:source_default:passive:10100604,pascal,source_default,passive,被動技能,10100604,Divine Authority,天子的權能,Passive,,,,0,atlas_pascal,source_imported
+rook:source_default:basic:10089601,rook,source_default,basic,普通攻擊,10089601,,,Basic Attack,,,,0,atlas_rook,source_imported
+rook:source_default:s1:10089602,rook,source_default,s1,主動技能1,10089602,Javelin,標槍,Skill 1,108,source_unspecified,,0,atlas_rook,source_imported
+rook:source_default:ultimate:10089603,rook,source_default,ultimate,主動技能2,10089603,Fortify,鞏固陣型,Skill 2,133,source_unspecified,,0,atlas_rook,source_imported
+rook:source_default:passive:10089604,rook,source_default,passive,被動技能,10089604,Castle Guard,攻城防盾,Passive,,,,0,atlas_rook,source_imported
+ruri:source_default:basic:10084601,ruri,source_default,basic,普通攻擊,10084601,,,Basic Attack,,,,0,atlas_ruri,source_imported
+ruri:source_default:s1:10084602,ruri,source_default,s1,主動技能1,10084602,Point Blank Barrage,近距離連射,Skill 1,70,source_unspecified,,0,atlas_ruri,source_imported
+ruri:source_default:ultimate:10084603,ruri,source_default,ultimate,主動技能2,10084603,Fire Support,暴擊支援,Skill 2,70,source_unspecified,,0,atlas_ruri,source_imported
+ruri:source_default:passive:10084604,ruri,source_default,passive,被動技能,10084604,Bounty Hunter,秘密交易,Passive,,,,0,atlas_ruri,source_imported
+shane:source_default:basic:10087601,shane,source_default,basic,普通攻擊,10087601,,,Basic Attack,,,,0,atlas_shane,source_imported
+shane:source_default:ultimate:10087603,shane,source_default,ultimate,主動技能2,10087603,Demon Slaying,鬼斬,Active Skill,38,source_unspecified,,0,atlas_shane,source_imported
+shane:source_default:passive:10087604,shane,source_default,passive,被動技能,10087604,Demonic Power,惡魔的力量,Passive,,,,0,atlas_shane,source_imported
+sieg:source_default:basic:10088601,sieg,source_default,basic,普通攻擊,10088601,,,Basic Attack,,,,0,atlas_sieg,source_imported
+sieg:source_default:s1:10088602,sieg,source_default,s1,主動技能1,10088602,Devastating Blow,爆裂粉碎！,Skill 1,78,source_unspecified,,0,atlas_sieg,source_imported
+sieg:source_default:ultimate:10088603,sieg,source_default,ultimate,主動技能2,10088603,Unleashed Blade,解除封印！,Skill 2,72,source_unspecified,,0,atlas_sieg,source_imported
+sieg:source_default:passive:10088604,sieg,source_default,passive,被動技能,10088604,Stalwart Ally,相信我就對了,Passive,,,,0,atlas_sieg,source_imported
+taka:source_default:basic:10114601,taka,source_default,basic,普通攻擊,10114601,,,Basic Attack,,,,0,atlas_taka,source_imported
+taka:source_default:s1:10114602,taka,source_default,s1,主動技能1,10114602,Wind Cutter,風之刀刃,Skill 1,84,source_unspecified,,0,atlas_taka,source_imported
+taka:source_default:ultimate:10114603,taka,source_default,ultimate,主動技能2,10114603,Dance of Death,死亡之舞,Skill 2,70,source_unspecified,,0,atlas_taka,source_imported
+taka:source_default:passive:10114604,taka,source_default,passive,被動技能,10114604,Hawk's Talons,老鷹的利爪,Passive,,,,0,atlas_taka,source_imported
+velika:awakened:basic:40081701,velika,awakened,basic,普通攻擊,40081701,,,Basic Attack,,,,0,atlas_velika,source_imported
+velika:awakened:s1:40081702,velika,awakened,s1,主動技能1,40081702,Summon Meteor,隕石炸裂,Skill 1,80,source_unspecified,,0,atlas_velika,source_imported
+velika:awakened:ultimate:40081703,velika,awakened,ultimate,主動技能2,40081703,Dark Flames,黑暗火焰,Skill 2,80,source_unspecified,,0,atlas_velika,source_imported
+velika:awakened:passive:40081704,velika,awakened,passive,被動技能,40081704,Black Moon's Blessing,黑月的祝福,Passive,,,,0,atlas_velika,source_imported
+velika:awakened:awakened:40081707,velika,awakened,awakened,覺醒技能,40081707,Witch's Shadow,魔女的陰影,Awakened Skill,,,120,0,atlas_velika,source_imported
+velika:s6:basic:10081601,velika,s6,basic,普通攻擊,10081601,,,Basic Attack,,,,0,atlas_velika,source_imported
+velika:s6:s1:10081602,velika,s6,s1,主動技能1,10081602,Summon Meteor,隕石炸裂,Skill 1,80,source_unspecified,,0,atlas_velika,source_imported
+velika:s6:ultimate:10081603,velika,s6,ultimate,主動技能2,10081603,Dark Flames,黑暗火焰,Skill 2,80,source_unspecified,,0,atlas_velika,source_imported
+velika:s6:passive:10081604,velika,s6,passive,被動技能,10081604,Black Moon's Blessing,黑月的祝福,Passive,,,,0,atlas_velika,source_imported
+xiao-qiao:source_default:basic:10152601,xiao-qiao,source_default,basic,普通攻擊,10152601,,,Basic Attack,,,,0,atlas_xiao-qiao,source_imported
+xiao-qiao:source_default:s1:10152602,xiao-qiao,source_default,s1,主動技能1,10152602,Sprout Attack,雨後春筍,Skill 1,84,source_unspecified,,0,atlas_xiao-qiao,source_imported
+xiao-qiao:source_default:ultimate:10152603,xiao-qiao,source_default,ultimate,主動技能2,10152603,Lucid Dream,蝴蝶之夢,Skill 2,108,source_unspecified,,0,atlas_xiao-qiao,source_imported
+xiao-qiao:source_default:passive:10152604,xiao-qiao,source_default,passive,被動技能,10152604,Battlefield Princess,戰場的公主,Passive,,,,0,atlas_xiao-qiao,source_imported
+yu-shin:source_default:basic:10069601,yu-shin,source_default,basic,普通攻擊,10069601,,,Basic Attack,,,,0,atlas_yu-shin,source_imported
+yu-shin:source_default:s1:10069602,yu-shin,source_default,s1,主動技能1,10069602,Thunder Wolf,雷雲黑影狼,Skill 1,81,source_unspecified,,0,atlas_yu-shin,source_imported
+yu-shin:source_default:ultimate:10069603,yu-shin,source_default,ultimate,主動技能2,10069603,Lightning Strike,無盡的煩惱,Skill 2,88,source_unspecified,,0,atlas_yu-shin,source_imported
+yu-shin:source_default:passive:10069604,yu-shin,source_default,passive,被動技能,10069604,Sage's Teachings,神仙的指引,Passive,,,,0,atlas_yu-shin,source_imported
+ace:source_default:basic:10051601,ace,source_default,basic,普通攻擊,10051601,,,Basic Attack,,,,0,atlas_ace,source_imported
+ace:source_default:s1:10051602,ace,source_default,s1,主動技能1,10051602,Lunar Slash,滿月斬,Skill 1,70,source_unspecified,,0,atlas_ace,source_imported
+ace:source_default:ultimate:10051603,ace,source_default,ultimate,主動技能2,10051603,Blossom Slash,一刀千花葉,Skill 2,104,source_unspecified,,0,atlas_ace,source_imported
+ace:source_default:passive:10051604,ace,source_default,passive,被動技能,10051604,Unwavering Command,不屈的指揮,Passive,,,,0,atlas_ace,source_imported
+aquila:source_default:basic:10144601,aquila,source_default,basic,普通攻擊,10144601,,,Basic Attack,,,,0,atlas_aquila,source_imported
+aquila:source_default:s1:10144602,aquila,source_default,s1,主動技能1,10144602,Merciless Storm,殘酷的暴風,Skill 1,104,source_unspecified,,0,atlas_aquila,source_imported
+aquila:source_default:ultimate:10144603,aquila,source_default,ultimate,主動技能2,10144603,Shroud of Darkness,漆黑的帷幕,Skill 2,91,source_unspecified,,0,atlas_aquila,source_imported
+aquila:source_default:passive:10144604,aquila,source_default,passive,被動技能,10144604,Shepherd of Darkness,黑暗的引渡者,Passive,,,,0,atlas_aquila,source_imported
+aris:awakened:basic:40182701,aris,awakened,basic,普通攻擊,40182701,,,Basic Attack,,,,0,atlas_aris,source_imported
+aris:awakened:s1:40182702,aris,awakened,s1,主動技能1,40182702,Crushing Strike,狂龍撼地鎚,Skill 1,78,source_unspecified,,0,atlas_aris,source_imported
+aris:awakened:ultimate:40182703,aris,awakened,ultimate,主動技能2,40182703,Finishing Blow,狂龍震天鎚,Skill 2,100,source_unspecified,,0,atlas_aris,source_imported
+aris:awakened:passive:40182704,aris,awakened,passive,被動技能,40182704,Earthen Aura,大地之氣,Passive,,,,0,atlas_aris,source_imported
+aris:awakened:awakened:40182707,aris,awakened,awakened,覺醒技能,40182707,Even Field,危險的共存,Passive,,,,0,atlas_aris,source_imported
+aris:s6:basic:10182601,aris,s6,basic,普通攻擊,10182601,,,Basic Attack,,,,0,atlas_aris,source_imported
+aris:s6:s1:10182602,aris,s6,s1,主動技能1,10182602,Crushing Strike,狂龍撼地鎚,Skill 1,78,source_unspecified,,0,atlas_aris,source_imported
+aris:s6:ultimate:10182603,aris,s6,ultimate,主動技能2,10182603,Finishing Blow,狂龍震天鎚,Skill 2,100,source_unspecified,,0,atlas_aris,source_imported
+aris:s6:passive:10182604,aris,s6,passive,被動技能,10182604,Earthen Aura,大地之氣,Passive,,,,0,atlas_aris,source_imported
+biscuit:source_default:basic:10110601,biscuit,source_default,basic,普通攻擊,10110601,,,Basic Attack,,,,0,atlas_biscuit,source_imported
+biscuit:source_default:s1:10110602,biscuit,source_default,s1,主動技能1,10110602,Equipment Enhancement,裝備強化,Skill 1,120,source_unspecified,,0,atlas_biscuit,source_imported
+biscuit:source_default:ultimate:10110603,biscuit,source_default,ultimate,主動技能2,10110603,Leap Attack,跳躍攻擊,Skill 2,60,source_unspecified,,0,atlas_biscuit,source_imported
+biscuit:source_default:passive:10110604,biscuit,source_default,passive,被動技能,10110604,Blacksmith's Enhancement,鐵匠的強化,Passive,,,,0,atlas_biscuit,source_imported
+branze-bransel:source_default:basic:10145601,branze-bransel,source_default,basic,普通攻擊,10145601,,,Basic Attack,,,,0,atlas_branze-bransel,source_imported
+branze-bransel:source_default:s1:10145602,branze-bransel,source_default,s1,主動技能1,10145602,Uncontrollable Power,怪力的搗亂,Skill 1,105,source_unspecified,,0,atlas_branze-bransel,source_imported
+branze-bransel:source_default:ultimate:10145603,branze-bransel,source_default,ultimate,主動技能2,10145603,Saviors' Condemnation,救贖的一擊,Skill 2,96,source_unspecified,,0,atlas_branze-bransel,source_imported
+branze-bransel:source_default:passive:10145604,branze-bransel,source_default,passive,被動技能,10145604,Judges of Good and Evil,善惡的權威,Passive,,,,0,atlas_branze-bransel,source_imported
+clemyth:awakened:basic:40179701,clemyth,awakened,basic,普通攻擊,40179701,,,Basic Attack,,,,0,atlas_clemyth,source_imported
+clemyth:awakened:s1:40179702,clemyth,awakened,s1,主動技能1,40179702,Perfect Trap,完美的陷阱,Skill 1,96,source_unspecified,,0,atlas_clemyth,source_imported
+clemyth:awakened:ultimate:40179703,clemyth,awakened,ultimate,主動技能2,40179703,Defiance of Nature,法則的調整,Skill 2,96,source_unspecified,,0,atlas_clemyth,source_imported
+clemyth:awakened:passive:40179704,clemyth,awakened,passive,被動技能,40179704,Extraordinary Intellect,神妙的智能,Passive,,,,0,atlas_clemyth,source_imported
+clemyth:awakened:awakened:40179707,clemyth,awakened,awakened,覺醒技能,40179707,Power of Salvation,救援之力,Awakened Skill,,,145,0,atlas_clemyth,source_imported
+clemyth:s6:basic:10179601,clemyth,s6,basic,普通攻擊,10179601,,,Basic Attack,,,,0,atlas_clemyth,source_imported
+clemyth:s6:s1:10179602,clemyth,s6,s1,主動技能1,10179602,Perfect Trap,完美的陷阱,Skill 1,96,source_unspecified,,0,atlas_clemyth,source_imported
+clemyth:s6:ultimate:10179603,clemyth,s6,ultimate,主動技能2,10179603,Defiance of Nature,法則的調整,Skill 2,96,source_unspecified,,0,atlas_clemyth,source_imported
+clemyth:s6:passive:10179604,clemyth,s6,passive,被動技能,10179604,Extraordinary Intellect,神妙的智能,Passive,,,,0,atlas_clemyth,source_imported
+colt:source_default:basic:10113601,colt,source_default,basic,普通攻擊,10113601,,,Basic Attack,,,,0,atlas_colt,source_imported
+colt:source_default:s1:10113602,colt,source_default,s1,主動技能1,10113602,Quick n' Easy,又快，又帥,Skill 1,72,source_unspecified,,0,atlas_colt,source_imported
+colt:source_default:ultimate:10113603,colt,source_default,ultimate,主動技能2,10113603,Time for a Show,如何？華麗吧？,Skill 2,104,source_unspecified,,0,atlas_colt,source_imported
+colt:source_default:passive:10113604,colt,source_default,passive,被動技能,10113604,Wandering Gunslinger,流浪的獵人,Passive,,,,0,atlas_colt,source_imported
+dellons:awakened:basic:40058701,dellons,awakened,basic,普通攻擊,40058701,,,Basic Attack,,,,0,atlas_dellons,source_imported
+dellons:awakened:basic:41058701,dellons,awakened,basic,普通攻擊,41058701,,,Basic Attack,,,,1,atlas_dellons,source_imported
+dellons:awakened:s1:40058702,dellons,awakened,s1,主動技能1,40058702,Reaper's Advent,死神降臨,Skill 1,80,source_unspecified,,0,atlas_dellons,source_imported
+dellons:awakened:s1:41058702,dellons,awakened,s1,主動技能1,41058702,Reaper's Judgment,死神的審判,Skill 1,80,source_unspecified,,1,atlas_dellons,source_imported
+dellons:awakened:ultimate:40058703,dellons,awakened,ultimate,主動技能2,40058703,Deathly Slice,死亡打擊,Skill 2,108,source_unspecified,,0,atlas_dellons,source_imported
+dellons:awakened:ultimate:41058703,dellons,awakened,ultimate,主動技能2,41058703,Raging Reaper,死神亂舞,Skill 2,108,source_unspecified,,1,atlas_dellons,source_imported
+dellons:awakened:passive:40058704,dellons,awakened,passive,被動技能,40058704,Reaper's Blessing,死神的保護,Passive,,,,0,atlas_dellons,source_imported
+dellons:awakened:awakened:40058707,dellons,awakened,awakened,覺醒技能,40058707,Hand of Destruction,破滅的掌力,Awakened Skill,,,85,0,atlas_dellons,source_imported
+dellons:s6:basic:10058601,dellons,s6,basic,普通攻擊,10058601,,,Basic Attack,,,,0,atlas_dellons,source_imported
+dellons:s6:s1:10058602,dellons,s6,s1,主動技能1,10058602,Reaper's Advent,死神降臨,Skill 1,80,source_unspecified,,0,atlas_dellons,source_imported
+dellons:s6:ultimate:10058603,dellons,s6,ultimate,主動技能2,10058603,Deathly Slice,死亡打擊,Skill 2,108,source_unspecified,,0,atlas_dellons,source_imported
+dellons:s6:passive:10058604,dellons,s6,passive,被動技能,10058604,Beyond the Veil,死亡的警戒,Passive,,,,0,atlas_dellons,source_imported
+dongyoung:awakened:basic:40189701,dongyoung,awakened,basic,普通攻擊,40189701,,,Basic Attack,,,,0,atlas_dongyoung,source_imported
+dongyoung:awakened:s1:40189702,dongyoung,awakened,s1,主動技能1,40189702,Breath of the Underworld,黃泉的氣息,Skill 1,120,source_unspecified,,0,atlas_dongyoung,source_imported
+dongyoung:awakened:ultimate:40189703,dongyoung,awakened,ultimate,主動技能2,40189703,Touch of the Abyss,深淵之手,Skill 2,112,source_unspecified,,0,atlas_dongyoung,source_imported
+dongyoung:awakened:passive:40189704,dongyoung,awakened,passive,被動技能,40189704,Companion of the Underworld,黃泉的同行者,Passive,,,,0,atlas_dongyoung,source_imported
+dongyoung:awakened:awakened:40189707,dongyoung,awakened,awakened,覺醒技能,40189707,Mortal Verdict,必滅的宣告,Awakened Skill,,,155,0,atlas_dongyoung,source_imported
+dongyoung:s6:basic:10189601,dongyoung,s6,basic,普通攻擊,10189601,,,Basic Attack,,,,0,atlas_dongyoung,source_imported
+dongyoung:s6:s1:10189602,dongyoung,s6,s1,主動技能1,10189602,Breath of the Underworld,黃泉的氣息,Skill 1,120,source_unspecified,,0,atlas_dongyoung,source_imported
+dongyoung:s6:ultimate:10189603,dongyoung,s6,ultimate,主動技能2,10189603,Touch of the Abyss,深淵之手,Skill 2,112,source_unspecified,,0,atlas_dongyoung,source_imported
+dongyoung:s6:passive:10189604,dongyoung,s6,passive,被動技能,10189604,Companion of the Underworld,黃泉的同行者,Passive,,,,0,atlas_dongyoung,source_imported
+eileene:awakened:basic:40059701,eileene,awakened,basic,普通攻擊,40059701,,,Basic Attack,,,,0,atlas_eileene,source_imported
+eileene:awakened:s1:40059702,eileene,awakened,s1,主動技能1,40059702,Lightning Spear,電光石火,Skill 1,70,source_unspecified,,0,atlas_eileene,source_imported
+eileene:awakened:ultimate:40059703,eileene,awakened,ultimate,主動技能2,40059703,Heavens' Wrath: True,晴天霹靂・眞,Skill 2,80,source_unspecified,,0,atlas_eileene,source_imported
+eileene:awakened:passive:40059704,eileene,awakened,passive,被動技能,40059704,Flame Incarnate,火焰的化身,Passive,,,,0,atlas_eileene,source_imported
+eileene:awakened:awakened:40059707,eileene,awakened,awakened,覺醒技能,40059707,Immortal Rage,不滅的憤怒,Awakened Skill,,,120,0,atlas_eileene,source_imported
+eileene:s6:basic:10059601,eileene,s6,basic,普通攻擊,10059601,,,Basic Attack,,,,0,atlas_eileene,source_imported
+eileene:s6:s1:10059602,eileene,s6,s1,主動技能1,10059602,Empress's Wrath,雷帝的憤怒,Skill 1,70,source_unspecified,,0,atlas_eileene,source_imported
+eileene:s6:ultimate:10059603,eileene,s6,ultimate,主動技能2,10059603,Heavens' Wrath,晴天霹靂,Skill 2,80,source_unspecified,,0,atlas_eileene,source_imported
+eileene:s6:passive:10059604,eileene,s6,passive,被動技能,10059604,Wrath of Fodina,波狄納的憤怒,Passive,,,,0,atlas_eileene,source_imported
+elysia:source_default:basic:10127601,elysia,source_default,basic,普通攻擊,10127601,,,Basic Attack,,,,0,atlas_elysia,source_imported
+elysia:source_default:s1:10127602,elysia,source_default,s1,主動技能1,10127602,Heavenly Spark,天空之光,Skill 1,104,source_unspecified,,0,atlas_elysia,source_imported
+elysia:source_default:ultimate:10127603,elysia,source_default,ultimate,主動技能2,10127603,Starfall,群星墜落,Skill 2,104,source_unspecified,,0,atlas_elysia,source_imported
+elysia:source_default:passive:10127604,elysia,source_default,passive,被動技能,10127604,Leader of the Revolution,革命軍的領導,Passive,,,,0,atlas_elysia,source_imported
+freyja:source_default:basic:10131601,freyja,source_default,basic,普通攻擊,10131601,,,Basic Attack,,,,0,atlas_freyja,source_imported
+freyja:source_default:s1:10131602,freyja,source_default,s1,主動技能1,10131602,Noble Storm,高潔的秋風,Skill 1,112,source_unspecified,,0,atlas_freyja,source_imported
+freyja:source_default:ultimate:10131603,freyja,source_default,ultimate,主動技能2,10131603,Golden Rain,金色劍雨,Skill 2,120,source_unspecified,,0,atlas_freyja,source_imported
+freyja:source_default:passive:10131604,freyja,source_default,passive,被動技能,10131604,Magnificent Authority,美麗的支配者,Passive,,,,0,atlas_freyja,source_imported
+hayeon:awakened:basic:40188701,hayeon,awakened,basic,普通攻擊,40188701,,,Basic Attack,,,,0,atlas_hayeon,source_imported
+hayeon:awakened:s1:40188702,hayeon,awakened,s1,主動技能1,40188702,Spirit Shackles,鬼結縛,Skill 1,88,source_unspecified,,0,atlas_hayeon,source_imported
+hayeon:awakened:ultimate:40188703,hayeon,awakened,ultimate,主動技能2,40188703,Moon-Sealing Gate,奉月門,Skill 2,88,source_unspecified,,0,atlas_hayeon,source_imported
+hayeon:awakened:passive:40188704,hayeon,awakened,passive,被動技能,40188704,Ascetic of the Abyss,深淵的苦行者,Passive,,,,0,atlas_hayeon,source_imported
+hayeon:awakened:awakened:40188707,hayeon,awakened,awakened,覺醒技能,40188707,Gate of Heavenly Mandate,奉天門,Awakened Skill,,,132,0,atlas_hayeon,source_imported
+hayeon:s6:basic:10188601,hayeon,s6,basic,普通攻擊,10188601,,,Basic Attack,,,,0,atlas_hayeon,source_imported
+hayeon:s6:s1:10188602,hayeon,s6,s1,主動技能1,10188602,Spirit Shackles,鬼結縛,Skill 1,88,source_unspecified,,0,atlas_hayeon,source_imported
+hayeon:s6:ultimate:10188603,hayeon,s6,ultimate,主動技能2,10188603,Moon-Sealing Gate,奉月門,Skill 2,88,source_unspecified,,0,atlas_hayeon,source_imported
+hayeon:s6:passive:10188604,hayeon,s6,passive,被動技能,10188604,Ascetic of the Abyss,深淵的苦行者,Passive,,,,0,atlas_hayeon,source_imported
+jave:source_default:basic:10061601,jave,source_default,basic,普通攻擊,10061601,,,Basic Attack,,,,0,atlas_jave,source_imported
+jave:source_default:s1:10061602,jave,source_default,s1,主動技能1,10061602,Furious Descent,憤怒的一擊,Skill 1,104,source_unspecified,,0,atlas_jave,source_imported
+jave:source_default:ultimate:10061603,jave,source_default,ultimate,主動技能2,10061603,Draconic Fury,龍的憤怒,Skill 2,104,source_unspecified,,0,atlas_jave,source_imported
+jave:source_default:passive:10061604,jave,source_default,passive,被動技能,10061604,Vengeful Armor,復仇護甲,Passive,,,,0,atlas_jave,source_imported
+kagura:source_default:basic:10138601,kagura,source_default,basic,普通攻擊,10138601,,,Basic Attack,,,,0,atlas_kagura,source_imported
+kagura:source_default:s1:10138602,kagura,source_default,s1,主動技能1,10138602,Unleashed - Eight Serpents' Sword,解放－八蛇劍,Skill 1,88,source_unspecified,,0,atlas_kagura,source_imported
+kagura:source_default:ultimate:10138603,kagura,source_default,ultimate,主動技能2,10138603,Unleashed - Snake Hunting,解放－獵蛇,Skill 2,80,source_unspecified,,0,atlas_kagura,source_imported
+kagura:source_default:passive:10138604,kagura,source_default,passive,被動技能,10138604,Eight Serpents' Curse,八蛇的詛咒,Passive,,,,0,atlas_kagura,source_imported
+karl-heron:source_default:basic:10178601,karl-heron,source_default,basic,普通攻擊,10178601,,,Basic Attack,,,,0,atlas_karl-heron,source_imported
+karl-heron:source_default:s1:10178602,karl-heron,source_default,s1,主動技能1,10178602,Lightning Beam,雷光砲,Skill 1,84,source_unspecified,,0,atlas_karl-heron,source_imported
+karl-heron:source_default:ultimate:10178603,karl-heron,source_default,ultimate,主動技能2,10178603,Heavens' Wrath: Reformed,晴天霹靂.改,Skill 2,104,source_unspecified,,0,atlas_karl-heron,source_imported
+karl-heron:source_default:passive:10178604,karl-heron,source_default,passive,被動技能,10178604,Master of the Twin Spears,雙槍的達人,Passive,,,,0,atlas_karl-heron,source_imported
+karma:source_default:basic:10142601,karma,source_default,basic,普通攻擊,10142601,,,Basic Attack,,,,0,atlas_karma,source_imported
+karma:source_default:s1:10142602,karma,source_default,s1,主動技能1,10142602,Infernal Redemption,過失的火獄,Skill 1,105,source_unspecified,,0,atlas_karma,source_imported
+karma:source_default:ultimate:10142603,karma,source_default,ultimate,主動技能2,10142603,Agonizing Tempest,絕望的暴風,Skill 2,105,source_unspecified,,0,atlas_karma,source_imported
+karma:source_default:passive:10142604,karma,source_default,passive,被動技能,10142604,Fallen Sage,墮落的神仙,Passive,,,,0,atlas_karma,source_imported
+klahan:source_default:basic:10137601,klahan,source_default,basic,普通攻擊,10137601,,,Basic Attack,,,,0,atlas_klahan,source_imported
+klahan:source_default:s1:10137602,klahan,source_default,s1,主動技能1,10137602,Flying Tiger Whirlwind,飛虎旋風,Skill 1,76,source_unspecified,,0,atlas_klahan,source_imported
+klahan:source_default:ultimate:10137603,klahan,source_default,ultimate,主動技能2,10137603,Gale Blast,疾風肆虐,Skill 2,96,source_unspecified,,0,atlas_klahan,source_imported
+klahan:source_default:passive:10137604,klahan,source_default,passive,被動技能,10137604,Tiger's Courage,老虎的勇氣,Passive,,,,0,atlas_klahan,source_imported
+kris:source_default:basic:10057601,kris,source_default,basic,普通攻擊,10057601,,,Basic Attack,,,,0,atlas_kris,source_imported
+kris:source_default:s1:10057602,kris,source_default,s1,主動技能1,10057602,Dark Slash,黑暗的一擊,Skill 1,60,source_unspecified,,0,atlas_kris,source_imported
+kris:source_default:ultimate:10057603,kris,source_default,ultimate,主動技能2,10057603,Dark Whispers,黑暗的私語,Skill 2,80,source_unspecified,,0,atlas_kris,source_imported
+kris:source_default:passive:10057604,kris,source_default,passive,被動技能,10057604,Soul Drain,靈魂吸收,Passive,,,,0,atlas_kris,source_imported
+kyle:source_default:basic:10143601,kyle,source_default,basic,普通攻擊,10143601,,,Basic Attack,,,,0,atlas_kyle,source_imported
+kyle:source_default:s1:10143602,kyle,source_default,s1,主動技能1,10143602,Chain Suppression,鐵鎖暴壓,Skill 1,90,source_unspecified,,0,atlas_kyle,source_imported
+kyle:source_default:ultimate:10143603,kyle,source_default,ultimate,主動技能2,10143603,Chain Burial,鐵鍊之墓,Skill 2,94,source_unspecified,,0,atlas_kyle,source_imported
+kyle:source_default:passive:10143604,kyle,source_default,passive,被動技能,10143604,Master of Chains,小刀雙舞,Passive,,,,0,atlas_kyle,source_imported
+kyrielle:source_default:basic:10128601,kyrielle,source_default,basic,普通攻擊,10128601,,,Basic Attack,,,,0,atlas_kyrielle,source_imported
+kyrielle:source_default:s1:10128602,kyrielle,source_default,s1,主動技能1,10128602,Regulus,獅子座,Skill 1,75,source_unspecified,,0,atlas_kyrielle,source_imported
+kyrielle:source_default:ultimate:10128603,kyrielle,source_default,ultimate,主動技能2,10128603,Meteor Shower,流星雨,Skill 2,92,source_unspecified,,0,atlas_kyrielle,source_imported
+kyrielle:source_default:passive:10128604,kyrielle,source_default,passive,被動技能,10128604,Festival of Stars,星星慶典,Passive,,,,0,atlas_kyrielle,source_imported
+lu-bu:source_default:basic:10148601,lu-bu,source_default,basic,普通攻擊,10148601,,,Basic Attack,,,,0,atlas_lu-bu,source_imported
+lu-bu:source_default:s1:10148602,lu-bu,source_default,s1,主動技能1,10148602,Bloody Whirlwind,血風碧波,Skill 1,96,source_unspecified,,0,atlas_lu-bu,source_imported
+lu-bu:source_default:ultimate:10148603,lu-bu,source_default,ultimate,主動技能2,10148603,Crimson Gale's Advance,赤兔疾風擊,Skill 2,112,source_unspecified,,0,atlas_lu-bu,source_imported
+lu-bu:source_default:passive:10148604,lu-bu,source_default,passive,被動技能,10148604,Superhuman Strength,超人之力,Passive,,,,0,atlas_lu-bu,source_imported
+mercure:source_default:basic:10112601,mercure,source_default,basic,普通攻擊,10112601,,,Basic Attack,,,,0,atlas_mercure,source_imported
+mercure:source_default:s1:10112602,mercure,source_default,s1,主動技能1,10112602,Dark Larceny,黑暗搶奪,Skill 1,96,source_unspecified,,0,atlas_mercure,source_imported
+mercure:source_default:ultimate:10112603,mercure,source_default,ultimate,主動技能2,10112603,Forbidden Experiments,禁止的實驗,Skill 2,88,source_unspecified,,0,atlas_mercure,source_imported
+mercure:source_default:passive:10112604,mercure,source_default,passive,被動技能,10112604,Depraved Mage,墮落的魔法師,Passive,,,,0,atlas_mercure,source_imported
+mist:source_default:basic:10172601,mist,source_default,basic,普通攻擊,10172601,,,Basic Attack,,,,0,atlas_mist,source_imported
+mist:source_default:s1:10172602,mist,source_default,s1,主動技能1,10172602,Awakened Beast,甦醒的野獸,Skill 1,70,source_unspecified,,0,atlas_mist,source_imported
+mist:source_default:ultimate:10172603,mist,source_default,ultimate,主動技能2,10172603,Deadly Mist,死亡之霧,Skill 2,80,source_unspecified,,0,atlas_mist,source_imported
+mist:source_default:passive:10172604,mist,source_default,passive,被動技能,10172604,Rolling Destruction,破滅的迷霧,Passive,,,,0,atlas_mist,source_imported
+nezha:source_default:basic:10156601,nezha,source_default,basic,普通攻擊,10156601,,,Basic Attack,,,,0,atlas_nezha,source_imported
+nezha:source_default:s1:10156602,nezha,source_default,s1,主動技能1,10156602,Flower Dance,禍尖槍術,Skill 1,84,source_unspecified,,0,atlas_nezha,source_imported
+nezha:source_default:ultimate:10156603,nezha,source_default,ultimate,主動技能2,10156603,Tidal Wave,渾天凌波,Skill 2,84,source_unspecified,,0,atlas_nezha,source_imported
+nezha:source_default:passive:10156604,nezha,source_default,passive,被動技能,10156604,Lotus's Protection,蓮花的保護,Passive,,,,0,atlas_nezha,source_imported
+omok:source_default:basic:10177601,omok,source_default,basic,普通攻擊,10177601,,,Basic Attack,,,,0,atlas_omok,source_imported
+omok:source_default:s1:10177602,omok,source_default,s1,主動技能1,10177602,Tiger's Chivalry,猛虎的武道,Skill 1,98,source_unspecified,,0,atlas_omok,source_imported
+omok:source_default:ultimate:10177603,omok,source_default,ultimate,主動技能2,10177603,Moon Tiger Fire Carts,滿月箭車猛虎戰,Skill 2,136,source_unspecified,,0,atlas_omok,source_imported
+omok:source_default:passive:10177604,omok,source_default,passive,被動技能,10177604,Sacred Tree's Protection,神木的保護,Passive,,,,0,atlas_omok,source_imported
+orkah:awakened:basic:40180701,orkah,awakened,basic,普通攻擊,40180701,,,Basic Attack,,,,0,atlas_orkah,source_imported
+orkah:awakened:s1:40180702,orkah,awakened,s1,主動技能1,40180702,Unfair Dealings,不公平交易,Skill 1,104,source_unspecified,,0,atlas_orkah,source_imported
+orkah:awakened:ultimate:40180703,orkah,awakened,ultimate,主動技能2,40180703,Merciless Exploitation,無情的剝削,Skill 2,112,source_unspecified,,0,atlas_orkah,source_imported
+orkah:awakened:passive:40180704,orkah,awakened,passive,被動技能,40180704,Business Cruelty,殘酷的交易,Passive,,,,0,atlas_orkah,source_imported
+orkah:awakened:awakened:40180707,orkah,awakened,awakened,覺醒技能,40180707,Ultimatum,最後通牒,Awakened Skill,,,145,0,atlas_orkah,source_imported
+orkah:s6:basic:10180601,orkah,s6,basic,普通攻擊,10180601,,,Basic Attack,,,,0,atlas_orkah,source_imported
+orkah:s6:s1:10180602,orkah,s6,s1,主動技能1,10180602,Unfair Dealings,不公平交易,Skill 1,104,source_unspecified,,0,atlas_orkah,source_imported
+orkah:s6:ultimate:10180603,orkah,s6,ultimate,主動技能2,10180603,Merciless Exploitation,無情的剝削,Skill 2,112,source_unspecified,,0,atlas_orkah,source_imported
+orkah:s6:passive:10180604,orkah,s6,passive,被動技能,10180604,Business Cruelty,殘酷的交易,Passive,,,,0,atlas_orkah,source_imported
+orly:source_default:basic:10126601,orly,source_default,basic,普通攻擊,10126601,,,Basic Attack,,,,0,atlas_orly,source_imported
+orly:source_default:s1:10126602,orly,source_default,s1,主動技能1,10126602,Noble Meteor,高潔的流星,Skill 1,70,source_unspecified,,0,atlas_orly,source_imported
+orly:source_default:ultimate:10126603,orly,source_default,ultimate,主動技能2,10126603,Lightstream,閃雷之光,Skill 2,104,source_unspecified,,0,atlas_orly,source_imported
+orly:source_default:passive:10126604,orly,source_default,passive,被動技能,10126604,All-Seeing Light,洞察之光,Passive,,,,0,atlas_orly,source_imported
+pallanus:source_default:basic:10146601,pallanus,source_default,basic,普通攻擊,10146601,,,Basic Attack,,,,0,atlas_pallanus,source_imported
+pallanus:source_default:s1:10146602,pallanus,source_default,s1,主動技能1,10146602,Formidable Strike,強硬的劍擊,Skill 1,96,source_unspecified,,0,atlas_pallanus,source_imported
+pallanus:source_default:ultimate:10146603,pallanus,source_default,ultimate,主動技能2,10146603,Operation: Annihilation,作戰名：殲滅,Skill 2,96,source_unspecified,,0,atlas_pallanus,source_imported
+pallanus:source_default:passive:10146604,pallanus,source_default,passive,被動技能,10146604,Commander's Strength,指揮官的潛力,Passive,,,,0,atlas_pallanus,source_imported
+platin:source_default:basic:10054601,platin,source_default,basic,普通攻擊,10054601,,,Basic Attack,,,,0,atlas_platin,source_imported
+platin:source_default:s1:10054602,platin,source_default,s1,主動技能1,10054602,Apostle's Judgment,代理審判,Skill 1,96,source_unspecified,,0,atlas_platin,source_imported
+platin:source_default:ultimate:10054603,platin,source_default,ultimate,主動技能2,10054603,Otherworldly Light,異界之光,Skill 2,91,source_unspecified,,0,atlas_platin,source_imported
+platin:source_default:passive:10054604,platin,source_default,passive,被動技能,10054604,Nestra's Blessing,蕾斯特拉的保護,Passive,,,,0,atlas_platin,source_imported
+rachel:source_default:basic:10060601,rachel,source_default,basic,普通攻擊,10060601,,,Basic Attack,,,,0,atlas_rachel,source_imported
+rachel:source_default:s1:10060602,rachel,source_default,s1,主動技能1,10060602,Blazing Strike,烈焰連襲,Skill 1,84,source_unspecified,,0,atlas_rachel,source_imported
+rachel:source_default:ultimate:10060603,rachel,source_default,ultimate,主動技能2,10060603,Phoenix Strike,鳳翼天翔,Skill 2,84,source_unspecified,,0,atlas_rachel,source_imported
+rachel:source_default:passive:10060604,rachel,source_default,passive,被動技能,10060604,Power of Flames,浴火重生,Passive,,,,0,atlas_rachel,source_imported
+radgrid:source_default:basic:10169601,radgrid,source_default,basic,普通攻擊,10169601,,,Basic Attack,,,,0,atlas_radgrid,source_imported
+radgrid:source_default:s1:10169602,radgrid,source_default,s1,主動技能1,10169602,Rain of Spears,戰矛之雨,Skill 1,104,source_unspecified,,0,atlas_radgrid,source_imported
+radgrid:source_default:ultimate:10169603,radgrid,source_default,ultimate,主動技能2,10169603,Skies Ablaze,炸裂的蒼煙,Skill 2,104,source_unspecified,,0,atlas_radgrid,source_imported
+radgrid:source_default:passive:10169604,radgrid,source_default,passive,被動技能,10169604,Prepared Strategy,準備好的兵略,Passive,,,,0,atlas_radgrid,source_imported
+randgrid:source_default:basic:10171601,randgrid,source_default,basic,普通攻擊,10171601,,,Basic Attack,,,,0,atlas_randgrid,source_imported
+randgrid:source_default:s1:10171602,randgrid,source_default,s1,主動技能1,10171602,Promised Battlefield,約定的戰場,Skill 1,105,source_unspecified,,0,atlas_randgrid,source_imported
+randgrid:source_default:ultimate:10171603,randgrid,source_default,ultimate,主動技能2,10171603,Undefeated Cavalier,馬上的迅猛之槍,Skill 2,108,source_unspecified,,0,atlas_randgrid,source_imported
+randgrid:source_default:passive:10171604,randgrid,source_default,passive,被動技能,10171604,Unrivaled Heroism,英雄無雙,Passive,,,,0,atlas_randgrid,source_imported
+reginleif:source_default:basic:10170601,reginleif,source_default,basic,普通攻擊,10170601,,,Basic Attack,,,,0,atlas_reginleif,source_imported
+reginleif:source_default:s1:10170602,reginleif,source_default,s1,主動技能1,10170602,Advent of Light,光明的到來,Skill 1,96,source_unspecified,,0,atlas_reginleif,source_imported
+reginleif:source_default:ultimate:10170603,reginleif,source_default,ultimate,主動技能2,10170603,Interstellar Rift,宇宙的裂痕,Skill 2,120,source_unspecified,,0,atlas_reginleif,source_imported
+reginleif:source_default:passive:10170604,reginleif,source_default,passive,被動技能,10170604,Secret of Harmony,和諧的悲願,Passive,,,,0,atlas_reginleif,source_imported
+rin:source_default:basic:10141601,rin,source_default,basic,普通攻擊,10141601,,,Basic Attack,,,,0,atlas_rin,source_imported
+rin:source_default:s1:10141602,rin,source_default,s1,主動技能1,10141602,Dragon's Descent,龍臨城下,Skill 1,80,source_unspecified,,0,atlas_rin,source_imported
+rin:source_default:ultimate:10141603,rin,source_default,ultimate,主動技能2,10141603,Dragon's Wrath,龍帝的震怒,Skill 2,96,source_unspecified,,0,atlas_rin,source_imported
+rin:source_default:passive:10141604,rin,source_default,passive,被動技能,10141604,Crimson Scales,紅麟咆,Passive,,,,0,atlas_rin,source_imported
+rudy:awakened:basic:40056701,rudy,awakened,basic,普通攻擊,40056701,,,Basic Attack,,,,0,atlas_rudy,source_imported
+rudy:awakened:s1:40056702,rudy,awakened,s1,主動技能1,40056702,Sword of Condemnation,譴責的劍擊,Skill 1,91,source_unspecified,,0,atlas_rudy,source_imported
+rudy:awakened:ultimate:40056703,rudy,awakened,ultimate,主動技能2,40056703,Walls of Conviction,永恆的堡壘,Skill 2,96,source_unspecified,,0,atlas_rudy,source_imported
+rudy:awakened:passive:40056704,rudy,awakened,passive,被動技能,40056704,Unbreakable Wall,銅牆鐵壁,Passive,,,,0,atlas_rudy,source_imported
+rudy:awakened:awakened:40056707,rudy,awakened,awakened,覺醒技能,40056707,Judgment of Glory,光榮的審判,Awakened Skill,,,130,0,atlas_rudy,source_imported
+rudy:s6:basic:10056601,rudy,s6,basic,普通攻擊,10056601,,,Basic Attack,,,,0,atlas_rudy,source_imported
+rudy:s6:s1:10056602,rudy,s6,s1,主動技能1,10056602,Charge,制裁之劍,Skill 1,91,source_unspecified,,0,atlas_rudy,source_imported
+rudy:s6:ultimate:10056603,rudy,s6,ultimate,主動技能2,10056603,Raise Shield,神聖庇護,Skill 2,96,source_unspecified,,0,atlas_rudy,source_imported
+rudy:s6:passive:10056604,rudy,s6,passive,被動技能,10056604,Steadfast Shield,堅固的盾,Passive,,,,0,atlas_rudy,source_imported
+ryan:source_default:basic:10129601,ryan,source_default,basic,普通攻擊,10129601,,,Basic Attack,,,,0,atlas_ryan,source_imported
+ryan:source_default:s1:10129602,ryan,source_default,s1,主動技能1,10129602,Go for the Head,強者狩獵,Skill 1,84,source_unspecified,,0,atlas_ryan,source_imported
+ryan:source_default:ultimate:10129603,ryan,source_default,ultimate,主動技能2,10129603,Gale Slash,狂風斬,Skill 2,105,source_unspecified,,0,atlas_ryan,source_imported
+ryan:source_default:passive:10129604,ryan,source_default,passive,被動技能,10129604,Demonic Swordsman,快速之魔劍士,Passive,,,,0,atlas_ryan,source_imported
+silvesta:awakened:basic:40055701,silvesta,awakened,basic,普通攻擊,40055701,,,Basic Attack,,,,0,atlas_silvesta,source_imported
+silvesta:awakened:s1:40055702,silvesta,awakened,s1,主動技能1,40055702,Agonizing Condemnation,煩惱的判決,Skill 1,96,source_unspecified,,0,atlas_silvesta,source_imported
+silvesta:awakened:ultimate:40055703,silvesta,awakened,ultimate,主動技能2,40055703,Dark Strike,再起的一擊,Skill 2,104,source_unspecified,,0,atlas_silvesta,source_imported
+silvesta:awakened:passive:40055704,silvesta,awakened,passive,被動技能,40055704,Knight's Will,騎士的意志,Passive,,,,0,atlas_silvesta,source_imported
+silvesta:awakened:awakened:40055707,silvesta,awakened,awakened,覺醒技能,40055707,Purifying Darkness,淨化的黑暗,Awakened Skill,,,120,0,atlas_silvesta,source_imported
+silvesta:s6:basic:10055601,silvesta,s6,basic,普通攻擊,10055601,,,Basic Attack,,,,0,atlas_silvesta,source_imported
+silvesta:s6:s1:10055602,silvesta,s6,s1,主動技能1,10055602,Condemnation,正義的斷罪,Skill 1,96,source_unspecified,,0,atlas_silvesta,source_imported
+silvesta:s6:ultimate:10055603,silvesta,s6,ultimate,主動技能2,10055603,Purifying Strike,淨化的一擊,Skill 2,104,source_unspecified,,0,atlas_silvesta,source_imported
+silvesta:s6:passive:10055604,silvesta,s6,passive,被動技能,10055604,Knight's Will,騎士的意志,Passive,,,,0,atlas_silvesta,source_imported
+skuld:awakened:basic:40168701,skuld,awakened,basic,普通攻擊,40168701,,,Basic Attack,,,,0,atlas_skuld,source_imported
+skuld:awakened:s1:40168702,skuld,awakened,s1,主動技能1,40168702,Celestial Journey,閃亮!星座旅行,Skill 1,104,source_unspecified,,0,atlas_skuld,source_imported
+skuld:awakened:ultimate:40168703,skuld,awakened,ultimate,主動技能2,40168703,Constellation's Secret,星座的秘密,Skill 2,96,source_unspecified,,0,atlas_skuld,source_imported
+skuld:awakened:passive:40168704,skuld,awakened,passive,被動技能,40168704,Crescent Moon Seer,新月預言家,Passive,,,,0,atlas_skuld,source_imported
+skuld:awakened:awakened:40168707,skuld,awakened,awakened,覺醒技能,40168707,Radiant Fate,天運的光輝,Awakened Skill,,,100,0,atlas_skuld,source_imported
+skuld:s6:basic:10168601,skuld,s6,basic,普通攻擊,10168601,,,Basic Attack,,,,0,atlas_skuld,source_imported
+skuld:s6:s1:10168602,skuld,s6,s1,主動技能1,10168602,Celestial Journey,閃亮!星座旅行,Skill 1,104,source_unspecified,,0,atlas_skuld,source_imported
+skuld:s6:ultimate:10168603,skuld,s6,ultimate,主動技能2,10168603,Constellation's Secret,星座的秘密,Skill 2,96,source_unspecified,,0,atlas_skuld,source_imported
+skuld:s6:passive:10168604,skuld,s6,passive,被動技能,10168604,Crescent Moon Seer,新月預言家,Passive,,,,0,atlas_skuld,source_imported
+spike:source_default:basic:10062601,spike,source_default,basic,普通攻擊,10062601,,,Basic Attack,,,,0,atlas_spike,source_imported
+spike:source_default:s1:10062602,spike,source_default,s1,主動技能1,10062602,Frozen Strike,酷寒一擊,Skill 1,72,source_unspecified,,0,atlas_spike,source_imported
+spike:source_default:ultimate:10062603,spike,source_default,ultimate,主動技能2,10062603,Icequake,酷寒的地震,Skill 2,80,source_unspecified,,0,atlas_spike,source_imported
+spike:source_default:passive:10062604,spike,source_default,passive,被動技能,10062604,Heart of Ice,酷寒的心臟,Passive,,,,0,atlas_spike,source_imported
+sun-wukong:source_default:basic:10147601,sun-wukong,source_default,basic,普通攻擊,10147601,,,Basic Attack,,,,0,atlas_sun-wukong,source_imported
+sun-wukong:source_default:basic:10147605,sun-wukong,source_default,basic,普通攻擊,10147605,,,Basic Attack,,,,1,atlas_sun-wukong,source_imported
+sun-wukong:source_default:s1:10147602,sun-wukong,source_default,s1,主動技能1,10147602,Jumbo Pole,勝利打擊,Skill 1,84,source_unspecified,,0,atlas_sun-wukong,source_imported
+sun-wukong:source_default:s1:10147606,sun-wukong,source_default,s1,主動技能1,10147606,Jumbo Pole: Specter,幻ㆍ勝利打擊,Skill 1,84,source_unspecified,,1,atlas_sun-wukong,source_imported
+sun-wukong:source_default:ultimate:10147603,sun-wukong,source_default,ultimate,主動技能2,10147603,Clone Beatdown,如意亂斬舞,Skill 2,91,source_unspecified,,0,atlas_sun-wukong,source_imported
+sun-wukong:source_default:ultimate:10147607,sun-wukong,source_default,ultimate,主動技能2,10147607,Clone Beatdown: Specter,幻ㆍ如意亂斬舞,Skill 2,104,source_unspecified,,1,atlas_sun-wukong,source_imported
+sun-wukong:source_default:passive:10147604,sun-wukong,source_default,passive,被動技能,10147604,Final Clone,美猴分身術,Passive,,,,0,atlas_sun-wukong,source_imported
+sung-jinwoo:source_default:basic:10173601,sung-jinwoo,source_default,basic,普通攻擊,10173601,,,Basic Attack,,,,0,atlas_sung-jinwoo,source_imported
+sung-jinwoo:source_default:s1:10173602,sung-jinwoo,source_default,s1,主動技能1,10173602,Cheap Shot,魔槍連襲,Skill 1,96,source_unspecified,,0,atlas_sung-jinwoo,source_imported
+sung-jinwoo:source_default:ultimate:10173603,sung-jinwoo,source_default,ultimate,主動技能2,10173603,Shadow Summon,召喚影子,Skill 2,104,source_unspecified,,0,atlas_sung-jinwoo,source_imported
+sung-jinwoo:source_default:passive:10173604,sung-jinwoo,source_default,passive,被動技能,10173604,Level Up,升級,Passive,,,,0,atlas_sung-jinwoo,source_imported
+sunran:awakened:basic:40187701,sunran,awakened,basic,普通攻擊,40187701,,,Basic Attack,,,,0,atlas_sunran,source_imported
+sunran:awakened:s1:40187702,sunran,awakened,s1,主動技能1,40187702,Chained Slash,連環斬,Skill 1,91,source_unspecified,,0,atlas_sunran,source_imported
+sunran:awakened:ultimate:40187703,sunran,awakened,ultimate,主動技能2,40187703,Phantom Flying Blade,無影飛劍,Skill 2,98,source_unspecified,,0,atlas_sunran,source_imported
+sunran:awakened:passive:40187704,sunran,awakened,passive,被動技能,40187704,Demon-Faced Warrior,鬼面武士,Passive,,,,0,atlas_sunran,source_imported
+sunran:awakened:awakened:40187707,sunran,awakened,awakened,覺醒技能,40187707,Empyrean Sword,天劍,Awakened Skill,,,130,0,atlas_sunran,source_imported
+sunran:s6:basic:10187601,sunran,s6,basic,普通攻擊,10187601,,,Basic Attack,,,,0,atlas_sunran,source_imported
+sunran:s6:s1:10187602,sunran,s6,s1,主動技能1,10187602,Chained Slash,連環斬,Skill 1,91,source_unspecified,,0,atlas_sunran,source_imported
+sunran:s6:ultimate:10187603,sunran,s6,ultimate,主動技能2,10187603,Phantom Flying Blade,無影飛劍,Skill 2,98,source_unspecified,,0,atlas_sunran,source_imported
+sunran:s6:passive:10187604,sunran,s6,passive,被動技能,10187604,Demon-Faced Warrior,鬼面武士,Passive,,,,0,atlas_sunran,source_imported
+teo:source_default:basic:10052601,teo,source_default,basic,普通攻擊,10052601,,,Basic Attack,,,,0,atlas_teo,source_imported
+teo:source_default:s1:10052602,teo,source_default,s1,主動技能1,10052602,Talon Strike,黑風斬,Skill 1,88,source_unspecified,,0,atlas_teo,source_imported
+teo:source_default:ultimate:10052603,teo,source_default,ultimate,主動技能2,10052603,Corvus Eclipse,黑翼萬月斬,Skill 2,88,source_unspecified,,0,atlas_teo,source_imported
+teo:source_default:passive:10052604,teo,source_default,passive,被動技能,10052604,Crow's Eyes,黑烏鴉之眼,Passive,,,,0,atlas_teo,source_imported
+trude:source_default:basic:10130601,trude,source_default,basic,普通攻擊,10130601,,,Basic Attack,,,,0,atlas_trude,source_imported
+trude:source_default:s1:10130602,trude,source_default,s1,主動技能1,10130602,Reckless Charge,一擊斃命！,Skill 1,88,source_unspecified,,0,atlas_trude,source_imported
+trude:source_default:ultimate:10130603,trude,source_default,ultimate,主動技能2,10130603,Slash n' Bash,玩玩吧！,Skill 2,76,source_unspecified,,0,atlas_trude,source_imported
+trude:source_default:passive:10130604,trude,source_default,passive,被動技能,10130604,Battle High,戰鬥的喜悅,Passive,,,,0,atlas_trude,source_imported
+vanessa:source_default:basic:10063601,vanessa,source_default,basic,普通攻擊,10063601,,,Basic Attack,,,,0,atlas_vanessa,source_imported
+vanessa:source_default:s1:10063602,vanessa,source_default,s1,主動技能1,10063602,Sandstorm,沙漠颶風,Skill 1,84,source_unspecified,,0,atlas_vanessa,source_imported
+vanessa:source_default:ultimate:10063603,vanessa,source_default,ultimate,主動技能2,10063603,Waves of Sand,沙之海嘯,Skill 2,96,source_unspecified,,0,atlas_vanessa,source_imported
+vanessa:source_default:passive:10063604,vanessa,source_default,passive,被動技能,10063604,Mage of the Desert,沙漠的魔法師,Passive,,,,0,atlas_vanessa,source_imported
+yeonhee:source_default:basic:10053601,yeonhee,source_default,basic,普通攻擊,10053601,,,Basic Attack,,,,0,atlas_yeonhee,source_imported
+yeonhee:source_default:s1:10053602,yeonhee,source_default,s1,主動技能1,10053602,Calamitous Gesture,破壞的手勢,Skill 1,91,source_unspecified,,0,atlas_yeonhee,source_imported
+yeonhee:source_default:ultimate:10053603,yeonhee,source_default,ultimate,主動技能2,10053603,Eternal Slumber,末日永眠,Skill 2,120,source_unspecified,,0,atlas_yeonhee,source_imported
+yeonhee:source_default:passive:10053604,yeonhee,source_default,passive,被動技能,10053604,Otherworldly Insight,慧眼,Passive,,,,0,atlas_yeonhee,source_imported
+yoongun:awakened:basic:40190701,yoongun,awakened,basic,普通攻擊,40190701,,,Basic Attack,,,,0,atlas_yoongun,source_imported
+yoongun:awakened:s1:40190702,yoongun,awakened,s1,主動技能1,40190702,Tenfold Barrage,十連子砲,Skill 1,104,source_unspecified,,0,atlas_yoongun,source_imported
+yoongun:awakened:ultimate:40190703,yoongun,awakened,ultimate,主動技能2,40190703,Rapid Volley,神速連射,Skill 2,112,source_unspecified,,0,atlas_yoongun,source_imported
+yoongun:awakened:passive:40190704,yoongun,awakened,passive,被動技能,40190704,Official of Shinji,神地的官僚,Passive,,,,0,atlas_yoongun,source_imported
+yoongun:awakened:awakened:40190707,yoongun,awakened,awakened,覺醒技能,40190707,All-Out Fire,齊射,Awakened Skill,,,120,0,atlas_yoongun,source_imported
+yoongun:s6:basic:10190601,yoongun,s6,basic,普通攻擊,10190601,,,Basic Attack,,,,0,atlas_yoongun,source_imported
+yoongun:s6:s1:10190602,yoongun,s6,s1,主動技能1,10190602,Tenfold Barrage,十連子砲,Skill 1,104,source_unspecified,,0,atlas_yoongun,source_imported
+yoongun:s6:ultimate:10190603,yoongun,s6,ultimate,主動技能2,10190603,Rapid Volley,神速連射,Skill 2,112,source_unspecified,,0,atlas_yoongun,source_imported
+yoongun:s6:passive:10190604,yoongun,s6,passive,被動技能,10190604,Official of Shinji,神地的官僚,Passive,,,,0,atlas_yoongun,source_imported
+giyu-tomioka:awakened:basic:40201701,giyu-tomioka,awakened,basic,普通攻擊,40201701,,,Basic Attack,,,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:awakened:s1:40201702,giyu-tomioka,awakened,s1,主動技能1,40201702,Water Breathing Seventh Form: Drop Ripple Thrust,水之呼吸・柒之型・雫波紋突刺,Skill 1,98,source_unspecified,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:awakened:ultimate:40201703,giyu-tomioka,awakened,ultimate,主動技能2,40201703,Water Breathing Tenth Form: Constant Flux,水之呼吸・拾之型・生生流轉,Skill 2,128,source_unspecified,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:awakened:passive:40201704,giyu-tomioka,awakened,passive,被動技能,40201704,Water Breathing,水之呼吸,Passive,,,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:awakened:awakened:40201707,giyu-tomioka,awakened,awakened,覺醒技能,40201707,Water Breathing Eleventh Form: Dead Calm,水之呼吸・拾壹之型・風平浪靜,Awakened Skill,,,120,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:s6:basic:10201601,giyu-tomioka,s6,basic,普通攻擊,10201601,,,Basic Attack,,,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:s6:s1:10201602,giyu-tomioka,s6,s1,主動技能1,10201602,Water Breathing Seventh Form: Drop Ripple Thrust,水之呼吸・柒之型・雫波紋突刺,Skill 1,98,source_unspecified,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:s6:ultimate:10201603,giyu-tomioka,s6,ultimate,主動技能2,10201603,Water Breathing Tenth Form: Constant Flux,水之呼吸・拾之型・生生流轉,Skill 2,128,source_unspecified,,0,atlas_giyu-tomioka,source_imported
+giyu-tomioka:s6:passive:10201604,giyu-tomioka,s6,passive,被動技能,10201604,Water Breathing,水之呼吸,Passive,,,,0,atlas_giyu-tomioka,source_imported
+shinobu-kocho:awakened:basic:40200701,shinobu-kocho,awakened,basic,普通攻擊,40200701,,,Basic Attack,,,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:awakened:s1:40200702,shinobu-kocho,awakened,s1,主動技能1,40200702,Insect Breathing Dance of the Bee Sting: True Flutter,蟲之呼吸・蜂牙之舞・真靡,Skill 1,90,source_unspecified,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:awakened:ultimate:40200703,shinobu-kocho,awakened,ultimate,主動技能2,40200703,Insect Breathing Dance of the Dragonfly: Compound Eye Hexagon,蟲之呼吸・蜻蜓之舞・複眼六角,Skill 2,90,source_unspecified,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:awakened:passive:40200704,shinobu-kocho,awakened,passive,被動技能,40200704,Insect Breathing,蟲之呼吸,Passive,,,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:awakened:awakened:40200707,shinobu-kocho,awakened,awakened,覺醒技能,40200707,Insect Breathing Dance of the Centipede: Hundred-Legged Zigzag,蟲之呼吸・蜈蚣之舞・百足蛇腹,Awakened Skill,,,120,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:s6:basic:10200601,shinobu-kocho,s6,basic,普通攻擊,10200601,,,Basic Attack,,,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:s6:s1:10200602,shinobu-kocho,s6,s1,主動技能1,10200602,Insect Breathing Dance of the Bee Sting: True Flutter,蟲之呼吸・蜂牙之舞・真靡,Skill 1,90,source_unspecified,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:s6:ultimate:10200603,shinobu-kocho,s6,ultimate,主動技能2,10200603,Insect Breathing Dance of the Dragonfly: Compound Eye Hexagon,蟲之呼吸・蜻蜓之舞・複眼六角,Skill 2,90,source_unspecified,,0,atlas_shinobu-kocho,source_imported
+shinobu-kocho:s6:passive:10200604,shinobu-kocho,s6,passive,被動技能,10200604,Insect Breathing,蟲之呼吸,Passive,,,,0,atlas_shinobu-kocho,source_imported
+tanjiro-kamado:awakened:basic:40198701,tanjiro-kamado,awakened,basic,普通攻擊,40198701,,,Basic Attack,,,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:awakened:s1:40198702,tanjiro-kamado,awakened,s1,主動技能1,40198702,Hinokami Kagura: Dance,火神神樂・圓舞,Skill 1,84,source_unspecified,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:awakened:ultimate:40198703,tanjiro-kamado,awakened,ultimate,主動技能2,40198703,Hinokami Kagura: Dancing Flash,火神神樂・圓舞一閃,Skill 2,104,source_unspecified,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:awakened:passive:40198704,tanjiro-kamado,awakened,passive,被動技能,40198704,Hinokami Kagura,火神神樂,Passive,,,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:awakened:awakened:40198707,tanjiro-kamado,awakened,awakened,覺醒技能,40198707,Hinokami Kagura: Setting Sun Transformation,火神神樂・斜陽轉身,Awakened Skill,,,85,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:s6:basic:10198601,tanjiro-kamado,s6,basic,普通攻擊,10198601,,,Basic Attack,,,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:s6:s1:10198602,tanjiro-kamado,s6,s1,主動技能1,10198602,Hinokami Kagura: Dance,火神神樂・圓舞,Skill 1,84,source_unspecified,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:s6:ultimate:10198603,tanjiro-kamado,s6,ultimate,主動技能2,10198603,Hinokami Kagura: Dancing Flash,火神神樂・圓舞一閃,Skill 2,104,source_unspecified,,0,atlas_tanjiro-kamado,source_imported
+tanjiro-kamado:s6:passive:10198604,tanjiro-kamado,s6,passive,被動技能,10198604,Hinokami Kagura,火神神樂,Passive,,,,0,atlas_tanjiro-kamado,source_imported
+zenitsu-agatsuma:awakened:basic:40199701,zenitsu-agatsuma,awakened,basic,普通攻擊,40199701,,,Basic Attack,,,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:awakened:s1:40199702,zenitsu-agatsuma,awakened,s1,主動技能1,40199702,Thunder Breathing First Form: Thunderclap and Flash,雷之呼吸・壹之型・霹靂一閃,Skill 1,102,source_unspecified,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:awakened:ultimate:40199703,zenitsu-agatsuma,awakened,ultimate,主動技能2,40199703,Thunder Breathing First Form: Thunderclap and Flash Eightfold,雷之呼吸・壹之型・霹靂一閃・八連,Skill 2,116,source_unspecified,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:awakened:passive:40199704,zenitsu-agatsuma,awakened,passive,被動技能,40199704,Thunder Breathing,雷之呼吸,Passive,,,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:awakened:awakened:40199707,zenitsu-agatsuma,awakened,awakened,覺醒技能,40199707,Thunder Breathing Seventh Form: Honoikazuchinokami,雷之呼吸・柒之型・火雷神,Awakened Skill,,,160,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:s6:basic:10199601,zenitsu-agatsuma,s6,basic,普通攻擊,10199601,,,Basic Attack,,,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:s6:s1:10199602,zenitsu-agatsuma,s6,s1,主動技能1,10199602,Thunder Breathing First Form: Thunderclap and Flash,雷之呼吸・壹之型・霹靂一閃,Skill 1,102,source_unspecified,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:s6:ultimate:10199603,zenitsu-agatsuma,s6,ultimate,主動技能2,10199603,Thunder Breathing First Form: Thunderclap and Flash Eightfold,雷之呼吸・壹之型・霹靂一閃・八連,Skill 2,116,source_unspecified,,0,atlas_zenitsu-agatsuma,source_imported
+zenitsu-agatsuma:s6:passive:10199604,zenitsu-agatsuma,s6,passive,被動技能,10199604,Thunder Breathing,雷之呼吸,Passive,,,,0,atlas_zenitsu-agatsuma,source_imported
+judas:awakened:basic:40204701,judas,awakened,basic,普通攻擊,40204701,,,Basic Attack,,,,0,atlas_judas,source_imported
+judas:awakened:s1:40204702,judas,awakened,s1,主動技能1,40204702,Vortex of Destruction,破滅的漩渦,Skill 1,96,source_unspecified,,0,atlas_judas,source_imported
+judas:awakened:ultimate:40204703,judas,awakened,ultimate,主動技能2,40204703,Final Power,最後的權位,Skill 2,119,source_unspecified,,0,atlas_judas,source_imported
+judas:awakened:passive:40204704,judas,awakened,passive,被動技能,40204704,Abyssal Power,深淵的權勢,Passive,,,,0,atlas_judas,source_imported
+judas:awakened:awakened:40204707,judas,awakened,awakened,覺醒技能,40204707,Judgment Day,審判之日,Awakened Skill,,,155,0,atlas_judas,source_imported
+judas:s6:basic:10204601,judas,s6,basic,普通攻擊,10204601,,,Basic Attack,,,,0,atlas_judas,source_imported
+judas:s6:s1:10204602,judas,s6,s1,主動技能1,10204602,Vortex of Destruction,破滅的漩渦,Skill 1,96,source_unspecified,,0,atlas_judas,source_imported
+judas:s6:ultimate:10204603,judas,s6,ultimate,主動技能2,10204603,Final Power,最後的權位,Skill 2,119,source_unspecified,,0,atlas_judas,source_imported
+judas:s6:passive:10204604,judas,s6,passive,被動技能,10204604,Abyssal Power,深淵的權勢,Passive,,,,0,atlas_judas,source_imported
+eve:awakened:basic:40206701,eve,awakened,basic,普通攻擊,40206701,,,Basic Attack,,,,0,atlas_eve,source_imported
+eve:awakened:s1:40206702,eve,awakened,s1,主動技能1,40206702,Time of Our Lives,創生的時間,Skill 1,84,source_unspecified,,0,atlas_eve,source_imported
+eve:awakened:ultimate:40206703,eve,awakened,ultimate,主動技能2,40206703,Paradise for Two,專屬於兩人的樂園,Skill 2,84,source_unspecified,,0,atlas_eve,source_imported
+eve:awakened:passive:40206704,eve,awakened,passive,被動技能,40206704,Maker of Living Dolls,生命的起源,Passive,,,,0,atlas_eve,source_imported
+eve:awakened:awakened:40206707,eve,awakened,awakened,覺醒技能,40206707,Dancing in Paradise,悲願的舞蹈,Awakened Skill,,,143,0,atlas_eve,source_imported
+eve:s6:basic:10206601,eve,s6,basic,普通攻擊,10206601,,,Basic Attack,,,,0,atlas_eve,source_imported
+eve:s6:s1:10206602,eve,s6,s1,主動技能1,10206602,Time of Our Lives,創生的時間,Skill 1,84,source_unspecified,,0,atlas_eve,source_imported
+eve:s6:ultimate:10206603,eve,s6,ultimate,主動技能2,10206603,Paradise for Two,專屬於兩人的樂園,Skill 2,84,source_unspecified,,0,atlas_eve,source_imported
+eve:s6:passive:10206604,eve,s6,passive,被動技能,10206604,Maker of Living Dolls,生命的起源,Passive,,,,0,atlas_eve,source_imported
+fai:source_default:basic:10121601,fai,source_default,basic,普通攻擊,10121601,,,Basic Attack,,,,0,atlas_fai,source_imported
+fai:source_default:s1:10121602,fai,source_default,s1,主動技能1,10121602,Spear of Agnia,阿格尼之槍,Skill 1,104,source_unspecified,,0,atlas_fai,source_imported
+fai:source_default:ultimate:10121603,fai,source_default,ultimate,主動技能2,10121603,Flame Dragon's Greetings,炎王龍的表演,Skill 2,90,source_unspecified,,0,atlas_fai,source_imported
+fai:source_default:passive:10121604,fai,source_default,passive,被動技能,10121604,Surging Flames,噴出的火焰,Passive,,,,0,atlas_fai,source_imported
+gelidus:source_default:basic:10119601,gelidus,source_default,basic,普通攻擊,10119601,,,Basic Attack,,,,0,atlas_gelidus,source_imported
+gelidus:source_default:s1:10119602,gelidus,source_default,s1,主動技能1,10119602,Tyrant's Memories,霸王的記憶,Skill 1,75,source_unspecified,,0,atlas_gelidus,source_imported
+gelidus:source_default:ultimate:10119603,gelidus,source_default,ultimate,主動技能2,10119603,Tyrant of the Skies,蒼穹的霸王,Skill 2,88,source_unspecified,,0,atlas_gelidus,source_imported
+gelidus:source_default:passive:10119604,gelidus,source_default,passive,被動技能,10119604,Ice Queen's Blessing,冰雪女王的保佑,Passive,,,,0,atlas_gelidus,source_imported
+juri:source_default:basic:10125601,juri,source_default,basic,普通攻擊,10125601,,,Basic Attack,,,,0,atlas_juri,source_imported
+juri:source_default:s1:10125602,juri,source_default,s1,主動技能1,10125602,Celestial Judgment,天界的審判,Skill 1,84,source_unspecified,,0,atlas_juri,source_imported
+juri:source_default:ultimate:10125603,juri,source_default,ultimate,主動技能2,10125603,Ultimate Verdict,最高判決,Skill 2,96,source_unspecified,,0,atlas_juri,source_imported
+juri:source_default:passive:10125604,juri,source_default,passive,被動技能,10125604,Divine Scale,神之秤,Passive,,,,0,atlas_juri,source_imported
+melia:source_default:basic:10120601,melia,source_default,basic,普通攻擊,10120601,,,Basic Attack,,,,0,atlas_melia,source_imported
+melia:source_default:s1:10120602,melia,source_default,s1,主動技能1,10120602,Crystal Dragon's Mirrors,水晶龍的鏡子,Skill 1,100,source_unspecified,,0,atlas_melia,source_imported
+melia:source_default:ultimate:10120603,melia,source_default,ultimate,主動技能2,10120603,Crystalline Breath,水晶的氣息,Skill 2,104,source_unspecified,,0,atlas_melia,source_imported
+melia:source_default:passive:10120604,melia,source_default,passive,被動技能,10120604,Glittering Crystal Scales,晶瑩的鱗片,Passive,,,,0,atlas_melia,source_imported
+rosie:source_default:basic:10122601,rosie,source_default,basic,普通攻擊,10122601,,,Basic Attack,,,,0,atlas_rosie,source_imported
+rosie:source_default:s1:10122602,rosie,source_default,s1,主動技能1,10122602,Judgment of Moonlight,月光的審判,Skill 1,80,source_unspecified,,0,atlas_rosie,source_imported
+rosie:source_default:ultimate:10122603,rosie,source_default,ultimate,主動技能2,10122603,Holy Prayer,聖靈的祈禱,Skill 2,112,source_unspecified,,0,atlas_rosie,source_imported
+rosie:source_default:passive:10122604,rosie,source_default,passive,被動技能,10122604,Blessing of the Dead,亡者的祝福,Passive,,,,0,atlas_rosie,source_imported

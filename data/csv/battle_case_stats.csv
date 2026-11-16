@@ -1,0 +1,4 @@
+﻿case_stat_id,case_id,hero_id,level,enhancement,attack_type,attack,defense,hp,speed,crit_pct,crit_damage_pct,weakness_pct,block_pct,effect_hit_pct,effect_resist_pct,damage_reduction_pct,damage_amplification_pct,crush_pct,resilience_pct,rejuvenate_pct,source_id
+1,user_win_20261116_01,aris,30,5,physical,3864,1673,14922,25,9,150,0,52,0,20,42,0,0,48,0,user_win_20261116
+2,user_win_20261116_01,li,30,5,physical,1801,2275,18203,28,5,150,10,62,10,0,32,0,0,36,0,user_win_20261116
+3,user_win_20261116_01,clemyth,30,5,magic,2324,1980,17142,23,13,156,0,36,5,65,42,0,0,42,0,user_win_20261116

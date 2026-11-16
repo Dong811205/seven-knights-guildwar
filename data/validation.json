@@ -1,0 +1,50 @@
+{
+  "checks": {
+    "sqlite_integrity": "ok",
+    "foreign_keys": "ok",
+    "unique_hero_ids": "ok",
+    "unique_skill_ids": "ok",
+    "released_heroes_have_skills": "ok",
+    "all_128_source_files": "ok",
+    "all_128_translation_files": "ok",
+    "user_case_aris_resilience_48": "ok",
+    "transformed_skills_not_overwritten": "ok",
+    "guildwar_all_heroes_resolved": "ok",
+    "guildwar_all_matchup_references_resolved": "ok",
+    "guildwar_three_members_per_team": "ok",
+    "guildwar_counter_direction": "ok",
+    "guildwar_conflicts_excluded": "ok",
+    "guildwar_unused_variants_excluded": "ok",
+    "guildwar_sqlite_foreign_keys": "ok"
+  },
+  "coverage": {
+    "heroes": 128,
+    "released_in_source": 125,
+    "unreleased_in_source": 3,
+    "full_source_heroes": 128,
+    "tw_translation_heroes": 128,
+    "skills": 619,
+    "skill_effects": 1624,
+    "skill_upgrades": 1099,
+    "effect_definitions": 1349,
+    "missing_tw_effect_lines": 3,
+    "officially_fully_verified_heroes": 0,
+    "battle_cases": 1,
+    "guildwar_groups": 31,
+    "guildwar_team_variants": 108,
+    "guildwar_hero_builds": 121,
+    "guildwar_matchup_claims": 206,
+    "guildwar_expanded_matchup_rows": 396,
+    "guildwar_unique_attack_defense_pairs": 393,
+    "guildwar_source_conflicts": 3,
+    "guildwar_unused_variants": 16
+  },
+  "not_tested": [
+    "官方逐項技能一致性",
+    "隱藏戰鬥結算順序",
+    "各伺服器角色開放狀態",
+    "出刀勝率",
+    "完整戰鬥模擬",
+    "7K Atlas出刀建議的實戰勝率"
+  ]
+}
