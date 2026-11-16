@@ -1,3 +1,4 @@
+import * as thumbnails from '../card-thumbnails.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import vm from 'node:vm';import {JSDOM} from 'jsdom';
 import * as quick from '../quick-posts.mjs';
 import * as reservations from '../skill-reservations.mjs';
@@ -18,7 +19,7 @@ test('editor role dropdowns, badges, mixed set and per-enemy configuration save 
  const db=database(),dom=new JSDOM(html,{url:'https://dong811205.github.io/seven-knights-guildwar/guild.html',runScripts:'outside-only'}),w=dom.window;t.after(()=>w.close());
  w.URL.revokeObjectURL=()=>{};w.URL.createObjectURL=()=> 'blob:test';w.structuredClone=structuredClone;w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};w.confirm=()=>true;
  w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:String(url).startsWith('skill-catalog.json')?skillCatalog:data)});
- Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'not-a-real-key',...models,...choices,...reservations,...quick});
+ Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'not-a-real-key',...models,...choices,...reservations,...quick,...thumbnails});
  await new vm.Script(`(async()=>{${source}\n})()`).runInContext(dom.getInternalVMContext());
  await until(()=>w.document.querySelector('[data-g="new"]'));
  const $=s=>w.document.querySelector(s),click=s=>{const el=$(s);assert.ok(el,s);el.click()},change=(s,v)=>{const el=$(s);assert.ok(el,s);el.value=v;assert.equal(el.value,v);el.dispatchEvent(new w.Event('change',{bubbles:true}))},input=(s,v)=>{const el=$(s);assert.ok(el,s);el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:true}))};
@@ -78,7 +79,7 @@ test('Discord reconnect deduplicates verification, preserves provider token and 
  const intervals=[];w.setInterval=(fn,ms)=>{intervals.push({fn,ms});return intervals.length};let now=Date.now();w.Date.now=()=>now;
  w.URL.revokeObjectURL=()=>{};w.structuredClone=structuredClone;w.scrollTo=()=>{};w.confirm=()=>true;
  w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:String(url).startsWith('skill-catalog.json')?skillCatalog:data)});
- Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices,...reservations,...quick});
+ Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices,...reservations,...quick,...thumbnails});
  await new vm.Script(`(async()=>{${source}\nwindow.qa={S,verify};})()`).runInContext(dom.getInternalVMContext());
  await until(()=>w.document.querySelector('[data-g="new"]'));w.document.querySelector('[data-g="new"]').click();
  const title=w.document.querySelector('[data-path="title"]');title.value='未儲存攻略';title.dispatchEvent(new w.Event('input',{bubbles:true}));
@@ -97,7 +98,7 @@ test('quick screenshot paste limits ten, keeps failed upload as draft, retries a
  w.URL.revokeObjectURL=()=>{};w.URL.createObjectURL=()=> 'blob:test';w.structuredClone=structuredClone;w.scrollTo=()=>{};w.confirm=()=>true;
  w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:String(url).startsWith('skill-catalog.json')?skillCatalog:data)});
  let calls=0,failed=false;const uploaded=[];db.client.storage={from(){return {async upload(path){calls++;if(calls===2&&!failed){failed=true;return {error:{message:'暫時無法上傳'}}}uploaded.push(path);return {error:null}},async download(){return {data:new w.Blob(['png'],{type:'image/png'}),error:null}}}}};
- Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices,...reservations,...quick});
+ Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices,...reservations,...quick,...thumbnails});
  await new vm.Script(`(async()=>{${source}\n})()`).runInContext(dom.getInternalVMContext());await until(()=>w.document.querySelector('[data-g="quick-new"]'));w.document.querySelector('[data-g="quick-new"]').click();
  const files=Array.from({length:11},(_,i)=>new w.File(['png'],`image${i}.png`,{type:'image/png'}));const event=new w.Event('paste',{bubbles:true,cancelable:true});Object.defineProperty(event,'clipboardData',{value:{items:files.map(file=>({kind:'file',getAsFile:()=>file}))}});w.document.querySelector('#quick-dropzone').dispatchEvent(event);
  assert.equal(w.document.querySelectorAll('.quick-previews figure').length,10);assert.match(w.document.querySelector('#quick-error').textContent,/最多10/);

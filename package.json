@@ -1,6 +1,6 @@
 {
   "name": "seven-knights-guildwar",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "七騎士公會戰出刀助手與 Discord 公會內部攻略",
   "directories": {
     "test": "tests"
