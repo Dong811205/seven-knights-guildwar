@@ -1,0 +1,4 @@
+[functions.discord-access]
+# The handler validates every Supabase bearer token using auth.getUser().
+# Disable legacy gateway JWT checks so publishable keys work.
+verify_jwt = false

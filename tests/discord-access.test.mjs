@@ -1,0 +1,21 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import {transform} from 'esbuild';
+const source=(await readFile(new URL('../supabase/functions/discord-access/index.ts',import.meta.url),'utf8')).replace(/import \{ createClient \} from '[^']+';/,"const createClient=(...args)=>globalThis.testAdmin;");
+const js=(await transform(source,{loader:'ts',format:'esm'})).code;
+const originalFetch=globalThis.fetch;let handler,calls=[],mode='valid',roleInput;
+const discordId='123456789012345678',userId='11111111-1111-4111-8111-111111111111';
+globalThis.Deno={env:{get:k=>({SUPABASE_URL:'https://example.supabase.co',SUPABASE_SECRET_KEYS:'{"default":"testing-not-a-real-secret"}'}[k])},serve:fn=>handler=fn};
+globalThis.testAdmin={auth:{getUser:async token=>token==='valid-session'?{data:{user:{id:userId,identities:[{provider:'discord',identity_data:{provider_id:discordId}}]}}}:{data:{user:null},error:new Error('invalid')}},rpc:async(name,args)=>{calls.push(name);if(name==='gvg_discord_settings')return {data:{discord_guild_id:'999999999999999999'}};roleInput=args;return {data:{allowed:args.p_roles.length>0,role:'editor'}};}};
+await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+globalThis.fetch=async(url,init)=>{
+ assert.equal(init.headers.Authorization,'Bearer real-discord-token-for-test');
+ if(url.endsWith('/users/@me'))return new Response(JSON.stringify({id:mode==='mismatch'?'777777777777777777':discordId,username:'test'}),{status:mode==='expired'?401:200});
+ if(mode==='notmember')return new Response('{}',{status:404});
+ return new Response(JSON.stringify({roles:['server-editor-role'],nick:'Test',pending:mode==='pending'}));
+};
+const request=(body={},token='valid-session',origin='https://dong811205.github.io')=>new Request('https://example.supabase.co/functions/v1/discord-access',{method:'POST',headers:{Origin:origin,Authorization:`Bearer ${token}`,'Content-Type':'application/json'},body:JSON.stringify({provider_token:'real-discord-token-for-test',...body})});
+test('reject invalid Supabase session before contacting Discord',async()=>{calls=[];const r=await handler(request({},'invalid'));assert.equal(r.status,401);assert.deepEqual(calls,[])});
+test('ignore client role claims and use Discord verified roles',async()=>{mode='valid';calls=[];const r=await handler(request({roles:['admin'],user_id:'another-user'}));assert.equal(r.status,200);assert.deepEqual(roleInput.p_roles,['server-editor-role']);assert.equal(roleInput.p_user,userId);assert.equal(roleInput.p_discord_id,discordId)});
+test('cannot present a different Discord users token',async()=>{mode='mismatch';calls=[];const r=await handler(request());assert.equal(r.status,403);assert.equal(calls.includes('gvg_sync_discord_member'),false)});
+test('expired provider token never renews membership',async()=>{mode='expired';calls=[];const r=await handler(request());assert.equal(r.status,401);assert.equal(calls.includes('gvg_sync_discord_member'),false)});
+test('leaving server or pending screening removes membership',async()=>{for(const m of ['notmember','pending']){mode=m;const r=await handler(request());assert.equal((await r.json()).allowed,false);assert.deepEqual(roleInput.p_roles,[])}});
+test('wrong origins cannot call verification service',async()=>{mode='valid';const r=await handler(request({},'valid-session','https://another.example'));assert.equal(r.status,403);globalThis.fetch=originalFetch;delete globalThis.Deno;delete globalThis.testAdmin;});

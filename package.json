@@ -1,0 +1,31 @@
+{
+  "name": "seven-knights-guildwar",
+  "version": "0.4.0",
+  "description": "七騎士公會戰出刀助手與 Discord 公會內部攻略",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build:vendor": "esbuild src/guild-entry.mjs --bundle --format=esm --minify --legal-comments=external --outfile=vendor/supabase.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dong811205/seven-knights-guildwar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dong811205/seven-knights-guildwar/issues"
+  },
+  "homepage": "https://github.com/Dong811205/seven-knights-guildwar#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "2.119.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.16",
+    "esbuild": "0.28.2"
+  }
+}

@@ -1,5 +1,19 @@
 # 七騎士 Re:BIRTH 角色與技能資料庫 v0.2
 
+## v0.4：Discord 公會內部攻略
+
+[公會攻略入口](https://dong811205.github.io/seven-knights-guildwar/guild.html) · [Discord 啟用設定](supabase/SETUP.md)
+
+- 公開出刀建議保留；內部攻略另外存放於 Supabase，無法從 GitHub 原始碼讀取。
+- 會員用 Discord 登入。指定 viewer 身分組可讀與回報；editor 可新增／編輯自己的攻略；admin 可整理全公會攻略。
+- 攻略包含我方角色／型態／站位／寵物、各角色的必要／建議素質、套裝、武防、副屬性、飾品、專屬裝備。
+- 同篇可加入多組敵方陣容，每組各自指定出技順序、速度先手條件、敵方配置限制與換裝方案。
+- 草稿、私有圖片及成功／失敗回報均由後端 RLS 控制；不把攻略內容存到 localStorage。
+
+**目前狀態：網頁與後端已部署；Discord OAuth 及實際伺服器／身分組尚待管理員設定，內部入口預設鎖定。** 一般成員與幹部都不需另外註冊帳密，但使用 Discord 登入時仍會自動建立網站會員身分。
+
+身分資格每分鐘向 Discord 重驗、資料庫有效期2分鐘。移除身分組或離群後不會永久保留權限；已看過／下載的內容無法撤回。測試包含 PostgreSQL RLS、跨公會與草稿隔離、圖片權限、角色降權與 Discord 身分冒用拒絕；執行 `npm ci && npm test`。真實 Discord 登入需完成設定後再驗證。
+
 ## 手機直接查詢
 
 **[開啟七騎士公會戰出刀助手](https://dong811205.github.io/seven-knights-guildwar/)**
