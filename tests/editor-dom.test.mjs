@@ -1,7 +1,9 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import vm from 'node:vm';import {JSDOM} from 'jsdom';
+import * as reservations from '../skill-reservations.mjs';
 import * as models from '../guild-model.mjs';import * as choices from '../guide-options.mjs';
 const data=JSON.parse(await readFile(new URL('../app-data.json',import.meta.url),'utf8'));
 const catalog=JSON.parse(await readFile(new URL('../guide-catalog.json',import.meta.url),'utf8'));
+const skillCatalog=JSON.parse(await readFile(new URL('../skill-catalog.json',import.meta.url),'utf8'));
 const html=await readFile(new URL('../guild.html',import.meta.url),'utf8');
 const source=(await readFile(new URL('../guild.mjs',import.meta.url),'utf8')).replace(/^import .*;\n/gm,'');
 const uid='11111111-1111-4111-8111-111111111111',gid='99999999-9999-4999-8999-999999999999';
@@ -14,8 +16,8 @@ async function until(fn){for(let i=0;i<100;i++){if(fn())return;await new Promise
 test('editor role dropdowns, badges, mixed set and per-enemy configuration save and reload',async t=>{
  const db=database(),dom=new JSDOM(html,{url:'https://dong811205.github.io/seven-knights-guildwar/guild.html',runScripts:'outside-only'}),w=dom.window;t.after(()=>w.close());
  w.URL.revokeObjectURL=()=>{};w.URL.createObjectURL=()=> 'blob:test';w.structuredClone=structuredClone;w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};w.confirm=()=>true;
- w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:data)});
- Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'not-a-real-key',...models,...choices});
+ w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:String(url).startsWith('skill-catalog.json')?skillCatalog:data)});
+ Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'not-a-real-key',...models,...choices,...reservations});
  await new vm.Script(`(async()=>{${source}\n})()`).runInContext(dom.getInternalVMContext());
  await until(()=>w.document.querySelector('[data-g="new"]'));
  const $=s=>w.document.querySelector(s),click=s=>{const el=$(s);assert.ok(el,s);el.click()},change=(s,v)=>{const el=$(s);assert.ok(el,s);el.value=v;assert.equal(el.value,v);el.dispatchEvent(new w.Event('change',{bubbles:true}))},input=(s,v)=>{const el=$(s);assert.ok(el,s);el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:true}))};
@@ -28,6 +30,16 @@ test('editor role dropdowns, badges, mixed set and per-enemy configuration save 
   assert.deepEqual(Array.from(select.options).slice(1).map(o=>o.value),expected.map(h=>h.hero_id));change(`[data-path="${path}.id"]`,expected[0].hero_id);
  }
  assert.equal($('[data-path="title"]').value,'DOM測試攻略');
+ const firstBoard=$('[data-queue-scope="general"]'),initialOrder=Array.from(firstBoard.querySelector('.reservation-skills').children).map(x=>x.dataset.skillSlot);
+ assert.deepEqual(initialOrder,['s2','s1']);
+ const firstSkill=firstBoard.querySelector('[data-skill="s1"]');firstSkill.click();
+ assert.equal($('[data-queue-scope="general"] .reservation-badge').textContent,'預約1');
+ assert.deepEqual(Array.from($('[data-queue-scope="general"] .reservation-skills').children).map(x=>x.dataset.skillSlot),initialOrder);
+ click('[data-queue-scope="general"] [data-skill="s2"]');assert.equal($('[data-queue-scope="general"] [data-skill="s2"] .reservation-badge').textContent,'預約2');
+ click('[data-g="queue-down"][data-i="general"][data-j="0"]');assert.equal($('[data-queue-scope="general"] [data-skill="s1"] .reservation-badge').textContent,'預約2');
+ click('[data-g="queue-remove"][data-i="general"][data-j="0"]');assert.equal($('[data-queue-scope="general"] [data-skill="s1"] .reservation-badge').textContent,'預約1');
+ click('[data-queue-scope="general"] [data-skill="s1"]');assert.equal($('[data-queue-scope="general"] .reservation-badge'),null);
+
  assert.ok($('[data-role-path="build.heroes.0"]').parentElement.querySelector('.visual-picker summary img'));
  assert.ok($('[data-path="build.heroes.0.id"]').parentElement.querySelector('.visual-options img'));
  change('[data-path="build.formation"]','攻擊陣型');
@@ -39,14 +51,14 @@ test('editor role dropdowns, badges, mixed set and per-enemy configuration save 
  change('[data-path="build.heroes.0.weapon"]','Crit');change('[data-path="build.heroes.0.armor"]','Block');
  change('[data-path="build.heroes.0.accessory_rarity"]','L');change('[data-path="build.heroes.0.accessory_kind"]','compound');
  change('[data-path="build.heroes.0.accessory_effect_1"]','Guts');change('[data-path="build.heroes.0.accessory_effect_2"]','Immortal');change('[data-path="build.heroes.0.exclusive"]','DMGAmp');
- click('[data-g="queue-add"][data-i="general"]');change('[data-path="build.queue.0.skill"]','s2');
+ click('[data-g="skill-toggle"][data-i="general"][data-skill="s2"]');
 
  assert.equal($('.set-picker [data-value="刺客"] img').getAttribute('src'),'assets/sets/assassin.webp');const summary=$('.set-picker summary');summary.focus();summary.dispatchEvent(new w.KeyboardEvent('keydown',{key:'ArrowUp',bubbles:true}));assert.equal(w.document.activeElement.dataset.value,'雜套');w.document.activeElement.dispatchEvent(new w.KeyboardEvent('keydown',{key:'Escape',bubbles:true}));assert.equal($('.set-picker').open,false);click('.set-picker [data-value="雜套"]');
  assert.ok($('[data-path="build.heroes.0.mixed_stat"]'));change('[data-path="build.heroes.0.mixed_stat"]','speed');
  for(const [i,type]of ['Defense','Universal','Attack'].entries()){
   const path=`build.matchups.0.heroes.${i}`;change(`[data-role-path="${path}"]`,type);change(`[data-path="${path}.id"]`,choices.heroesByType(data.heroes,type)[0].hero_id);
  }
- click('[data-g="queue-add"][data-i="0"]');change('[data-path="build.matchups.0.queue.0.skill"]','s2');input('[data-path="build.matchups.0.speed"]','甲速度 > 乙速度');
+ click('[data-g="skill-toggle"][data-i="0"][data-skill="s2"]');input('[data-path="build.matchups.0.speed"]','甲速度 > 乙速度');
  click('[data-g="save"][data-status="draft"]');await until(()=>w.document.querySelector('[data-g="edit"]')).catch(e=>{console.error('editor message:',w.document.querySelector('#guild-form-error')?.textContent,'toast:',w.document.querySelector('#guild-toast')?.textContent,'saved:',db.tables.gvg_guides.length);throw e});
  assert.equal(db.tables.gvg_guides.length,1);const saved=db.tables.gvg_guides[0];assert.equal(saved.build.special_notes,'攻速必須先確認 <重要>');assert.equal(saved.build.queue[0].skill,'s2');assert.equal(saved.build.heroes[0].weapon,'Crit');assert.equal(saved.build.heroes[0].accessory_effect_2,'Immortal');assert.equal(saved.build.heroes[0].exclusive,'DMGAmp');assert.equal(w.document.querySelector('.strategy-warning div').textContent,'攻速必須先確認 <重要>');assert.equal(saved.build.heroes[0].set,'雜套');assert.equal(saved.build.heroes[0].mixed_stat,'speed');assert.equal(saved.build.matchups[0].queue[0].skill,'s2');assert.equal(saved.build.matchups[0].speed,'甲速度 > 乙速度');assert.ok(w.document.body.textContent.includes('雜套 · 優先攻速'));
  click('[data-g="edit"]');assert.equal($('[data-path="build.formation"]').value,'保護陣型');assert.equal($('[data-path="build.pet.name"]').value,'路路');assert.equal($('[data-role-path="build.heroes.0"]').value,'Attack');assert.equal($('[data-path="build.heroes.0.mixed_stat"]').value,'speed');
@@ -56,8 +68,8 @@ test('Discord reconnect deduplicates verification, preserves provider token and 
  const db=database(),dom=new JSDOM(html,{url:'https://dong811205.github.io/seven-knights-guildwar/guild.html',runScripts:'outside-only',pretendToBeVisual:true}),w=dom.window;t.after(()=>w.close());
  const intervals=[];w.setInterval=(fn,ms)=>{intervals.push({fn,ms});return intervals.length};let now=Date.now();w.Date.now=()=>now;
  w.URL.revokeObjectURL=()=>{};w.structuredClone=structuredClone;w.scrollTo=()=>{};w.confirm=()=>true;
- w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:data)});
- Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices});
+ w.fetch=async url=>({ok:true,json:async()=>structuredClone(String(url).includes('/auth/')?{external:{discord:true}}:String(url).startsWith('guide-catalog.json')?catalog:String(url).startsWith('skill-catalog.json')?skillCatalog:data)});
+ Object.assign(w,{createClient:()=>db.client,SUPABASE_URL:'https://example.supabase.co',SUPABASE_PUBLISHABLE_KEY:'test',...models,...choices,...reservations});
  await new vm.Script(`(async()=>{${source}\nwindow.qa={S,verify};})()`).runInContext(dom.getInternalVMContext());
  await until(()=>w.document.querySelector('[data-g="new"]'));w.document.querySelector('[data-g="new"]').click();
  const title=w.document.querySelector('[data-path="title"]');title.value='未儲存攻略';title.dispatchEvent(new w.Event('input',{bubbles:true}));

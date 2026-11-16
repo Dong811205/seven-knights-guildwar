@@ -21,3 +21,13 @@
 - 飾品效果與稀有度：`https://7katlas.com/acc-icons.js`。分開記錄原始效果，復合戒指由兩個效果構成，不把範例組合當成額外效果。紀念戒指保留獨立名稱。
 - 專屬裝備調律屬性：`https://7katlas.com/gear-icons.js` 和 `https://7katlas.com/BUILD%20CALCULATOR/dedicated_tuning.js`；共9種，每種3檔數值。來源計算器對所有角色使用同一調律池，未限制某角色只能抽到某種調律屬性。角色本身專屬裝備技能不混入調律選單。
 - 繁中名稱核對 `https://7katlas.com/lang/tw/ui.js`；防禦力主屬性名稱按能力值語境處理，避免誤用「防禦型」角色分類。
+
+## Battle skill reservation icons · 2026-11-16
+
+- Source records: 7K Atlas's `heroDataLoaded(...)` hero data, cached as `en_<hero_id>.js`; original icon URLs are taken verbatim from each skill's `icon` field under `images/skillsraw/heroes/`.
+- Exact skill identity uses `skill_group_id`, the source form (`skills` or `skills_s6`), and explicit source key. `s1` is queue `s1`; source `ultimate` is queue `s2`; source `awakened` is queue `awakened`. Normal attacks and passives are excluded.
+- Supplied game screenshots confirm top-to-bottom button order **Awakened → Skill 2 → Skill 1** for Li, Clemyth, Giyu Tomioka and Hayeon. Unawakened forms omit the awakened slot; translated names and icon filename numbers are never used to sort skills. For example Dellons' Skill 1/2 icon filename suffixes are not in semantic slot order.
+- `skill-catalog.json` records the exact form, group ID, local original icon, localized skill name and optional converted variants. Jupy, Dellons and Sun Wukong's converted icons remain attached to their original slot rather than becoming extra reordered slots.
+- Rebuild with `python tools/prepare_skill_catalog.py /absolute/source_cache`. The import aborts on missing source forms or invalid/non-WebP downloads. Copyrights remain with Netmarble and the respective rights holders.
+
+- 覺醒型態角色頭像使用來源 `portraits.awk` 對應原始縮圖，路徑依來源 `hero-panel.js` 的 `thumbOf`（`images/heroes/raw/` → `images/heroes/thumb/`）取得，與技能型態一致；不混用未覺醒頭像。

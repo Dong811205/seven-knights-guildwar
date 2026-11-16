@@ -1,0 +1,3793 @@
+{
+  "updated_at": "2026-11-16",
+  "order": [
+    "awakened",
+    "s2",
+    "s1"
+  ],
+  "order_evidence": {
+    "source": "Game battle UI screenshots supplied by the user, 2026-11-16",
+    "confirmed_heroes": [
+      "li",
+      "clemyth",
+      "giyu-tomioka",
+      "hayeon"
+    ],
+    "rule": "Top to bottom: awakened, Skill 2 (source ultimate), Skill 1 (source s1). Unawakened heroes omit the awakened slot. No sorting by icon filename."
+  },
+  "source": "https://7katlas.com/hero/",
+  "heroes": {
+    "ariel": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10065603,
+            "icon": "assets/skills/Tex_Skill_1006503.webp",
+            "name_tw": "眩目之光",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10065602,
+            "icon": "assets/skills/Tex_Skill_1006502.webp",
+            "name_tw": "光之審判",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ariel.webp"
+      }
+    },
+    "asura": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10099603,
+            "icon": "assets/skills/Tex_Skill_1009903.webp",
+            "name_tw": "精靈的加持",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10099602,
+            "icon": "assets/skills/Tex_Skill_1009902.webp",
+            "name_tw": "精靈的大刀",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/asura.webp"
+      }
+    },
+    "bane": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10028603,
+            "icon": "assets/skills/Tex_Skill_1002803.webp",
+            "name_tw": "魔焰光球",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10028602,
+            "icon": "assets/skills/Tex_Skill_1002802.webp",
+            "name_tw": "魔力湧現",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/bane.webp"
+      }
+    },
+    "black-rose": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10111603,
+            "icon": "assets/skills/Tex_Skill_1011103.webp",
+            "name_tw": "凋謝的玫瑰",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10111602,
+            "icon": "assets/skills/Tex_Skill_1011102.webp",
+            "name_tw": "閃電穿透",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/black-rose.webp"
+      }
+    },
+    "catty": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10115603,
+            "icon": "assets/skills/Tex_Skill_1011503.webp",
+            "name_tw": "尋找弱點",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10115602,
+            "icon": "assets/skills/Tex_Skill_1011502.webp",
+            "name_tw": "亂爪",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/catty.webp"
+      }
+    },
+    "chloe": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10097603,
+            "icon": "assets/skills/Tex_Skill_1009703.webp",
+            "name_tw": "貓咪之舞",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10097602,
+            "icon": "assets/skills/Tex_Skill_1009702.webp",
+            "name_tw": "打掃時間",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/chloe.webp"
+      }
+    },
+    "cleo": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10035603,
+            "icon": "assets/skills/Tex_Skill_1003503.webp",
+            "name_tw": "詩仙",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10035602,
+            "icon": "assets/skills/Tex_Skill_1003502.webp",
+            "name_tw": "劇毒",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/cleo.webp"
+      }
+    },
+    "evan": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10075603,
+            "icon": "assets/skills/Tex_Skill_1007503.webp",
+            "name_tw": "平衡之盾",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10075602,
+            "icon": "assets/skills/Tex_Skill_1007502.webp",
+            "name_tw": "連續攻擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/evan.webp"
+      }
+    },
+    "feng-yan": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10068603,
+            "icon": "assets/skills/Tex_Skill_1006803.webp",
+            "name_tw": "以氣御劍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10068602,
+            "icon": "assets/skills/Tex_Skill_1006802.webp",
+            "name_tw": "九陰劍擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/feng-yan.webp"
+      }
+    },
+    "heavenia": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40067707,
+            "icon": "assets/skills/Tex_Skill_4006706.webp",
+            "name_tw": "流星爆炸",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40067703,
+            "icon": "assets/skills/Tex_Skill_1006703.webp",
+            "name_tw": "猛烈攻擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40067702,
+            "icon": "assets/skills/Tex_Skill_1006702.webp",
+            "name_tw": "劍的審判",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10067603,
+            "icon": "assets/skills/Tex_Skill_1006703.webp",
+            "name_tw": "猛烈攻擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10067602,
+            "icon": "assets/skills/Tex_Skill_1006702.webp",
+            "name_tw": "劍的審判",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/heavenia-awakened.webp",
+        "s6": "assets/heroes/heavenia.webp"
+      }
+    },
+    "hellenia": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40066707,
+            "icon": "assets/skills/Tex_Skill_4006606.webp",
+            "name_tw": "救贖的祝福",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40066703,
+            "icon": "assets/skills/Tex_Skill_1006603.webp",
+            "name_tw": "天空之盾",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40066702,
+            "icon": "assets/skills/Tex_Skill_1006602.webp",
+            "name_tw": "天空之光",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10066603,
+            "icon": "assets/skills/Tex_Skill_1006603.webp",
+            "name_tw": "天空之盾",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10066602,
+            "icon": "assets/skills/Tex_Skill_1006602.webp",
+            "name_tw": "天空之光",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/hellenia-awakened.webp",
+        "s6": "assets/heroes/hellenia.webp"
+      }
+    },
+    "hokin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10007603,
+            "icon": "assets/skills/Tex_Skill_1000703.webp",
+            "name_tw": "敏捷的騎士",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10007602,
+            "icon": "assets/skills/Tex_Skill_1000702.webp",
+            "name_tw": "武器投擲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/hokin.webp"
+      }
+    },
+    "jane": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10092603,
+            "icon": "assets/skills/Tex_Skill_1009203.webp",
+            "name_tw": "重創要害",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10092602,
+            "icon": "assets/skills/Tex_Skill_1009202.webp",
+            "name_tw": "伏兵之計",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/jane.webp"
+      }
+    },
+    "jin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10116603,
+            "icon": "assets/skills/Tex_Skill_1011603.webp",
+            "name_tw": "極限連斬拳",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10116602,
+            "icon": "assets/skills/Tex_Skill_1011602.webp",
+            "name_tw": "真-破空拳",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/jin.webp"
+      }
+    },
+    "joker": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10077603,
+            "icon": "assets/skills/Tex_Skill_1007703.webp",
+            "name_tw": "魔術帽",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10077602,
+            "icon": "assets/skills/Tex_Skill_1007702.webp",
+            "name_tw": "Full House",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/joker.webp"
+      }
+    },
+    "jupy": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10074603,
+            "icon": "assets/skills/Tex_Skill_1007405.webp",
+            "name_tw": "狙擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10074602,
+            "icon": "assets/skills/Tex_Skill_1007403.webp",
+            "name_tw": "狙擊姿態",
+            "converts": false,
+            "converted_variants": [
+              {
+                "key": "s1",
+                "source_key": "s1",
+                "skill_group_id": 10074605,
+                "icon": "assets/skills/Tex_Skill_1007402.webp",
+                "name_tw": "三重狙擊",
+                "converts": true
+              }
+            ]
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/jupy.webp"
+      }
+    },
+    "karin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10076603,
+            "icon": "assets/skills/Tex_Skill_1007603.webp",
+            "name_tw": "復活",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10076602,
+            "icon": "assets/skills/Tex_Skill_1007602.webp",
+            "name_tw": "恢復",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/karin.webp"
+      }
+    },
+    "karon": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10078603,
+            "icon": "assets/skills/Tex_Skill_1007803.webp",
+            "name_tw": "自然的氣息",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10078602,
+            "icon": "assets/skills/Tex_Skill_1007802.webp",
+            "name_tw": "自然恢復",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/karon.webp"
+      }
+    },
+    "lania": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10042603,
+            "icon": "assets/skills/Tex_Skill_1004203.webp",
+            "name_tw": "暴風雪",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10042602,
+            "icon": "assets/skills/Tex_Skill_1004202.webp",
+            "name_tw": "寒冰碎片",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/lania.webp"
+      }
+    },
+    "lee-joohee": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10176603,
+            "icon": "assets/skills/Tex_Skill_1017603.webp",
+            "name_tw": "治癒之手",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10176602,
+            "icon": "assets/skills/Tex_Skill_1017602.webp",
+            "name_tw": "慈愛之心",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/lee-joohee.webp"
+      }
+    },
+    "leo": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10021603,
+            "icon": "assets/skills/Tex_Skill_1002103.webp",
+            "name_tw": "獅子吼",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10021602,
+            "icon": "assets/skills/Tex_Skill_1002102.webp",
+            "name_tw": "殺戮",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/leo.webp"
+      }
+    },
+    "li": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40064707,
+            "icon": "assets/skills/Tex_Skill_4006406.webp",
+            "name_tw": "波魔炎呪功",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40064703,
+            "icon": "assets/skills/Tex_Skill_1006403.webp",
+            "name_tw": "霸刀滅惡拳",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40064702,
+            "icon": "assets/skills/Tex_Skill_1006402.webp",
+            "name_tw": "金剛不壞",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10064603,
+            "icon": "assets/skills/Tex_Skill_1006403.webp",
+            "name_tw": "霸刀滅惡拳",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10064602,
+            "icon": "assets/skills/Tex_Skill_1006402.webp",
+            "name_tw": "金剛不壞",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/li-awakened.webp",
+        "s6": "assets/heroes/li.webp"
+      }
+    },
+    "ling-ling": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10149603,
+            "icon": "assets/skills/Tex_Skill_1014903.webp",
+            "name_tw": "暴龍昇天腳",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10149602,
+            "icon": "assets/skills/Tex_Skill_1014902.webp",
+            "name_tw": "氣功彈",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ling-ling.webp"
+      }
+    },
+    "lucy": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10080603,
+            "icon": "assets/skills/Tex_Skill_1008003.webp",
+            "name_tw": "神之加護",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10080602,
+            "icon": "assets/skills/Tex_Skill_1008002.webp",
+            "name_tw": "神秘的舞姿",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/lucy.webp"
+      }
+    },
+    "may": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10094603,
+            "icon": "assets/skills/Tex_Skill_1009403.webp",
+            "name_tw": "無差別亂射",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10094602,
+            "icon": "assets/skills/Tex_Skill_1009402.webp",
+            "name_tw": "護身用槍枝",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/may.webp"
+      }
+    },
+    "noho": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10098603,
+            "icon": "assets/skills/Tex_Skill_1009803.webp",
+            "name_tw": "破滅的古書",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10098602,
+            "icon": "assets/skills/Tex_Skill_1009802.webp",
+            "name_tw": "錯誤的紀錄",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/noho.webp"
+      }
+    },
+    "rahkun": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10014603,
+            "icon": "assets/skills/Tex_Skill_1001403.webp",
+            "name_tw": "半獸人王的吶喊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10014602,
+            "icon": "assets/skills/Tex_Skill_1001402.webp",
+            "name_tw": "鋼鐵的肌膚",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rahkun.webp"
+      }
+    },
+    "rei": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10118603,
+            "icon": "assets/skills/Tex_Skill_1011803.webp",
+            "name_tw": "單刀暴雨",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10118602,
+            "icon": "assets/skills/Tex_Skill_1011802.webp",
+            "name_tw": "快速殺法",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rei.webp"
+      }
+    },
+    "sarah": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10048603,
+            "icon": "assets/skills/Tex_Skill_1004803.webp",
+            "name_tw": "惡魔之吻",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10048602,
+            "icon": "assets/skills/Tex_Skill_1004802.webp",
+            "name_tw": "惡魔的誘惑",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sarah.webp"
+      }
+    },
+    "sera": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10093603,
+            "icon": "assets/skills/Tex_Skill_1009303.webp",
+            "name_tw": "亡靈之影",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10093602,
+            "icon": "assets/skills/Tex_Skill_1009302.webp",
+            "name_tw": "亡靈之笑",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sera.webp"
+      }
+    },
+    "snipper": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10073603,
+            "icon": "assets/skills/Tex_Skill_1007303.webp",
+            "name_tw": "死刑宣告",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10073602,
+            "icon": "assets/skills/Tex_Skill_1007302.webp",
+            "name_tw": "一齊掃射",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/snipper.webp"
+      }
+    },
+    "soi": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10071603,
+            "icon": "assets/skills/Tex_Skill_1007103.webp",
+            "name_tw": "亂棍猛擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10071602,
+            "icon": "assets/skills/Tex_Skill_1007102.webp",
+            "name_tw": "心臟射擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/soi.webp"
+      }
+    },
+    "sylvia": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10082603,
+            "icon": "assets/skills/Tex_Skill_1008203.webp",
+            "name_tw": "衰弱的詛咒",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10082602,
+            "icon": "assets/skills/Tex_Skill_1008202.webp",
+            "name_tw": "靈魂的氣息",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sylvia.webp"
+      }
+    },
+    "victoria": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10079603,
+            "icon": "assets/skills/Tex_Skill_1007903.webp",
+            "name_tw": "提振士氣",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10079602,
+            "icon": "assets/skills/Tex_Skill_1007902.webp",
+            "name_tw": "手槍射擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/victoria.webp"
+      }
+    },
+    "xiao": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10185603,
+            "icon": "assets/skills/Tex_Skill_1018503.webp",
+            "name_tw": "召喚血殭屍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10185602,
+            "icon": "assets/skills/Tex_Skill_1018502.webp",
+            "name_tw": "吸血",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/xiao.webp"
+      }
+    },
+    "yoo-jinho": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10175603,
+            "icon": "assets/skills/Tex_Skill_1017503.webp",
+            "name_tw": "黃金盾牌",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10175602,
+            "icon": "assets/skills/Tex_Skill_1017502.webp",
+            "name_tw": "意志的一擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/yoo-jinho.webp"
+      }
+    },
+    "yui": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10083603,
+            "icon": "assets/skills/Tex_Skill_1008303.webp",
+            "name_tw": "戰場的旋律",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10083602,
+            "icon": "assets/skills/Tex_Skill_1008302.webp",
+            "name_tw": "祝福的旋律",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/yui.webp"
+      }
+    },
+    "yuri": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10018603,
+            "icon": "assets/skills/Tex_Skill_1001803.webp",
+            "name_tw": "魔焰光球",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10018602,
+            "icon": "assets/skills/Tex_Skill_1001802.webp",
+            "name_tw": "吸取精氣",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/yuri.webp"
+      }
+    },
+    "zhao-yun": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10159603,
+            "icon": "assets/skills/Tex_Skill_1015903.webp",
+            "name_tw": "迴轉分裂槍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10159602,
+            "icon": "assets/skills/Tex_Skill_1015902.webp",
+            "name_tw": "天際鬥神腳",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/zhao-yun.webp"
+      }
+    },
+    "alice": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10095603,
+            "icon": "assets/skills/Tex_Skill_1009503.webp",
+            "name_tw": "我的卡片？",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10095602,
+            "icon": "assets/skills/Tex_Skill_1009502.webp",
+            "name_tw": "秘密之門",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/alice.webp"
+      }
+    },
+    "amelia": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10140603,
+            "icon": "assets/skills/Tex_Skill_1014003.webp",
+            "name_tw": "對應危機",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10140602,
+            "icon": "assets/skills/Tex_Skill_1014002.webp",
+            "name_tw": "禁止通行",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/amelia.webp"
+      }
+    },
+    "aragon": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10096603,
+            "icon": "assets/skills/Tex_Skill_1009603.webp",
+            "name_tw": "砲擊支援",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/aragon.webp"
+      }
+    },
+    "bai-jiao": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10155603,
+            "icon": "assets/skills/Tex_Skill_1015503.webp",
+            "name_tw": "魔神咒令",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10155602,
+            "icon": "assets/skills/Tex_Skill_1015502.webp",
+            "name_tw": "百閣幻毒",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/bai-jiao.webp"
+      }
+    },
+    "bai-long": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10154603,
+            "icon": "assets/skills/Tex_Skill_1015403.webp",
+            "name_tw": "雙截颱風擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10154602,
+            "icon": "assets/skills/Tex_Skill_1015402.webp",
+            "name_tw": "閃光十舞",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/bai-long.webp"
+      }
+    },
+    "ballista": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10091603,
+            "icon": "assets/skills/Tex_Skill_1009103.webp",
+            "name_tw": "死亡之影",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ballista.webp"
+      }
+    },
+    "bi-dam": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10070603,
+            "icon": "assets/skills/Tex_Skill_1007003.webp",
+            "name_tw": "汰轉砲火",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10070602,
+            "icon": "assets/skills/Tex_Skill_1007002.webp",
+            "name_tw": "巨弓神砲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/bi-dam.webp"
+      }
+    },
+    "cha-hae-in": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10174603,
+            "icon": "assets/skills/Tex_Skill_1017403.webp",
+            "name_tw": "劍舞",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10174602,
+            "icon": "assets/skills/Tex_Skill_1017402.webp",
+            "name_tw": "舞姬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/cha-hae-in.webp"
+      }
+    },
+    "chancellor": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10090603,
+            "icon": "assets/skills/Tex_Skill_1009003.webp",
+            "name_tw": "大地破壞",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10090602,
+            "icon": "assets/skills/Tex_Skill_1009002.webp",
+            "name_tw": "粉碎強襲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/chancellor.webp"
+      }
+    },
+    "daisy": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10117603,
+            "icon": "assets/skills/Tex_Skill_1011703.webp",
+            "name_tw": "火蝴蝶",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10117602,
+            "icon": "assets/skills/Tex_Skill_1011702.webp",
+            "name_tw": "飛火扇",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/daisy.webp"
+      }
+    },
+    "deo": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10186603,
+            "icon": "assets/skills/Tex_Skill_1018603.webp",
+            "name_tw": "山珍海味",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10186602,
+            "icon": "assets/skills/Tex_Skill_1018602.webp",
+            "name_tw": "輪盤人",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/deo.webp"
+      }
+    },
+    "diaochan": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10160603,
+            "icon": "assets/skills/Tex_Skill_1016003.webp",
+            "name_tw": "保護之歌",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10160602,
+            "icon": "assets/skills/Tex_Skill_1016002.webp",
+            "name_tw": "進軍歌",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/diaochan.webp"
+      }
+    },
+    "espada": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10086603,
+            "icon": "assets/skills/Tex_Skill_1008603.webp",
+            "name_tw": "神的審判",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10086602,
+            "icon": "assets/skills/Tex_Skill_1008602.webp",
+            "name_tw": "淨化彈",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/espada.webp"
+      }
+    },
+    "guan-yu": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10161603,
+            "icon": "assets/skills/Tex_Skill_1016103.webp",
+            "name_tw": "身先士卒",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10161602,
+            "icon": "assets/skills/Tex_Skill_1016102.webp",
+            "name_tw": "青龍月波斬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/guan-yu.webp"
+      }
+    },
+    "knox": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40049707,
+            "icon": "assets/skills/Tex_Skill_4004906.webp",
+            "name_tw": "深淵的劍風",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40049703,
+            "icon": "assets/skills/Tex_Skill_4004903.webp",
+            "name_tw": "破滅視線",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40049702,
+            "icon": "assets/skills/Tex_Skill_4004902.webp",
+            "name_tw": "地獄的波動",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10049603,
+            "icon": "assets/skills/Tex_Skill_1004903.webp",
+            "name_tw": "地獄的一擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10049602,
+            "icon": "assets/skills/Tex_Skill_1004902.webp",
+            "name_tw": "地獄之盾",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/knox-awakened.webp",
+        "s6": "assets/heroes/knox.webp"
+      }
+    },
+    "lina": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10072603,
+            "icon": "assets/skills/Tex_Skill_1007203.webp",
+            "name_tw": "溫暖的回音",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10072602,
+            "icon": "assets/skills/Tex_Skill_1007202.webp",
+            "name_tw": "行進歌",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/lina.webp"
+      }
+    },
+    "miho": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10139603,
+            "icon": "assets/skills/Tex_Skill_1013903.webp",
+            "name_tw": "傲慢一擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10139602,
+            "icon": "assets/skills/Tex_Skill_1013902.webp",
+            "name_tw": "殺戮之舞",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/miho.webp"
+      }
+    },
+    "nia": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10085603,
+            "icon": "assets/skills/Tex_Skill_1008503.webp",
+            "name_tw": "操控時間",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10085602,
+            "icon": "assets/skills/Tex_Skill_1008502.webp",
+            "name_tw": "100萬伏特",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/nia.webp"
+      }
+    },
+    "pascal": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10100603,
+            "icon": "assets/skills/Tex_Skill_1010003.webp",
+            "name_tw": "破壞的巨人",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10100602,
+            "icon": "assets/skills/Tex_Skill_1010004.webp",
+            "name_tw": "黑暗之門",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/pascal.webp"
+      }
+    },
+    "rook": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10089603,
+            "icon": "assets/skills/Tex_Skill_1008903.webp",
+            "name_tw": "鞏固陣型",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10089602,
+            "icon": "assets/skills/Tex_Skill_1008902.webp",
+            "name_tw": "標槍",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rook.webp"
+      }
+    },
+    "ruri": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10084603,
+            "icon": "assets/skills/Tex_Skill_1008403.webp",
+            "name_tw": "暴擊支援",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10084602,
+            "icon": "assets/skills/Tex_Skill_1008402.webp",
+            "name_tw": "近距離連射",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ruri.webp"
+      }
+    },
+    "shane": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10087603,
+            "icon": "assets/skills/Tex_Skill_1008703.webp",
+            "name_tw": "鬼斬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/shane.webp"
+      }
+    },
+    "sieg": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10088603,
+            "icon": "assets/skills/Tex_Skill_1008803.webp",
+            "name_tw": "解除封印！",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10088602,
+            "icon": "assets/skills/Tex_Skill_1008802.webp",
+            "name_tw": "爆裂粉碎！",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sieg.webp"
+      }
+    },
+    "taka": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10114603,
+            "icon": "assets/skills/Tex_Skill_1011403.webp",
+            "name_tw": "死亡之舞",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10114602,
+            "icon": "assets/skills/Tex_Skill_1011402.webp",
+            "name_tw": "風之刀刃",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/taka.webp"
+      }
+    },
+    "velika": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40081707,
+            "icon": "assets/skills/Tex_Skill_4008106.webp",
+            "name_tw": "魔女的陰影",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40081703,
+            "icon": "assets/skills/Tex_Skill_1008103.webp",
+            "name_tw": "黑暗火焰",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40081702,
+            "icon": "assets/skills/Tex_Skill_1008102.webp",
+            "name_tw": "隕石炸裂",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10081603,
+            "icon": "assets/skills/Tex_Skill_1008103.webp",
+            "name_tw": "黑暗火焰",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10081602,
+            "icon": "assets/skills/Tex_Skill_1008102.webp",
+            "name_tw": "隕石炸裂",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/velika-awakened.webp",
+        "s6": "assets/heroes/velika.webp"
+      }
+    },
+    "xiao-qiao": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10152603,
+            "icon": "assets/skills/Tex_Skill_1015203.webp",
+            "name_tw": "蝴蝶之夢",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10152602,
+            "icon": "assets/skills/Tex_Skill_1015202.webp",
+            "name_tw": "雨後春筍",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/xiao-qiao.webp"
+      }
+    },
+    "yu-shin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10069603,
+            "icon": "assets/skills/Tex_Skill_1006903.webp",
+            "name_tw": "無盡的煩惱",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10069602,
+            "icon": "assets/skills/Tex_Skill_1006902.webp",
+            "name_tw": "雷雲黑影狼",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/yu-shin.webp"
+      }
+    },
+    "ace": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10051603,
+            "icon": "assets/skills/Tex_Skill_1005103.webp",
+            "name_tw": "一刀千花葉",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10051602,
+            "icon": "assets/skills/Tex_Skill_1005102.webp",
+            "name_tw": "滿月斬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ace.webp"
+      }
+    },
+    "aquila": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10144603,
+            "icon": "assets/skills/Tex_Skill_1014403.webp",
+            "name_tw": "漆黑的帷幕",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10144602,
+            "icon": "assets/skills/Tex_Skill_1014402.webp",
+            "name_tw": "殘酷的暴風",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/aquila.webp"
+      }
+    },
+    "aris": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40182707,
+            "icon": "assets/skills/Tex_Skill_4018206.webp",
+            "name_tw": "危險的共存",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40182703,
+            "icon": "assets/skills/Tex_Skill_1018203.webp",
+            "name_tw": "狂龍震天鎚",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40182702,
+            "icon": "assets/skills/Tex_Skill_1018202.webp",
+            "name_tw": "狂龍撼地鎚",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10182603,
+            "icon": "assets/skills/Tex_Skill_1018203.webp",
+            "name_tw": "狂龍震天鎚",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10182602,
+            "icon": "assets/skills/Tex_Skill_1018202.webp",
+            "name_tw": "狂龍撼地鎚",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/aris-awakened.webp",
+        "s6": "assets/heroes/aris.webp"
+      }
+    },
+    "biscuit": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10110603,
+            "icon": "assets/skills/Tex_Skill_1011003.webp",
+            "name_tw": "跳躍攻擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10110602,
+            "icon": "assets/skills/Tex_Skill_1011002.webp",
+            "name_tw": "裝備強化",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/biscuit.webp"
+      }
+    },
+    "branze-bransel": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10145603,
+            "icon": "assets/skills/Tex_Skill_1014503.webp",
+            "name_tw": "救贖的一擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10145602,
+            "icon": "assets/skills/Tex_Skill_1014502.webp",
+            "name_tw": "怪力的搗亂",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/branze-bransel.webp"
+      }
+    },
+    "clemyth": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40179707,
+            "icon": "assets/skills/Tex_Skill_4017906.webp",
+            "name_tw": "救援之力",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40179703,
+            "icon": "assets/skills/Tex_Skill_1017903.webp",
+            "name_tw": "法則的調整",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40179702,
+            "icon": "assets/skills/Tex_Skill_1017902.webp",
+            "name_tw": "完美的陷阱",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10179603,
+            "icon": "assets/skills/Tex_Skill_1017903.webp",
+            "name_tw": "法則的調整",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10179602,
+            "icon": "assets/skills/Tex_Skill_1017902.webp",
+            "name_tw": "完美的陷阱",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/clemyth-awakened.webp",
+        "s6": "assets/heroes/clemyth.webp"
+      }
+    },
+    "colt": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10113603,
+            "icon": "assets/skills/Tex_Skill_1011303.webp",
+            "name_tw": "如何？華麗吧？",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10113602,
+            "icon": "assets/skills/Tex_Skill_1011302.webp",
+            "name_tw": "又快，又帥",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/colt.webp"
+      }
+    },
+    "dellons": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40058707,
+            "icon": "assets/skills/Tex_Skill_4005806.webp",
+            "name_tw": "破滅的掌力",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40058703,
+            "icon": "assets/skills/Tex_Skill_4005802.webp",
+            "name_tw": "死亡打擊",
+            "converts": false,
+            "converted_variants": [
+              {
+                "key": "s2",
+                "source_key": "ultimate",
+                "skill_group_id": 41058703,
+                "icon": "assets/skills/Tex_Skill_4005808.webp",
+                "name_tw": "死神亂舞",
+                "converts": true
+              }
+            ]
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40058702,
+            "icon": "assets/skills/Tex_Skill_4005803.webp",
+            "name_tw": "死神降臨",
+            "converts": false,
+            "converted_variants": [
+              {
+                "key": "s1",
+                "source_key": "s1",
+                "skill_group_id": 41058702,
+                "icon": "assets/skills/Tex_Skill_4005807.webp",
+                "name_tw": "死神的審判",
+                "converts": true
+              }
+            ]
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10058603,
+            "icon": "assets/skills/Tex_Skill_1005802.webp",
+            "name_tw": "死亡打擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10058602,
+            "icon": "assets/skills/Tex_Skill_1005803.webp",
+            "name_tw": "死神降臨",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/dellons-awakened.webp",
+        "s6": "assets/heroes/dellons.webp"
+      }
+    },
+    "dongyoung": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40189707,
+            "icon": "assets/skills/Tex_Skill_4018906.webp",
+            "name_tw": "必滅的宣告",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40189703,
+            "icon": "assets/skills/Tex_Skill_1018903.webp",
+            "name_tw": "深淵之手",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40189702,
+            "icon": "assets/skills/Tex_Skill_1018902.webp",
+            "name_tw": "黃泉的氣息",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10189603,
+            "icon": "assets/skills/Tex_Skill_1018903.webp",
+            "name_tw": "深淵之手",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10189602,
+            "icon": "assets/skills/Tex_Skill_1018902.webp",
+            "name_tw": "黃泉的氣息",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/dongyoung-awakened.webp",
+        "s6": "assets/heroes/dongyoung.webp"
+      }
+    },
+    "eileene": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40059707,
+            "icon": "assets/skills/Tex_Skill_4005906.webp",
+            "name_tw": "不滅的憤怒",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40059703,
+            "icon": "assets/skills/Tex_Skill_4005903.webp",
+            "name_tw": "晴天霹靂・眞",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40059702,
+            "icon": "assets/skills/Tex_Skill_4005902.webp",
+            "name_tw": "電光石火",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10059603,
+            "icon": "assets/skills/Tex_Skill_1005903.webp",
+            "name_tw": "晴天霹靂",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10059602,
+            "icon": "assets/skills/Tex_Skill_1005902.webp",
+            "name_tw": "雷帝的憤怒",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/eileene-awakened.webp",
+        "s6": "assets/heroes/eileene.webp"
+      }
+    },
+    "elysia": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10127603,
+            "icon": "assets/skills/Tex_Skill_1012703.webp",
+            "name_tw": "群星墜落",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10127602,
+            "icon": "assets/skills/Tex_Skill_1012702.webp",
+            "name_tw": "天空之光",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/elysia.webp"
+      }
+    },
+    "freyja": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10131603,
+            "icon": "assets/skills/Tex_Skill_1013103.webp",
+            "name_tw": "金色劍雨",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10131602,
+            "icon": "assets/skills/Tex_Skill_1013102.webp",
+            "name_tw": "高潔的秋風",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/freyja.webp"
+      }
+    },
+    "hayeon": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40188707,
+            "icon": "assets/skills/Tex_Skill_4018806.webp",
+            "name_tw": "奉天門",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40188703,
+            "icon": "assets/skills/Tex_Skill_1018803.webp",
+            "name_tw": "奉月門",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40188702,
+            "icon": "assets/skills/Tex_Skill_1018802.webp",
+            "name_tw": "鬼結縛",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10188603,
+            "icon": "assets/skills/Tex_Skill_1018803.webp",
+            "name_tw": "奉月門",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10188602,
+            "icon": "assets/skills/Tex_Skill_1018802.webp",
+            "name_tw": "鬼結縛",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/hayeon-awakened.webp",
+        "s6": "assets/heroes/hayeon.webp"
+      }
+    },
+    "jave": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10061603,
+            "icon": "assets/skills/Tex_Skill_1006103.webp",
+            "name_tw": "龍的憤怒",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10061602,
+            "icon": "assets/skills/Tex_Skill_1006102.webp",
+            "name_tw": "憤怒的一擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/jave.webp"
+      }
+    },
+    "kagura": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10138603,
+            "icon": "assets/skills/Tex_Skill_1013803.webp",
+            "name_tw": "解放－獵蛇",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10138602,
+            "icon": "assets/skills/Tex_Skill_1013802.webp",
+            "name_tw": "解放－八蛇劍",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/kagura.webp"
+      }
+    },
+    "karl-heron": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10178603,
+            "icon": "assets/skills/Tex_Skill_1017803.webp",
+            "name_tw": "晴天霹靂.改",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10178602,
+            "icon": "assets/skills/Tex_Skill_1017802.webp",
+            "name_tw": "雷光砲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/karl-heron.webp"
+      }
+    },
+    "karma": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10142603,
+            "icon": "assets/skills/Tex_Skill_1014203.webp",
+            "name_tw": "絕望的暴風",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10142602,
+            "icon": "assets/skills/Tex_Skill_1014202.webp",
+            "name_tw": "過失的火獄",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/karma.webp"
+      }
+    },
+    "klahan": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10137603,
+            "icon": "assets/skills/Tex_Skill_1013703.webp",
+            "name_tw": "疾風肆虐",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10137602,
+            "icon": "assets/skills/Tex_Skill_1013702.webp",
+            "name_tw": "飛虎旋風",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/klahan.webp"
+      }
+    },
+    "kris": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10057603,
+            "icon": "assets/skills/Tex_Skill_1005703.webp",
+            "name_tw": "黑暗的私語",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10057602,
+            "icon": "assets/skills/Tex_Skill_1005702.webp",
+            "name_tw": "黑暗的一擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/kris.webp"
+      }
+    },
+    "kyle": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10143603,
+            "icon": "assets/skills/Tex_Skill_1014303.webp",
+            "name_tw": "鐵鍊之墓",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10143602,
+            "icon": "assets/skills/Tex_Skill_1014302.webp",
+            "name_tw": "鐵鎖暴壓",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/kyle.webp"
+      }
+    },
+    "kyrielle": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10128603,
+            "icon": "assets/skills/Tex_Skill_1012803.webp",
+            "name_tw": "流星雨",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10128602,
+            "icon": "assets/skills/Tex_Skill_1012802.webp",
+            "name_tw": "獅子座",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/kyrielle.webp"
+      }
+    },
+    "lu-bu": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10148603,
+            "icon": "assets/skills/Tex_Skill_1014803.webp",
+            "name_tw": "赤兔疾風擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10148602,
+            "icon": "assets/skills/Tex_Skill_1014802.webp",
+            "name_tw": "血風碧波",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/lu-bu.webp"
+      }
+    },
+    "mercure": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10112603,
+            "icon": "assets/skills/Tex_Skill_1011203.webp",
+            "name_tw": "禁止的實驗",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10112602,
+            "icon": "assets/skills/Tex_Skill_1011202.webp",
+            "name_tw": "黑暗搶奪",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/mercure.webp"
+      }
+    },
+    "mist": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10172603,
+            "icon": "assets/skills/Tex_Skill_1017203.webp",
+            "name_tw": "死亡之霧",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10172602,
+            "icon": "assets/skills/Tex_Skill_1017202.webp",
+            "name_tw": "甦醒的野獸",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/mist.webp"
+      }
+    },
+    "nezha": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10156603,
+            "icon": "assets/skills/Tex_Skill_1015603.webp",
+            "name_tw": "渾天凌波",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10156602,
+            "icon": "assets/skills/Tex_Skill_1015602.webp",
+            "name_tw": "禍尖槍術",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/nezha.webp"
+      }
+    },
+    "omok": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10177603,
+            "icon": "assets/skills/Tex_Skill_1017703.webp",
+            "name_tw": "滿月箭車猛虎戰",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10177602,
+            "icon": "assets/skills/Tex_Skill_1017702.webp",
+            "name_tw": "猛虎的武道",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/omok.webp"
+      }
+    },
+    "orkah": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40180707,
+            "icon": "assets/skills/Tex_Skill_4018006.webp",
+            "name_tw": "最後通牒",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40180703,
+            "icon": "assets/skills/Tex_Skill_1018003.webp",
+            "name_tw": "無情的剝削",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40180702,
+            "icon": "assets/skills/Tex_Skill_1018002.webp",
+            "name_tw": "不公平交易",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10180603,
+            "icon": "assets/skills/Tex_Skill_1018003.webp",
+            "name_tw": "無情的剝削",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10180602,
+            "icon": "assets/skills/Tex_Skill_1018002.webp",
+            "name_tw": "不公平交易",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/orkah-awakened.webp",
+        "s6": "assets/heroes/orkah.webp"
+      }
+    },
+    "orly": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10126603,
+            "icon": "assets/skills/Tex_Skill_1012603.webp",
+            "name_tw": "閃雷之光",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10126602,
+            "icon": "assets/skills/Tex_Skill_1012602.webp",
+            "name_tw": "高潔的流星",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/orly.webp"
+      }
+    },
+    "pallanus": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10146603,
+            "icon": "assets/skills/Tex_Skill_1014603.webp",
+            "name_tw": "作戰名：殲滅",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10146602,
+            "icon": "assets/skills/Tex_Skill_1014602.webp",
+            "name_tw": "強硬的劍擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/pallanus.webp"
+      }
+    },
+    "platin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10054603,
+            "icon": "assets/skills/Tex_Skill_1005402.webp",
+            "name_tw": "異界之光",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10054602,
+            "icon": "assets/skills/Tex_Skill_1005403.webp",
+            "name_tw": "代理審判",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/platin.webp"
+      }
+    },
+    "rachel": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10060603,
+            "icon": "assets/skills/Tex_Skill_1006003.webp",
+            "name_tw": "鳳翼天翔",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10060602,
+            "icon": "assets/skills/Tex_Skill_1006002.webp",
+            "name_tw": "烈焰連襲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rachel.webp"
+      }
+    },
+    "radgrid": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10169603,
+            "icon": "assets/skills/Tex_Skill_1016903.webp",
+            "name_tw": "炸裂的蒼煙",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10169602,
+            "icon": "assets/skills/Tex_Skill_1016902.webp",
+            "name_tw": "戰矛之雨",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/radgrid.webp"
+      }
+    },
+    "randgrid": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10171603,
+            "icon": "assets/skills/Tex_Skill_1017103.webp",
+            "name_tw": "馬上的迅猛之槍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10171602,
+            "icon": "assets/skills/Tex_Skill_1017102.webp",
+            "name_tw": "約定的戰場",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/randgrid.webp"
+      }
+    },
+    "reginleif": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10170603,
+            "icon": "assets/skills/Tex_Skill_1017003.webp",
+            "name_tw": "宇宙的裂痕",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10170602,
+            "icon": "assets/skills/Tex_Skill_1017002.webp",
+            "name_tw": "光明的到來",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/reginleif.webp"
+      }
+    },
+    "rin": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10141603,
+            "icon": "assets/skills/Tex_Skill_1014103.webp",
+            "name_tw": "龍帝的震怒",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10141602,
+            "icon": "assets/skills/Tex_Skill_1014102.webp",
+            "name_tw": "龍臨城下",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rin.webp"
+      }
+    },
+    "rudy": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40056707,
+            "icon": "assets/skills/Tex_Skill_4005606.webp",
+            "name_tw": "光榮的審判",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40056703,
+            "icon": "assets/skills/Tex_Skill_4005603.webp",
+            "name_tw": "永恆的堡壘",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40056702,
+            "icon": "assets/skills/Tex_Skill_4005602.webp",
+            "name_tw": "譴責的劍擊",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10056603,
+            "icon": "assets/skills/Tex_Skill_1005603.webp",
+            "name_tw": "神聖庇護",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10056602,
+            "icon": "assets/skills/Tex_Skill_1005602.webp",
+            "name_tw": "制裁之劍",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/rudy-awakened.webp",
+        "s6": "assets/heroes/rudy.webp"
+      }
+    },
+    "ryan": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10129603,
+            "icon": "assets/skills/Tex_Skill_1012903.webp",
+            "name_tw": "狂風斬",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10129602,
+            "icon": "assets/skills/Tex_Skill_1012902.webp",
+            "name_tw": "強者狩獵",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/ryan.webp"
+      }
+    },
+    "silvesta": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40055707,
+            "icon": "assets/skills/Tex_Skill_4005506.webp",
+            "name_tw": "淨化的黑暗",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40055703,
+            "icon": "assets/skills/Tex_Skill_1005503.webp",
+            "name_tw": "再起的一擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40055702,
+            "icon": "assets/skills/Tex_Skill_1005502.webp",
+            "name_tw": "煩惱的判決",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10055603,
+            "icon": "assets/skills/Tex_Skill_1005503.webp",
+            "name_tw": "淨化的一擊",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10055602,
+            "icon": "assets/skills/Tex_Skill_1005502.webp",
+            "name_tw": "正義的斷罪",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/silvesta-awakened.webp",
+        "s6": "assets/heroes/silvesta.webp"
+      }
+    },
+    "skuld": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40168707,
+            "icon": "assets/skills/Tex_Skill_4016806.webp",
+            "name_tw": "天運的光輝",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40168703,
+            "icon": "assets/skills/Tex_Skill_1016803.webp",
+            "name_tw": "星座的秘密",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40168702,
+            "icon": "assets/skills/Tex_Skill_1016802.webp",
+            "name_tw": "閃亮!星座旅行",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10168603,
+            "icon": "assets/skills/Tex_Skill_1016803.webp",
+            "name_tw": "星座的秘密",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10168602,
+            "icon": "assets/skills/Tex_Skill_1016802.webp",
+            "name_tw": "閃亮!星座旅行",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/skuld-awakened.webp",
+        "s6": "assets/heroes/skuld.webp"
+      }
+    },
+    "spike": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10062603,
+            "icon": "assets/skills/Tex_Skill_1006203.webp",
+            "name_tw": "酷寒的地震",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10062602,
+            "icon": "assets/skills/Tex_Skill_1006202.webp",
+            "name_tw": "酷寒一擊",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/spike.webp"
+      }
+    },
+    "sun-wukong": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10147603,
+            "icon": "assets/skills/Tex_Skill_1014703.webp",
+            "name_tw": "如意亂斬舞",
+            "converts": false,
+            "converted_variants": [
+              {
+                "key": "s2",
+                "source_key": "ultimate",
+                "skill_group_id": 10147607,
+                "icon": "assets/skills/Tex_Skill_1014707.webp",
+                "name_tw": "幻ㆍ如意亂斬舞",
+                "converts": true
+              }
+            ]
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10147602,
+            "icon": "assets/skills/Tex_Skill_1014702.webp",
+            "name_tw": "勝利打擊",
+            "converts": false,
+            "converted_variants": [
+              {
+                "key": "s1",
+                "source_key": "s1",
+                "skill_group_id": 10147606,
+                "icon": "assets/skills/Tex_Skill_1014706.webp",
+                "name_tw": "幻ㆍ勝利打擊",
+                "converts": true
+              }
+            ]
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sun-wukong.webp"
+      }
+    },
+    "sung-jinwoo": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10173603,
+            "icon": "assets/skills/Tex_Skill_1017303.webp",
+            "name_tw": "召喚影子",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10173602,
+            "icon": "assets/skills/Tex_Skill_1017302.webp",
+            "name_tw": "魔槍連襲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/sung-jinwoo.webp"
+      }
+    },
+    "sunran": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40187707,
+            "icon": "assets/skills/Tex_Skill_4018706.webp",
+            "name_tw": "天劍",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40187703,
+            "icon": "assets/skills/Tex_Skill_1018703.webp",
+            "name_tw": "無影飛劍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40187702,
+            "icon": "assets/skills/Tex_Skill_1018702.webp",
+            "name_tw": "連環斬",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10187603,
+            "icon": "assets/skills/Tex_Skill_1018703.webp",
+            "name_tw": "無影飛劍",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10187602,
+            "icon": "assets/skills/Tex_Skill_1018702.webp",
+            "name_tw": "連環斬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/sunran-awakened.webp",
+        "s6": "assets/heroes/sunran.webp"
+      }
+    },
+    "teo": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10052603,
+            "icon": "assets/skills/Tex_Skill_1005203.webp",
+            "name_tw": "黑翼萬月斬",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10052602,
+            "icon": "assets/skills/Tex_Skill_1005202.webp",
+            "name_tw": "黑風斬",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/teo.webp"
+      }
+    },
+    "trude": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10130603,
+            "icon": "assets/skills/Tex_Skill_1013003.webp",
+            "name_tw": "玩玩吧！",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10130602,
+            "icon": "assets/skills/Tex_Skill_1013002.webp",
+            "name_tw": "一擊斃命！",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/trude.webp"
+      }
+    },
+    "vanessa": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10063603,
+            "icon": "assets/skills/Tex_Skill_1006303.webp",
+            "name_tw": "沙之海嘯",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10063602,
+            "icon": "assets/skills/Tex_Skill_1006302.webp",
+            "name_tw": "沙漠颶風",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/vanessa.webp"
+      }
+    },
+    "yeonhee": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10053603,
+            "icon": "assets/skills/Tex_Skill_1005303.webp",
+            "name_tw": "末日永眠",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10053602,
+            "icon": "assets/skills/Tex_Skill_1005302.webp",
+            "name_tw": "破壞的手勢",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/yeonhee.webp"
+      }
+    },
+    "yoongun": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40190707,
+            "icon": "assets/skills/Tex_Skill_4019006.webp",
+            "name_tw": "齊射",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40190703,
+            "icon": "assets/skills/Tex_Skill_1019003.webp",
+            "name_tw": "神速連射",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40190702,
+            "icon": "assets/skills/Tex_Skill_1019002.webp",
+            "name_tw": "十連子砲",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10190603,
+            "icon": "assets/skills/Tex_Skill_1019003.webp",
+            "name_tw": "神速連射",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10190602,
+            "icon": "assets/skills/Tex_Skill_1019002.webp",
+            "name_tw": "十連子砲",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/yoongun-awakened.webp",
+        "s6": "assets/heroes/yoongun.webp"
+      }
+    },
+    "giyu-tomioka": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40201707,
+            "icon": "assets/skills/Tex_Skill_4020106.webp",
+            "name_tw": "水之呼吸・拾壹之型・風平浪靜",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40201703,
+            "icon": "assets/skills/Tex_Skill_1020103.webp",
+            "name_tw": "水之呼吸・拾之型・生生流轉",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40201702,
+            "icon": "assets/skills/Tex_Skill_1020102.webp",
+            "name_tw": "水之呼吸・柒之型・雫波紋突刺",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10201603,
+            "icon": "assets/skills/Tex_Skill_1020103.webp",
+            "name_tw": "水之呼吸・拾之型・生生流轉",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10201602,
+            "icon": "assets/skills/Tex_Skill_1020102.webp",
+            "name_tw": "水之呼吸・柒之型・雫波紋突刺",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/giyu-tomioka-awakened.webp",
+        "s6": "assets/heroes/giyu-tomioka.webp"
+      }
+    },
+    "shinobu-kocho": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40200707,
+            "icon": "assets/skills/Tex_Skill_4020006.webp",
+            "name_tw": "蟲之呼吸・蜈蚣之舞・百足蛇腹",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40200703,
+            "icon": "assets/skills/Tex_Skill_1020003.webp",
+            "name_tw": "蟲之呼吸・蜻蜓之舞・複眼六角",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40200702,
+            "icon": "assets/skills/Tex_Skill_1020002.webp",
+            "name_tw": "蟲之呼吸・蜂牙之舞・真靡",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10200603,
+            "icon": "assets/skills/Tex_Skill_1020003.webp",
+            "name_tw": "蟲之呼吸・蜻蜓之舞・複眼六角",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10200602,
+            "icon": "assets/skills/Tex_Skill_1020002.webp",
+            "name_tw": "蟲之呼吸・蜂牙之舞・真靡",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/shinobu-kocho-awakened.webp",
+        "s6": "assets/heroes/shinobu-kocho.webp"
+      }
+    },
+    "tanjiro-kamado": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40198707,
+            "icon": "assets/skills/Tex_Skill_4019806.webp",
+            "name_tw": "火神神樂・斜陽轉身",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40198703,
+            "icon": "assets/skills/Tex_Skill_1019803.webp",
+            "name_tw": "火神神樂・圓舞一閃",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40198702,
+            "icon": "assets/skills/Tex_Skill_1019802.webp",
+            "name_tw": "火神神樂・圓舞",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10198603,
+            "icon": "assets/skills/Tex_Skill_1019803.webp",
+            "name_tw": "火神神樂・圓舞一閃",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10198602,
+            "icon": "assets/skills/Tex_Skill_1019802.webp",
+            "name_tw": "火神神樂・圓舞",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/tanjiro-kamado-awakened.webp",
+        "s6": "assets/heroes/tanjiro-kamado.webp"
+      }
+    },
+    "zenitsu-agatsuma": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40199707,
+            "icon": "assets/skills/Tex_Skill_4019906.webp",
+            "name_tw": "雷之呼吸・柒之型・火雷神",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40199703,
+            "icon": "assets/skills/Tex_Skill_1019903.webp",
+            "name_tw": "雷之呼吸・壹之型・霹靂一閃・八連",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40199702,
+            "icon": "assets/skills/Tex_Skill_1019902.webp",
+            "name_tw": "雷之呼吸・壹之型・霹靂一閃",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10199603,
+            "icon": "assets/skills/Tex_Skill_1019903.webp",
+            "name_tw": "雷之呼吸・壹之型・霹靂一閃・八連",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10199602,
+            "icon": "assets/skills/Tex_Skill_1019902.webp",
+            "name_tw": "雷之呼吸・壹之型・霹靂一閃",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/zenitsu-agatsuma-awakened.webp",
+        "s6": "assets/heroes/zenitsu-agatsuma.webp"
+      }
+    },
+    "judas": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40204707,
+            "icon": "assets/skills/Tex_Skill_4020406.webp",
+            "name_tw": "審判之日",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40204703,
+            "icon": "assets/skills/Tex_Skill_1020403.webp",
+            "name_tw": "最後的權位",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40204702,
+            "icon": "assets/skills/Tex_Skill_1020402.webp",
+            "name_tw": "破滅的漩渦",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10204603,
+            "icon": "assets/skills/Tex_Skill_1020403.webp",
+            "name_tw": "最後的權位",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10204602,
+            "icon": "assets/skills/Tex_Skill_1020402.webp",
+            "name_tw": "破滅的漩渦",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/judas-awakened.webp",
+        "s6": "assets/heroes/judas.webp"
+      }
+    },
+    "eve": {
+      "forms": {
+        "awakened": [
+          {
+            "key": "awakened",
+            "source_key": "awakened",
+            "skill_group_id": 40206707,
+            "icon": "assets/skills/Tex_Skill_4020606.webp",
+            "name_tw": "悲願的舞蹈",
+            "converts": false
+          },
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 40206703,
+            "icon": "assets/skills/Tex_Skill_1020603.webp",
+            "name_tw": "專屬於兩人的樂園",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 40206702,
+            "icon": "assets/skills/Tex_Skill_1020602.webp",
+            "name_tw": "創生的時間",
+            "converts": false
+          }
+        ],
+        "s6": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10206603,
+            "icon": "assets/skills/Tex_Skill_1020603.webp",
+            "name_tw": "專屬於兩人的樂園",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10206602,
+            "icon": "assets/skills/Tex_Skill_1020602.webp",
+            "name_tw": "創生的時間",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "awakened": "assets/skill-portraits/eve-awakened.webp",
+        "s6": "assets/heroes/eve.webp"
+      }
+    },
+    "fai": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10121603,
+            "icon": "assets/skills/Tex_Skill_1012103.webp",
+            "name_tw": "炎王龍的表演",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10121602,
+            "icon": "assets/skills/Tex_Skill_1012102.webp",
+            "name_tw": "阿格尼之槍",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/fai.webp"
+      }
+    },
+    "gelidus": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10119603,
+            "icon": "assets/skills/Tex_Skill_1011903.webp",
+            "name_tw": "蒼穹的霸王",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10119602,
+            "icon": "assets/skills/Tex_Skill_1011902.webp",
+            "name_tw": "霸王的記憶",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/gelidus.webp"
+      }
+    },
+    "juri": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10125603,
+            "icon": "assets/skills/Tex_Skill_1012503.webp",
+            "name_tw": "最高判決",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10125602,
+            "icon": "assets/skills/Tex_Skill_1012502.webp",
+            "name_tw": "天界的審判",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/juri.webp"
+      }
+    },
+    "melia": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10120603,
+            "icon": "assets/skills/Tex_Skill_1012003.webp",
+            "name_tw": "水晶的氣息",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10120602,
+            "icon": "assets/skills/Tex_Skill_1012002.webp",
+            "name_tw": "水晶龍的鏡子",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/melia.webp"
+      }
+    },
+    "rosie": {
+      "forms": {
+        "source_default": [
+          {
+            "key": "s2",
+            "source_key": "ultimate",
+            "skill_group_id": 10122603,
+            "icon": "assets/skills/Tex_Skill_1012203.webp",
+            "name_tw": "聖靈的祈禱",
+            "converts": false
+          },
+          {
+            "key": "s1",
+            "source_key": "s1",
+            "skill_group_id": 10122602,
+            "icon": "assets/skills/Tex_Skill_1012202.webp",
+            "name_tw": "月光的審判",
+            "converts": false
+          }
+        ]
+      },
+      "portraits": {
+        "source_default": "assets/heroes/rosie.webp"
+      }
+    }
+  }
+}
