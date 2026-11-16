@@ -2,9 +2,9 @@
 
 ## 手機直接查詢
 
-**[開啟七騎士公會戰出刀助手](https://seven-knights-guildwar-mobile.nurturingfly2.chatgpt.site)**
+**[開啟七騎士公會戰出刀助手](https://dong811205.github.io/seven-knights-guildwar/)**
 
-手機與電腦皆可使用；目前為私人網站，使用擁有者的ChatGPT帳號開啟。
+手機與電腦皆可直接開啟的公開網站，無需登入。
 
 - 選擇敵方三名角色，查詢來源有利作業。
 - 核對站位、覺醒狀態、寵物、技能預約與配裝。
